@@ -18,12 +18,13 @@
         "track_url": "https://open.spotify.com/track/5ulkVxGCyEGYquP9pnpijX?si=e21fcf25cf944fdf"
     },
     {
-        "track_name": "La faille",
+        "track_name": "Sing (feat. Nekfeu)",
         "track_artists": [
-            "Jul"
+            "Ed Sheeran",
+            "Nekfeu"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273bd27d89f43436a6487849fb3",
-        "track_preview": "https://p.scdn.co/mp3-preview/afb86be4620091f136a68f203bffac3c3cdbddc1?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/4F1fVi7f1h1fN4FrwoyWMa?si=c75e27a7c0724cd1"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273fa7ec622049ccad62c61ef01",
+        "track_preview": "https://p.scdn.co/mp3-preview/5037e054655b897c5aeddedd94c96b33a0bc19e0?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/0ZURcm6ialyGoRVH81fq42?si=d8d2f9da8214426b"
     }
 ]
