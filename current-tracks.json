@@ -1,31 +1,30 @@
 [
     {
-        "track_name": "Dystopia",
+        "track_name": "Do you Feel Like I do?",
         "track_artists": [
-            "S.Pri Noir"
+            "Another Chemical Love Story",
+            "Elliot Adamson"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2738102c807432b7b63d7b9c3dd",
-        "track_preview": "https://p.scdn.co/mp3-preview/3a12dbc1b614338ba86d120258c0a00cea1d6e95?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/intl-fr/track/313lZy40kFFj0nQyxOaQ9x?si=2cb808bb7c6a4e06"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2733623004f744c8a6c8280959a",
+        "track_preview": "https://p.scdn.co/mp3-preview/65720109c4d133096949a956c685a0c7c4f003bf?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/intl-fr/track/5xbKD51JPTqbqLjWnvmnmF?si=a18119af636647ed"
     },
     {
-        "track_name": "Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series",
+        "track_name": "back to the moon",
         "track_artists": [
-            "The Weeknd",
-            "Playboi Carti",
-            "Madonna"
+            "Gunna"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2734c8f092adc59b4bf4212389d",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273017d5e26552345c4b1575b6c",
+        "track_preview": "https://p.scdn.co/mp3-preview/9013854707df2a8a7808764a4037b4f94d8f78c3?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/intl-fr/track/3OGCNLxpBmTYRxPZg2yDE5?si=9a281313f4c6490b"
+    },
+    {
+        "track_name": "BB PART.3",
+        "track_artists": [
+            "Green Montana"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b5d4df0dfde4096c15ce1d64",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/intl-fr/track/6WzRpISELf3YglGAh7TXcG?si=0a8f39eac89a4063"
-    },
-    {
-        "track_name": "Grands ensembles",
-        "track_artists": [
-            "Ninho"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27318d7aeed9b54d67eb3f65e44",
-        "track_preview": "https://p.scdn.co/mp3-preview/92b82077fe88bfc0c4e41ddd4790d08be2f1a52f?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/intl-fr/track/6RUa5XeeFLPA0pCfHdILTJ?si=c20e3376f80b497e"
+        "track_url": "https://open.spotify.com/intl-fr/track/16RmkCSgGWL1m6Errn4BrZ?si=625a6fe0c7a749b8"
     }
 ]
