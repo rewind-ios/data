@@ -1,30 +1,31 @@
 [
     {
-        "track_name": "AVM",
+        "track_name": "Vie de star (feat. Ninho)",
         "track_artists": [
-            "YG Pablo"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f2bc930f4eaa58d1c5618c49",
-        "track_preview": "https://p.scdn.co/mp3-preview/3fd0561e990aff4954257bcda86f3186f2aa9725?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/3SmVGTMCmarY5aMkPRQWGD"
-    },
-    {
-        "track_name": "Portes Suicide",
-        "track_artists": [
-            "Dinos",
+            "Leto",
             "Ninho"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273af09d950d28e289163448ab5",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/6ZcKyt3c0bnJjn4igDFrzf"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273fae2b43499f027c7fe43474f",
+        "track_preview": "https://p.scdn.co/mp3-preview/0ed9e8f83c2b628c1836f6c1b4c25d360f67e334?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/7toL2moA2sVueHJKDhVD0n"
     },
     {
-        "track_name": "Illimit\u00e9",
+        "track_name": "FUM22 NOCIVE",
         "track_artists": [
-            "Kaaris"
+            "Green Montana"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27334f64fb78e146d724b8c09f8",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b5d4df0dfde4096c15ce1d64",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/5yz2Yv8FHiXZr4uxsiviWr"
+        "track_url": "https://open.spotify.com/track/3v9eCrcYmTjYjy68TWHj5b"
+    },
+    {
+        "track_name": "BURNING MAN (feat. Lomepal)",
+        "track_artists": [
+            "Laylow",
+            "Lomepal"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2738a4869eaf9f003ab73df0ec2",
+        "track_preview": "https://p.scdn.co/mp3-preview/997e0e9d4d4822fa33c254b05b00b55e60a462e6?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/4oyie5DzQjSNndZ5OA1Ulx"
     }
 ]
