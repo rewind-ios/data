@@ -1,31 +1,30 @@
 [
     {
-        "track_name": "FLEURS (feat. Tiakola)",
+        "track_name": "Elle est belle",
         "track_artists": [
-            "Gazo",
-            "Tiakola"
+            "FFERDY",
+            "Joyce"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273765b01901c10003211f8554d",
-        "track_preview": "https://p.scdn.co/mp3-preview/c71f213c61d73bb1d83921c25570e66122f26831?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/0i9RysNKssk6syOrKDX3U2"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273e1d2fb198ab21bfec9da2a8a",
+        "track_preview": "https://p.scdn.co/mp3-preview/53edea798d35983b795a9b81dc2738876d95c0f6?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/50v53H6f7a5dRmsTSMMpa3"
     },
     {
-        "track_name": "Midi dans le ghetto",
+        "track_name": "Sans peine",
         "track_artists": [
-            "4Keus Gang",
             "Ninho"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27311c08f064b61ca1e803cfa3b",
-        "track_preview": "https://p.scdn.co/mp3-preview/21cb9ab8d62a4fa837c003a04b08c456bd6fd17f?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/5IJMvv7hx6Exji7gaXjXWd"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2733f12b172c90b9fe9232f38d0",
+        "track_preview": "https://p.scdn.co/mp3-preview/7ed8df9aa808f4c86f82d623464e7b3dc35c1b5c?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/4smLSyGtyNJLPb9J1Iuwsb"
     },
     {
-        "track_name": "Trahison",
+        "track_name": "J'picole",
         "track_artists": [
-            "L2B"
+            "Sasso"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27331db70f74dcb0c1e316df382",
-        "track_preview": "https://p.scdn.co/mp3-preview/cc0d318812cf9b44956aa8a5e143f886a6ca77dd?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/4GN9jqmJomU1y1Vjy8Xn38"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2738fc8b4a8e9f27761eca85291",
+        "track_preview": "https://p.scdn.co/mp3-preview/4e09e67af5dbb173ead710481f9a835669957fbe?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3DIYanBth8SOpko0IIB5CD"
     }
 ]
