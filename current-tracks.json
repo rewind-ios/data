@@ -1,29 +1,31 @@
 [
     {
-        "track_name": "mac lesggy",
+        "track_name": "RE-45 (feat. Wit.)",
         "track_artists": [
-            "nelick"
+            "Dioscures",
+            "Wit."
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ae7b1749a0a0fcb48fd6ec13",
-        "track_preview": "https://p.scdn.co/mp3-preview/41f8a43fdd90f1bfbaf8f62006054553cae92f13?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/533jc6G8ZFbHKUg6ZrZlWo"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b1a877b97c0f81712660e3a7",
+        "track_preview": "https://p.scdn.co/mp3-preview/e88dafc66aef95391af8d2e70ef4a7c284a1cd85?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/14ROF9YTXbKAyXActHFyaH"
     },
     {
-        "track_name": "POISON",
+        "track_name": "asocial.",
         "track_artists": [
-            "1PLIK\u00c9140"
+            "Luni"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27335203fb4218b084a85b99062",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27304347e33e70eecf4621ef377",
+        "track_preview": "https://p.scdn.co/mp3-preview/f9d1a4be5f3e4dc77e6dde59df1ed8be47739346?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/4398lBPwN8jweJ1upNZ7Nb"
+    },
+    {
+        "track_name": "Mecs de cit\u00e9s",
+        "track_artists": [
+            "Sifax",
+            "Sofiane"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273c2d2ae17b769a645cfe3cc88",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/4NfptP9VQFZWAiVvyPZhzG"
-    },
-    {
-        "track_name": "Des nuages \u00e0 la terre",
-        "track_artists": [
-            "EDGE"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27354a6cdfbdc7a0e77b99abf75",
-        "track_preview": "https://p.scdn.co/mp3-preview/48d84205b7fa7d26cd16ea10fcbaa71fcd4d0ac8?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/78S9QjKKsKDFy2R7pYFv5G"
+        "track_url": "https://open.spotify.com/track/1kIR5FC7281XPonENALvzb"
     }
 ]
