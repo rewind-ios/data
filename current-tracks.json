@@ -1,29 +1,31 @@
 [
     {
-        "track_name": "Filon",
+        "track_name": "FLEURS (feat. Tiakola)",
         "track_artists": [
+            "Gazo",
+            "Tiakola"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273765b01901c10003211f8554d",
+        "track_preview": "https://p.scdn.co/mp3-preview/c71f213c61d73bb1d83921c25570e66122f26831?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/0i9RysNKssk6syOrKDX3U2"
+    },
+    {
+        "track_name": "Midi dans le ghetto",
+        "track_artists": [
+            "4Keus Gang",
             "Ninho"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273c8e0d481bba8b6c47e1a54f2",
-        "track_preview": "https://p.scdn.co/mp3-preview/69b733922e5ee253d8e7d13b798f8da7642bdcb3?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/intl-fr/track/0AvrSFPS8mN8OjUNCwemwa?si=e067ae8fac894ad7"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27311c08f064b61ca1e803cfa3b",
+        "track_preview": "https://p.scdn.co/mp3-preview/21cb9ab8d62a4fa837c003a04b08c456bd6fd17f?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/5IJMvv7hx6Exji7gaXjXWd"
     },
     {
-        "track_name": "back to the moon",
+        "track_name": "Trahison",
         "track_artists": [
-            "Gunna"
+            "L2B"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273017d5e26552345c4b1575b6c",
-        "track_preview": "https://p.scdn.co/mp3-preview/9013854707df2a8a7808764a4037b4f94d8f78c3?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/intl-fr/track/3OGCNLxpBmTYRxPZg2yDE5?si=9a281313f4c6490b"
-    },
-    {
-        "track_name": "SUN7",
-        "track_artists": [
-            "HOUDI"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2731d8eb26edc531e5b8631ffb9",
-        "track_preview": "https://p.scdn.co/mp3-preview/3f6b6c064ca5adb9a27c0e94a1f4651e24e529a7?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/intl-fr/track/3fRGuva8aZ9FvESJVhnKae?si=a74f74f4514e41e5"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27331db70f74dcb0c1e316df382",
+        "track_preview": "https://p.scdn.co/mp3-preview/cc0d318812cf9b44956aa8a5e143f886a6ca77dd?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/4GN9jqmJomU1y1Vjy8Xn38"
     }
 ]
