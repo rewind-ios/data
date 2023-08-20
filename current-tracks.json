@@ -1,29 +1,29 @@
 [
     {
-        "track_name": "LE 12 \u00c8ME",
+        "track_name": "I need my music!",
         "track_artists": [
-            "HOUDI"
+            "DJU DJU"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273c652da07b9d720bb4f786565",
-        "track_preview": "https://p.scdn.co/mp3-preview/dc70979d7e8d8269ec803a4e0a083e3f8363b263?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/4cjSi8h6hpjyKbYHYQFcNI"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27387f82b040729338ca3446c17",
+        "track_preview": "https://p.scdn.co/mp3-preview/529dd95c954b332291daec1598cc9b290e960412?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/73wlhFwM7B5Kzg1sI0euhg"
     },
     {
-        "track_name": "Shanghai",
+        "track_name": "Thief",
         "track_artists": [
-            "Alpha Wann"
+            "Tom Jay"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f9f4c20d531f99312ed5de45",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273e73503f93d24df82742d1425",
+        "track_preview": "https://p.scdn.co/mp3-preview/afafcad82f65435bbe3e53209121648e9c28d05d?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/64Gob2Wa4O6SMpGFFgXTHD"
+    },
+    {
+        "track_name": "Every Morning, Every Night - Edit",
+        "track_artists": [
+            "Dj Streaks"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273bbe6537c2bcf82e9ef1c0215",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/0fzH3vWTNTdapCmaRYMSAs"
-    },
-    {
-        "track_name": "Richesse",
-        "track_artists": [
-            "Swing"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ec9743f8de6796134bc90846",
-        "track_preview": "https://p.scdn.co/mp3-preview/f5776919b50b316300a052b83f46c76afce9e64b?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/2jBw2uEsWvhpIWaCvU7fLs"
+        "track_url": "https://open.spotify.com/track/0DpXKO7TKtaUwAPzxGYyOt"
     }
 ]
