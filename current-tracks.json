@@ -1,29 +1,33 @@
 [
     {
-        "track_name": "Saint-Domingue",
+        "track_name": "STEP BY STEP",
         "track_artists": [
-            "Alpha Wann"
+            "BEN.C",
+            "Sullyencore",
+            "AMBIVALENCE\u00ae"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f9f4c20d531f99312ed5de45",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/7z9wWQNccfYfMPDp5zFZNL"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273abc0f4a6b5b4af6c29e510b7",
+        "track_preview": "https://p.scdn.co/mp3-preview/73d5e36dd5b47858d7493c8e2e40479fcd347a6a?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3FFhQ4gQUxN7cluSq1xoMn"
     },
     {
-        "track_name": "Je n'ai pas que des potes",
+        "track_name": "Richesse",
         "track_artists": [
-            "Jul"
+            "Swing"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2739879c5ad3be7b14dbc0d8fea",
-        "track_preview": "https://p.scdn.co/mp3-preview/687169af185a429384ddbdeb1989bdcc2995f57d?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/70MrRXJfGbZz4D5YFLpWpm"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ec9743f8de6796134bc90846",
+        "track_preview": "https://p.scdn.co/mp3-preview/f5776919b50b316300a052b83f46c76afce9e64b?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/2jBw2uEsWvhpIWaCvU7fLs"
     },
     {
-        "track_name": "Inconv\u00e9nients",
+        "track_name": "Infrarouge",
         "track_artists": [
-            "JeanJass"
+            "Loveni",
+            "Myth Syzer",
+            "PH Trigano"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273978be0819ec62d09c7475355",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/6aGFfe0POYVl1YevIjqn68"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27367c45a0b403f784516b94b41",
+        "track_preview": "https://p.scdn.co/mp3-preview/98fef1f97346d63497f9699173d5a2ecd39dc0c8?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/64DUKhI4NQitbqhj0iT5pz"
     }
 ]
