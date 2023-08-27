@@ -1,30 +1,32 @@
 [
     {
-        "track_name": "Skin",
+        "track_name": "11H (feat. Ninho)",
         "track_artists": [
-            "DELACOUR"
+            "Lamatrix",
+            "Ninho"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27314bd7d06517449dce5e75ff8",
-        "track_preview": "https://p.scdn.co/mp3-preview/a5c3692da4e1d28367d1d19e95c8b3dfd6db3c56?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/51HYQIRG5Gmuqqbo3hUNhf"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273edaa9eb872e07737ccba4ebe",
+        "track_preview": "https://p.scdn.co/mp3-preview/6928f63811e627bd6dc190f73f9d1167f7773a6d?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/5Qbd9YziMwiyLELt3cGSf5"
     },
     {
-        "track_name": "Moves - House Mix",
+        "track_name": "Le bouton",
         "track_artists": [
-            "Cody Currie",
-            "Eliza Rose"
+            "Jul"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273329de2e12c010aa58743b48f",
-        "track_preview": "https://p.scdn.co/mp3-preview/67612e87ac24656acc041be059748e29dac0e04b?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/710TIg43hvgf6NVdFiK2Eo"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2739879c5ad3be7b14dbc0d8fea",
+        "track_preview": "https://p.scdn.co/mp3-preview/5492814ccf3cb11b732026d79b4889958d970aa0?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/5woXULngEdyMvrNIPE2fbx"
     },
     {
-        "track_name": "Overtime",
+        "track_name": "larousse (feat. NeS & Wallace Cleaver)",
         "track_artists": [
-            "JADED"
+            "Mairo",
+            "Wallace Cleaver",
+            "NeS"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273df1f068eeb965f74f416c2b2",
-        "track_preview": "https://p.scdn.co/mp3-preview/c0f33514fac81ce480aa2a3f53032243aa8213f8?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/3hOWWujfSbRwkxgpW1WXYy"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2739127367ad406522575a673d5",
+        "track_preview": "https://p.scdn.co/mp3-preview/5ec543237c5be16b64e4e95229ceb9f1ec11c321?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/5jrwu5b10cc5JRHR8jYDfa"
     }
 ]
