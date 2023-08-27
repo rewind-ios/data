@@ -1,30 +1,31 @@
 [
     {
-        "track_name": "Excuse My French",
+        "track_name": "CALCULS",
         "track_artists": [
-            "L'Alg\u00e9rino",
-            "Franglish"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27335b08f60c557857fad1f271d",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/5eT22bKcJa1mjtSFfqZfKa"
-    },
-    {
-        "track_name": "Saint-Domingue",
-        "track_artists": [
-            "Alpha Wann"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f9f4c20d531f99312ed5de45",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/7z9wWQNccfYfMPDp5zFZNL"
-    },
-    {
-        "track_name": "13 BALLES (interlude)",
-        "track_artists": [
+            "Stony Stone",
             "HOUDI"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f91050dc1a36727bd63321c8",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273da224d346a4364f17b09a1e3",
+        "track_preview": "https://p.scdn.co/mp3-preview/f4da869534491d178bf3f2bcde6f7cf42d32ab4e?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/0rqHIPVpP6y6BqXLLh3Iiv"
+    },
+    {
+        "track_name": "Le Six",
+        "track_artists": [
+            "JeanJass",
+            "Fuku"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273978be0819ec62d09c7475355",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/1qKuOxuC8zUC4Ba9KjNVGs"
+        "track_url": "https://open.spotify.com/track/0l4a9oxmjCwwhQo2p7ptxR"
+    },
+    {
+        "track_name": "DLM",
+        "track_artists": [
+            "SAF"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273d169d3d03776ee3a8bb864a9",
+        "track_preview": "https://p.scdn.co/mp3-preview/38bc05c9fee26b405825416d1f9186ea0ed6c025?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3QK7qLFOyDr5ztdGut3LFY"
     }
 ]
