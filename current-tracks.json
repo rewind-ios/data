@@ -1,31 +1,30 @@
 [
     {
-        "track_name": "CALCULS",
+        "track_name": "Courchevel",
         "track_artists": [
-            "Stony Stone",
-            "HOUDI"
+            "Alpha Wann",
+            "K.S.A"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273da224d346a4364f17b09a1e3",
-        "track_preview": "https://p.scdn.co/mp3-preview/f4da869534491d178bf3f2bcde6f7cf42d32ab4e?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/0rqHIPVpP6y6BqXLLh3Iiv"
-    },
-    {
-        "track_name": "Le Six",
-        "track_artists": [
-            "JeanJass",
-            "Fuku"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273978be0819ec62d09c7475355",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f9f4c20d531f99312ed5de45",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/0l4a9oxmjCwwhQo2p7ptxR"
+        "track_url": "https://open.spotify.com/track/2vtMTIz6XRv4dyweZQ3hQL"
     },
     {
-        "track_name": "DLM",
+        "track_name": "Dix",
         "track_artists": [
-            "SAF"
+            "Enfantdepauvres"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273d169d3d03776ee3a8bb864a9",
-        "track_preview": "https://p.scdn.co/mp3-preview/38bc05c9fee26b405825416d1f9186ea0ed6c025?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/3QK7qLFOyDr5ztdGut3LFY"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2738128397a233e51e425903514",
+        "track_preview": "https://p.scdn.co/mp3-preview/e3911b3b7f28b9dd7e7259dd4f839c298faa69d9?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/1NhlfC3nFWSVWJuln1Ri7E"
+    },
+    {
+        "track_name": "Verre de col-al",
+        "track_artists": [
+            "Chily"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b914a6286bc39e2bf9070b74",
+        "track_preview": "https://p.scdn.co/mp3-preview/753789c663f9fc44b6e0ce648db7181f0bb81606?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/5mDaOrUKqvHbFkginCwXz2"
     }
 ]
