@@ -1,32 +1,30 @@
 [
     {
-        "track_name": "11H (feat. Ninho)",
+        "track_name": "B&B",
         "track_artists": [
-            "Lamatrix",
-            "Ninho"
+            "HOUDI"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273edaa9eb872e07737ccba4ebe",
-        "track_preview": "https://p.scdn.co/mp3-preview/6928f63811e627bd6dc190f73f9d1167f7773a6d?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/5Qbd9YziMwiyLELt3cGSf5"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273e5968b186ca0926b5984c574",
+        "track_preview": "https://p.scdn.co/mp3-preview/90a911076e98df070298ff2204a21999e1a6fb34?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/658YWBNhcV1bhsoDtjVgqT"
     },
     {
-        "track_name": "Le bouton",
+        "track_name": "WAV",
         "track_artists": [
-            "Jul"
+            "Morph\u00e9e"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2739879c5ad3be7b14dbc0d8fea",
-        "track_preview": "https://p.scdn.co/mp3-preview/5492814ccf3cb11b732026d79b4889958d970aa0?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/5woXULngEdyMvrNIPE2fbx"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2738d6d5f0ebc58d7f40e72463e",
+        "track_preview": "https://p.scdn.co/mp3-preview/1ba08f5763160c1e2af9884cd68429db9e4cd051?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/361lEaq9tm1iV4gkVHpBw2"
     },
     {
-        "track_name": "larousse (feat. NeS & Wallace Cleaver)",
+        "track_name": "7/7",
         "track_artists": [
-            "Mairo",
-            "Wallace Cleaver",
-            "NeS"
+            "EDGE",
+            "Ratu$"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2739127367ad406522575a673d5",
-        "track_preview": "https://p.scdn.co/mp3-preview/5ec543237c5be16b64e4e95229ceb9f1ec11c321?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/5jrwu5b10cc5JRHR8jYDfa"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2733fe09aaa46e497fb24ea59ba",
+        "track_preview": "https://p.scdn.co/mp3-preview/5f8a78ae9afdb701395532b02e31342d9dfc0f46?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/2NzDYykip9eQTi6Xyu83DX"
     }
 ]
