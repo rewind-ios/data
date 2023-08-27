@@ -1,30 +1,30 @@
 [
     {
-        "track_name": "B&B",
+        "track_name": "Excuse My French",
+        "track_artists": [
+            "L'Alg\u00e9rino",
+            "Franglish"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27335b08f60c557857fad1f271d",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/5eT22bKcJa1mjtSFfqZfKa"
+    },
+    {
+        "track_name": "Saint-Domingue",
+        "track_artists": [
+            "Alpha Wann"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f9f4c20d531f99312ed5de45",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/7z9wWQNccfYfMPDp5zFZNL"
+    },
+    {
+        "track_name": "13 BALLES (interlude)",
         "track_artists": [
             "HOUDI"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273e5968b186ca0926b5984c574",
-        "track_preview": "https://p.scdn.co/mp3-preview/90a911076e98df070298ff2204a21999e1a6fb34?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/658YWBNhcV1bhsoDtjVgqT"
-    },
-    {
-        "track_name": "WAV",
-        "track_artists": [
-            "Morph\u00e9e"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2738d6d5f0ebc58d7f40e72463e",
-        "track_preview": "https://p.scdn.co/mp3-preview/1ba08f5763160c1e2af9884cd68429db9e4cd051?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/361lEaq9tm1iV4gkVHpBw2"
-    },
-    {
-        "track_name": "7/7",
-        "track_artists": [
-            "EDGE",
-            "Ratu$"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2733fe09aaa46e497fb24ea59ba",
-        "track_preview": "https://p.scdn.co/mp3-preview/5f8a78ae9afdb701395532b02e31342d9dfc0f46?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/2NzDYykip9eQTi6Xyu83DX"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f91050dc1a36727bd63321c8",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/1qKuOxuC8zUC4Ba9KjNVGs"
     }
 ]
