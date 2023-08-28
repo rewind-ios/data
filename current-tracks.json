@@ -1,32 +1,31 @@
 [
     {
-        "track_name": "Gogo Gadget",
+        "track_name": "A TON AVIS (feat. Hamza)",
         "track_artists": [
-            "1863",
-            "Alkakris",
-            "Andy Luidje"
+            "Oldpee",
+            "Hamza"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273699a9d40d29ed7ebcf8b3873",
-        "track_preview": "https://p.scdn.co/mp3-preview/2d3d0d08187ae4b6764cc96c027d39d0a3bf4cd0?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/2GdNCzFnb56mZQ0KWHPQqG"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27397148fef3855feaa101f4faf",
+        "track_preview": "https://p.scdn.co/mp3-preview/d9b1ecb1820e4c477aa0a5bed6faf362553cc9b5?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/5c3xHofWxukyKgXbxi5HXi"
     },
     {
-        "track_name": "JOUEURS DE SEX",
+        "track_name": "Bae",
         "track_artists": [
-            "Gemen",
-            "HOUDI"
+            "Caballero & JeanJass",
+            "Hamza"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273edc598e4c9198f4c81290a44",
-        "track_preview": "https://p.scdn.co/mp3-preview/b27c34789e2f1770714fd827bf9e6e2ed3dc395c?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6TqedkssTx6kT29vNs7VVk"
-    },
-    {
-        "track_name": "Akrapovitch 5",
-        "track_artists": [
-            "UZI"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273e779f79d3ef2eb5a67c7925f",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2732618a20189911943345b86d1",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/1qpSlONhd3YFcj3vKE7hPx"
+        "track_url": "https://open.spotify.com/track/69PsDTFqL2dYZ9AlLwYYN0"
+    },
+    {
+        "track_name": "Tiens ton pantalon",
+        "track_artists": [
+            "Chily"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273e8f5f789fbda5464e05143fb",
+        "track_preview": "https://p.scdn.co/mp3-preview/9b472e8a7be79bcf115a5c7feb2739343cb8920e?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3LXnN4ZNNeX49itD1cSxmV"
     }
 ]
