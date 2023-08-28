@@ -1,31 +1,30 @@
 [
     {
-        "track_name": "Saison",
+        "track_name": "Tablo\u00efd",
         "track_artists": [
-            "Gambino La MG"
+            "Mussy"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2730a1d0f7565054944c3f2a1d7",
-        "track_preview": "https://p.scdn.co/mp3-preview/118e658070ff8285691140247a88cdd4f7ed0a70?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/4QCeB298yVdKciKi0OI5Ao"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2730665f715869b43b08614fbee",
+        "track_preview": "https://p.scdn.co/mp3-preview/a9aad7ed6a32bf5e921919e2725156342f105983?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/0OQ1q1yT90R6EecqUg5aHi"
     },
     {
-        "track_name": "MILLION",
+        "track_name": "Docteur Lulu (Lofi remix)",
         "track_artists": [
-            "Stony Stone",
+            "Zuukou mayzie",
+            "Osirus Jack"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2735314245c0868df2f4cdb6561",
+        "track_preview": "https://p.scdn.co/mp3-preview/277fa767b57be13aadb69330bb9cb8a8baad0c0d?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/7FIHglNUeTaYYReLanOq2E"
+    },
+    {
+        "track_name": "CHERRY",
+        "track_artists": [
             "HOUDI"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273da224d346a4364f17b09a1e3",
-        "track_preview": "https://p.scdn.co/mp3-preview/05a7ff5037c6a2edb8cd15ed0188ff91968b6ebf?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/13XCZ4orFEmxN9UoukGyCa"
-    },
-    {
-        "track_name": "Fire",
-        "track_artists": [
-            "Harley",
-            "OBOY"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2737e0d904dd0b8aa853a6f7055",
-        "track_preview": "https://p.scdn.co/mp3-preview/d07b8b1f1643ba9471cc0ec309d1375d9518add0?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/4aslKALI3CmxZSOnbq1MqV"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273a7cb2911594f449a61824d4b",
+        "track_preview": "https://p.scdn.co/mp3-preview/3344b3950afb5d810149cc301b428cfa409a05e1?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/2FK96iqzIRVheWgDmbGWrh"
     }
 ]
