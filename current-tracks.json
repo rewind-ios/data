@@ -1,30 +1,30 @@
 [
     {
-        "track_name": "Vrai og",
+        "track_name": "Atlas",
         "track_artists": [
-            "Tayc"
+            "DTF"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273edada44aa6563859737ef170",
-        "track_preview": "https://p.scdn.co/mp3-preview/8a2d1f2b3d208dc1867c4c544a86f81f9387742b?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/2R2URjb9drCzvHwLNtwY2u"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2733c089293d86f361dbed30b23",
+        "track_preview": "https://p.scdn.co/mp3-preview/3a00139a41d79fdcfbcd8c092d5b5cebf41a179c?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/4f6ujVHsT8JUglIMuOWmp3"
     },
     {
-        "track_name": "Blue Magic",
+        "track_name": "Saint-Domingue",
         "track_artists": [
-            "Rsko"
+            "Alpha Wann"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273fe28533a81f7a0c67aff56c2",
-        "track_preview": "https://p.scdn.co/mp3-preview/f5b0b958f8bab416b791133222b685e31cc34c55?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/24WcVqWULP2OZxxPpsWYSo"
-    },
-    {
-        "track_name": "Dios mio",
-        "track_artists": [
-            "Yaro",
-            "Ninho"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273bd1cc5f28e6d67886414acda",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f9f4c20d531f99312ed5de45",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/75j2xe6h9eVzT30yQz7bhC"
+        "track_url": "https://open.spotify.com/track/7z9wWQNccfYfMPDp5zFZNL"
+    },
+    {
+        "track_name": "VOIR AILLEURS (feat. Zamdane)",
+        "track_artists": [
+            "La F\u00e8ve",
+            "Zamdane"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273c3142e16d4fe11a5906d79a1",
+        "track_preview": "https://p.scdn.co/mp3-preview/bf29c69c7705c4a0e3f7b49bc0f6562635870a91?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/0MWOQSfHFPk4LLtxCZikA3"
     }
 ]
