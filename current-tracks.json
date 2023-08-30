@@ -1,30 +1,31 @@
 [
     {
-        "track_name": "Paire de Prada",
+        "track_name": "DLM",
         "track_artists": [
-            "Alpha Wann"
+            "SAF"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f9f4c20d531f99312ed5de45",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/2d7wQ0V8uGcAeXQ0TfXSyV"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273d169d3d03776ee3a8bb864a9",
+        "track_preview": "https://p.scdn.co/mp3-preview/38bc05c9fee26b405825416d1f9186ea0ed6c025?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3QK7qLFOyDr5ztdGut3LFY"
     },
     {
-        "track_name": "SANG FROID",
+        "track_name": "Infrarouge",
         "track_artists": [
-            "Sneazzy",
-            "Laylow"
+            "Loveni",
+            "Myth Syzer",
+            "PH Trigano"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27366b88645240f7b384258b5cb",
-        "track_preview": "https://p.scdn.co/mp3-preview/e85f49432c05aaab4d5abcbc20f0f41034fe7571?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/00y6yHW6kv07HqWmodzjGb"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27367c45a0b403f784516b94b41",
+        "track_preview": "https://p.scdn.co/mp3-preview/98fef1f97346d63497f9699173d5a2ecd39dc0c8?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/64DUKhI4NQitbqhj0iT5pz"
     },
     {
-        "track_name": "Villa sur la c\u00f4te",
+        "track_name": "Cris des m\u00f4mes",
         "track_artists": [
-            "Laylow"
+            "Lesram"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f77b07f87077d27963fc4bee",
-        "track_preview": "https://p.scdn.co/mp3-preview/d5dd2fb66355184bfbed6f1d83478a6bf6811178?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6O8nFqE3FupadhpsT4ODOZ"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2739ef73b5453b6f4957c23f87e",
+        "track_preview": "https://p.scdn.co/mp3-preview/d3c8d6d13074635d7f129eff7e1969f11a4479c4?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/6YN10hrd42udiW9cqTrulR"
     }
 ]
