@@ -1,31 +1,31 @@
 [
     {
-        "track_name": "DLM",
+        "track_name": "Devil May Cry",
         "track_artists": [
-            "SAF"
+            "Rowjay",
+            "Alpha Wann"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273d169d3d03776ee3a8bb864a9",
-        "track_preview": "https://p.scdn.co/mp3-preview/38bc05c9fee26b405825416d1f9186ea0ed6c025?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/3QK7qLFOyDr5ztdGut3LFY"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27349805946b4002387af6dc3f4",
+        "track_preview": "https://p.scdn.co/mp3-preview/db4ac8f8776721761f0366360cc3242b236d48cf?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3iw9cmv0VuAhwLI9HPkcx6"
     },
     {
-        "track_name": "Infrarouge",
+        "track_name": "Fire",
         "track_artists": [
-            "Loveni",
-            "Myth Syzer",
-            "PH Trigano"
+            "Harley",
+            "OBOY"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27367c45a0b403f784516b94b41",
-        "track_preview": "https://p.scdn.co/mp3-preview/98fef1f97346d63497f9699173d5a2ecd39dc0c8?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/64DUKhI4NQitbqhj0iT5pz"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273428cda3ca4c1596f71d44db1",
+        "track_preview": "https://p.scdn.co/mp3-preview/d07b8b1f1643ba9471cc0ec309d1375d9518add0?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/4aslKALI3CmxZSOnbq1MqV"
     },
     {
-        "track_name": "Cris des m\u00f4mes",
+        "track_name": "PLU$$$",
         "track_artists": [
-            "Lesram"
+            "Josman"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2739ef73b5453b6f4957c23f87e",
-        "track_preview": "https://p.scdn.co/mp3-preview/d3c8d6d13074635d7f129eff7e1969f11a4479c4?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6YN10hrd42udiW9cqTrulR"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273110978fabea619d30156216b",
+        "track_preview": "https://p.scdn.co/mp3-preview/6d021e8194a49d8a8b9ba8118c6bcae45dfb6b0d?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/5VfuiPIiEWVa7c8Nw0B9rL"
     }
 ]
