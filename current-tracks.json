@@ -1,31 +1,29 @@
 [
     {
-        "track_name": "COMME BOU - Alternative Version",
+        "track_name": "UN PEU PLUS SIMPLE",
         "track_artists": [
-            "1PLIK\u00c9140"
+            "Karmen"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273e4abe521d5127901ab715c22",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/7AeaKnckciY299gEElK2Bd"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27359515f75c90a9314d7c37ef4",
+        "track_preview": "https://p.scdn.co/mp3-preview/82a670df8a7ba97e2dea4e22440d1a6b192af71f?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/1r5arJxSXv04aIhiIwlbkL"
     },
     {
-        "track_name": "LE TEMPS",
+        "track_name": "BLOODY SUMMER",
         "track_artists": [
-            "Stony Stone",
-            "HOUDI"
+            "BEN.C"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273da224d346a4364f17b09a1e3",
-        "track_preview": "https://p.scdn.co/mp3-preview/e66bbbe48f4fa6749de55171d86bec716ec047ec?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/5eSzb54jH05EZwLZrdLOwt"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2735d606ed772563dd5b2f843fd",
+        "track_preview": "https://p.scdn.co/mp3-preview/e4b4c1cdd7c804100c571006a326de24c8138de0?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3MwapoJJd0dWcpJDRie9yc"
     },
     {
-        "track_name": "Slide",
+        "track_name": "Datcha",
         "track_artists": [
-            "Franglish",
-            "Hamza"
+            "EDGE"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27352632467a31ed119a12b565a",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/7r34Ig3S7rR1bZmZ0GmxW8"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27354a6cdfbdc7a0e77b99abf75",
+        "track_preview": "https://p.scdn.co/mp3-preview/9ef977526ac19e24f84acf7def92cc9fed86d024?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/4QWC1p4fbVOaABgj0nPP0U"
     }
 ]
