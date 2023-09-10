@@ -1,29 +1,31 @@
 [
     {
-        "track_name": "TRABAJAW",
+        "track_name": "Z\u00c9RO D\u00c9TAIL",
         "track_artists": [
-            "HOUDI"
+            "Sneazzy",
+            "Nekfeu"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273e5968b186ca0926b5984c574",
-        "track_preview": "https://p.scdn.co/mp3-preview/7ea4a5675ab16984a2e0770a2ff8863584be05ce?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/5F9ra9qgU28UuJWgI53Otk"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27366b88645240f7b384258b5cb",
+        "track_preview": "https://p.scdn.co/mp3-preview/ba4ad34bf117e81a65c7880158fb321ebad41514?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/1gpYSFGZNaTjynm0RWnzy1"
     },
     {
-        "track_name": "Parano\u00efaque",
+        "track_name": "Vu d'en haut",
         "track_artists": [
-            "Dinos"
+            "EDGE"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273400348992e487ba736219912",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/5EjRTvSPOnwALpoMM6LkCI"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273399d3d48ed698b700ad2ba71",
+        "track_preview": "https://p.scdn.co/mp3-preview/31622a0da0efbb2fcb46755b29ef49beca34a7b6?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3I61jVUkATxMP57o54QZNN"
     },
     {
-        "track_name": "MEDICAL LOVE",
+        "track_name": "Meilleurs",
         "track_artists": [
-            "Karmen"
+            "OBOY",
+            "4Keus"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273699da77325ea9b26cca3ee93",
-        "track_preview": "https://p.scdn.co/mp3-preview/d684ca511560dab78358afa618fbd206d9c13ccc?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/750Xgf6vrhQyRC1Dk99mpv"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27342f781174d6c8b5f0f1086de",
+        "track_preview": "https://p.scdn.co/mp3-preview/50a526cfc8f8cb3423ee8fb1982d8125b084ae25?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/4m0d18fTZCPzjATxk7N5N8"
     }
 ]
