@@ -1,31 +1,29 @@
 [
     {
-        "track_name": "Z\u00c9RO D\u00c9TAIL",
+        "track_name": "Lemonade",
         "track_artists": [
-            "Sneazzy",
-            "Nekfeu"
+            "N\u00e9pal"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27366b88645240f7b384258b5cb",
-        "track_preview": "https://p.scdn.co/mp3-preview/ba4ad34bf117e81a65c7880158fb321ebad41514?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/1gpYSFGZNaTjynm0RWnzy1"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2730cb621d316215a0bbcc22d70",
+        "track_preview": "https://p.scdn.co/mp3-preview/dd9e66b40fe629fd2ad56499ff76d2ef8c094c2c?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/25m7tvekS96VV5xZ5hyuP3"
     },
     {
-        "track_name": "Vu d'en haut",
+        "track_name": "Maya",
         "track_artists": [
-            "EDGE"
+            "Chily"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273399d3d48ed698b700ad2ba71",
-        "track_preview": "https://p.scdn.co/mp3-preview/31622a0da0efbb2fcb46755b29ef49beca34a7b6?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/3I61jVUkATxMP57o54QZNN"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b914a6286bc39e2bf9070b74",
+        "track_preview": "https://p.scdn.co/mp3-preview/735c22fcccde98defff348c134b3d8ab8f71d5b7?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/5BSNKcFHOGnXaUJHMM1Jc0"
     },
     {
-        "track_name": "Meilleurs",
+        "track_name": "Jim Morrison",
         "track_artists": [
-            "OBOY",
-            "4Keus"
+            "L'entourage"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27342f781174d6c8b5f0f1086de",
-        "track_preview": "https://p.scdn.co/mp3-preview/50a526cfc8f8cb3423ee8fb1982d8125b084ae25?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/4m0d18fTZCPzjATxk7N5N8"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273bc13f154f70759ceefe9a019",
+        "track_preview": "https://p.scdn.co/mp3-preview/65b470f47d7ecae599cb8d3e17f461c53be8d9d2?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/0a7khHN6Z6uzs0Jnu1Wnty"
     }
 ]
