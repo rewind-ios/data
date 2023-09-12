@@ -1,29 +1,30 @@
 [
     {
-        "track_name": "Lemonade",
+        "track_name": "MDS 7 \u2013 Bless\u00e9",
         "track_artists": [
-            "N\u00e9pal"
+            "Vegedream",
+            "Bill Clinton"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2730cb621d316215a0bbcc22d70",
-        "track_preview": "https://p.scdn.co/mp3-preview/dd9e66b40fe629fd2ad56499ff76d2ef8c094c2c?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/25m7tvekS96VV5xZ5hyuP3"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273be18591f1072bd1f5736691f",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/11ziRz83acQ1sYZl1E32jQ"
     },
     {
-        "track_name": "Maya",
+        "track_name": "Dur \u00e0 aimer",
         "track_artists": [
-            "Chily"
+            "Dinos"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b914a6286bc39e2bf9070b74",
-        "track_preview": "https://p.scdn.co/mp3-preview/735c22fcccde98defff348c134b3d8ab8f71d5b7?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/5BSNKcFHOGnXaUJHMM1Jc0"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27306da3a90fe4f92a4c4bc80de",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/4D2V8Q5WinqfQUaBLTeTwj"
     },
     {
-        "track_name": "Jim Morrison",
+        "track_name": "OTW",
         "track_artists": [
-            "L'entourage"
+            "La F\u00e8ve"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273bc13f154f70759ceefe9a019",
-        "track_preview": "https://p.scdn.co/mp3-preview/65b470f47d7ecae599cb8d3e17f461c53be8d9d2?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/0a7khHN6Z6uzs0Jnu1Wnty"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273c3142e16d4fe11a5906d79a1",
+        "track_preview": "https://p.scdn.co/mp3-preview/4595c2d05ef68526156e535111019a3ce6b98297?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/2Fb4MnA8c7iGQY3k33cgbs"
     }
 ]
