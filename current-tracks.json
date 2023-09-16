@@ -1,32 +1,31 @@
 [
     {
-        "track_name": "T\u00c9N\u00c9BREUX",
+        "track_name": "SOLITAIRE",
         "track_artists": [
-            "HOUDI"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273e5968b186ca0926b5984c574",
-        "track_preview": "https://p.scdn.co/mp3-preview/16c70dbfbe2b42e8ed9d2049170efed5711f9598?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/0hKpC0aKTjyXAFbuj5FVQt"
-    },
-    {
-        "track_name": "GARRINCHA",
-        "track_artists": [
-            "scar1337",
-            "HOUDI"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273180a14783e19664b9e2263c1",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/2U13Ij4PENT67LhYw8O7Kt"
-    },
-    {
-        "track_name": "R8",
-        "track_artists": [
-            "4.4.2",
-            "Alonzo",
+            "Prinzly",
             "Hamza"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273d10f8d1130208bc7964c5d00",
-        "track_preview": "https://p.scdn.co/mp3-preview/42054e9f3b361b3f4fcba11b02e05066bbf61b01?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/2wknFfHBCpx50a2ghMMJIg"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27344e6c7d6d54513f849ee2ae9",
+        "track_preview": "https://p.scdn.co/mp3-preview/60852bb56876f4870b2e941d8dcaa24f8af3b316?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/7vZHHEWobZhy29OmLSQIjH"
+    },
+    {
+        "track_name": "SOCIOPATHE",
+        "track_artists": [
+            "HOUDI"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2735b3814621f4e5a3096dec297",
+        "track_preview": "https://p.scdn.co/mp3-preview/795e3ea8a833b72db6e05c69894ad4d370c45598?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/1Gn2tGZMzvyHvEhwUjx1lQ"
+    },
+    {
+        "track_name": "Issue de secours",
+        "track_artists": [
+            "Georgio",
+            "Luv Resval"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2732f00ebd91b915530b2384cc9",
+        "track_preview": "https://p.scdn.co/mp3-preview/480544ec39ebb79e374105f13bf0ab0d35d59de2?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/6BWnUQXFiFYCa7ftxHvwKE"
     }
 ]
