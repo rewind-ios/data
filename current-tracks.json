@@ -1,31 +1,29 @@
 [
     {
-        "track_name": "SOLITAIRE",
-        "track_artists": [
-            "Prinzly",
-            "Hamza"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27344e6c7d6d54513f849ee2ae9",
-        "track_preview": "https://p.scdn.co/mp3-preview/60852bb56876f4870b2e941d8dcaa24f8af3b316?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/7vZHHEWobZhy29OmLSQIjH"
-    },
-    {
-        "track_name": "SOCIOPATHE",
+        "track_name": "CHERRY",
         "track_artists": [
             "HOUDI"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2735b3814621f4e5a3096dec297",
-        "track_preview": "https://p.scdn.co/mp3-preview/795e3ea8a833b72db6e05c69894ad4d370c45598?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/1Gn2tGZMzvyHvEhwUjx1lQ"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273a7cb2911594f449a61824d4b",
+        "track_preview": "https://p.scdn.co/mp3-preview/3344b3950afb5d810149cc301b428cfa409a05e1?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/2FK96iqzIRVheWgDmbGWrh"
     },
     {
-        "track_name": "Issue de secours",
+        "track_name": "NOUVEAU MONDE",
         "track_artists": [
-            "Georgio",
-            "Luv Resval"
+            "Green Montana"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2732f00ebd91b915530b2384cc9",
-        "track_preview": "https://p.scdn.co/mp3-preview/480544ec39ebb79e374105f13bf0ab0d35d59de2?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6BWnUQXFiFYCa7ftxHvwKE"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b5d4df0dfde4096c15ce1d64",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/3E221gsDoL7oX3tl1xplud"
+    },
+    {
+        "track_name": "Ye yo",
+        "track_artists": [
+            "Chily"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b914a6286bc39e2bf9070b74",
+        "track_preview": "https://p.scdn.co/mp3-preview/07c156c2217edb9e297afb400a8e1a41316e83f0?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/0Uxrrs14te4V1C0TyNU6K0"
     }
 ]
