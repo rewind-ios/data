@@ -1,29 +1,32 @@
 [
     {
-        "track_name": "CHERRY",
+        "track_name": "Slowdown",
         "track_artists": [
+            "Hamza"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273a14e38b1dc2396c8e170e577",
+        "track_preview": "https://p.scdn.co/mp3-preview/e86927ed6490e606cb16e1d6c5559551a2a46c79?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3s8NidGSdlCbPwxuTBoLdR"
+    },
+    {
+        "track_name": "Bruh",
+        "track_artists": [
+            "Bolides",
+            "EDGE",
+            "Oscar Emch"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2737f81379642c82d23febd8491",
+        "track_preview": "https://p.scdn.co/mp3-preview/0cd51cfe6ed771e276ecba003f2428b195146571?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/0zqwWswHsR1bAiKfNIJtw3"
+    },
+    {
+        "track_name": "MILLION",
+        "track_artists": [
+            "Stony Stone",
             "HOUDI"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273a7cb2911594f449a61824d4b",
-        "track_preview": "https://p.scdn.co/mp3-preview/3344b3950afb5d810149cc301b428cfa409a05e1?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/2FK96iqzIRVheWgDmbGWrh"
-    },
-    {
-        "track_name": "NOUVEAU MONDE",
-        "track_artists": [
-            "Green Montana"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b5d4df0dfde4096c15ce1d64",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/3E221gsDoL7oX3tl1xplud"
-    },
-    {
-        "track_name": "Ye yo",
-        "track_artists": [
-            "Chily"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b914a6286bc39e2bf9070b74",
-        "track_preview": "https://p.scdn.co/mp3-preview/07c156c2217edb9e297afb400a8e1a41316e83f0?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/0Uxrrs14te4V1C0TyNU6K0"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273da224d346a4364f17b09a1e3",
+        "track_preview": "https://p.scdn.co/mp3-preview/05a7ff5037c6a2edb8cd15ed0188ff91968b6ebf?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/13XCZ4orFEmxN9UoukGyCa"
     }
 ]
