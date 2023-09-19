@@ -1,32 +1,30 @@
 [
     {
-        "track_name": "Slowdown",
+        "track_name": "Tu le reconnais",
         "track_artists": [
-            "Hamza"
+            "Rocca",
+            "Alpha Wann"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273a14e38b1dc2396c8e170e577",
-        "track_preview": "https://p.scdn.co/mp3-preview/e86927ed6490e606cb16e1d6c5559551a2a46c79?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/3s8NidGSdlCbPwxuTBoLdR"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273c8526c6ca7790665a7443416",
+        "track_preview": "https://p.scdn.co/mp3-preview/d268d7b4d2f3e2eba32a42fe51d30a55d875e27b?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/6dWucCM7fEMPVg56v83SoL"
     },
     {
-        "track_name": "Bruh",
+        "track_name": "Jim Morrison",
         "track_artists": [
-            "Bolides",
-            "EDGE",
-            "Oscar Emch"
+            "L'entourage"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2737f81379642c82d23febd8491",
-        "track_preview": "https://p.scdn.co/mp3-preview/0cd51cfe6ed771e276ecba003f2428b195146571?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/0zqwWswHsR1bAiKfNIJtw3"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273bc13f154f70759ceefe9a019",
+        "track_preview": "https://p.scdn.co/mp3-preview/65b470f47d7ecae599cb8d3e17f461c53be8d9d2?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/0a7khHN6Z6uzs0Jnu1Wnty"
     },
     {
-        "track_name": "MILLION",
+        "track_name": "Que d'la mula",
         "track_artists": [
-            "Stony Stone",
-            "HOUDI"
+            "La F"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273da224d346a4364f17b09a1e3",
-        "track_preview": "https://p.scdn.co/mp3-preview/05a7ff5037c6a2edb8cd15ed0188ff91968b6ebf?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/13XCZ4orFEmxN9UoukGyCa"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f80abce42ae513cbc299c7df",
+        "track_preview": "https://p.scdn.co/mp3-preview/05e29c91d04de347ecffaaa2ae6ba8a3af489002?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3Zq5L53m6SyGK2wgwHn7dU"
     }
 ]
