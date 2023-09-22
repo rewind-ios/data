@@ -1,29 +1,31 @@
 [
     {
-        "track_name": "J'allume",
+        "track_name": "Ouais Ouais (feat. Hamza)",
         "track_artists": [
-            "Josman"
+            "Leto",
+            "Hamza"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2731918c3ba5a764d60004bcd67",
-        "track_preview": "https://p.scdn.co/mp3-preview/f94199b44f001f85740b109b3c6aaeca27d5c938?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/2IAkdkY7ZioBelxNp2ba3L"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273e2a04a18cce54a943d588f7e",
+        "track_preview": "https://p.scdn.co/mp3-preview/b224d18dc07fcc2284785a0596b5572a99fd25fb?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/1pGALYFcP57BOFtaqRDG7a"
     },
     {
-        "track_name": "Fl\u00fbte de pan",
+        "track_name": "O.D",
         "track_artists": [
-            "Luv Resval"
+            "Nekfeu",
+            "Murkage Dave"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273338f06061282157400b1f76e",
-        "track_preview": "https://p.scdn.co/mp3-preview/0666b2eb2ee591d3a6524d6c26343de7585e8dc3?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/22PnLGUuJWCmIbgfOsd63Y"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273c9dac440212e652f62129e1a",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/4VZPWMEQK605od5KJctWod"
     },
     {
-        "track_name": "Au max",
+        "track_name": "MAUDIT",
         "track_artists": [
-            "H JeuneCrack"
+            "PURP"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2739526e14c54e791ba48796bda",
-        "track_preview": "https://p.scdn.co/mp3-preview/7c8cf5ed718cde931568fa41240ddbec29838f5c?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/0Bw8tbPRVFXjiCuRA2rkMn"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2736bb6590085d68986a017ff15",
+        "track_preview": "https://p.scdn.co/mp3-preview/49203e140567730de8a608fa2315bf5b4545af81?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/5dBvYA6ytU49JrAnq61kum"
     }
 ]
