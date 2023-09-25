@@ -1,30 +1,31 @@
 [
     {
-        "track_name": "Z-machine",
+        "track_name": "Mia",
         "track_artists": [
-            "Laylow",
-            "Wit."
+            "Ormaz",
+            "AK"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2735df4c094c2358eb72b27ebf0",
-        "track_preview": "https://p.scdn.co/mp3-preview/96050c44d5577c22ee21b54378a254d4c5035938?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/4MvqmizzkIUXzm1TuyFphq"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ab359e8697624a1b11a77038",
+        "track_preview": "https://p.scdn.co/mp3-preview/7092fc1fab6bf11d4b0620540f4eaa745fe60678?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/6aUwnZitb7boCtN8oyiDvg"
     },
     {
-        "track_name": "Black Pearl",
+        "track_name": "Si Tu Pars",
         "track_artists": [
-            "Luv Resval"
+            "Doums",
+            "FRAMAL"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2735484a476223ffe9588eb8ccc",
-        "track_preview": "https://p.scdn.co/mp3-preview/a87076769be9d1c5808a5969323eb4b31fd1ca0c?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/1cNLTTuobJoTEQI4lhqZuS"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2737e786ddcd6eadfe9505612bd",
+        "track_preview": "https://p.scdn.co/mp3-preview/b67174dea8f9e416597b6064dc663ead3b0fb773?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/7f7Zzfv2hJurIuzc6pLOJK"
     },
     {
-        "track_name": "Sisyphe",
+        "track_name": "UN PEU PLUS SIMPLE",
         "track_artists": [
-            "Krisy"
+            "Karmen"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2731f42279c397aacf3cadcd9eb",
-        "track_preview": "https://p.scdn.co/mp3-preview/6489596f9b32d81babead435063bf8cc8abb8c1d?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/3ebvg5TZhdePjeUfEVDsCh"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27359515f75c90a9314d7c37ef4",
+        "track_preview": "https://p.scdn.co/mp3-preview/82a670df8a7ba97e2dea4e22440d1a6b192af71f?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/1r5arJxSXv04aIhiIwlbkL"
     }
 ]
