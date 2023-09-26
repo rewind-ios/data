@@ -1,31 +1,30 @@
 [
     {
-        "track_name": "Mia",
+        "track_name": "Khaleesi",
         "track_artists": [
-            "Ormaz",
-            "AK"
+            "Lesram"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ab359e8697624a1b11a77038",
-        "track_preview": "https://p.scdn.co/mp3-preview/7092fc1fab6bf11d4b0620540f4eaa745fe60678?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6aUwnZitb7boCtN8oyiDvg"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2739ef73b5453b6f4957c23f87e",
+        "track_preview": "https://p.scdn.co/mp3-preview/b9a2dd331406ca52a86d4f3a9120f7f303ca3380?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/1IVdF1aeeIt498atWO51kG"
     },
     {
-        "track_name": "Si Tu Pars",
+        "track_name": "th\u00e9orie",
         "track_artists": [
-            "Doums",
-            "FRAMAL"
+            "Josu\u00e9"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2737e786ddcd6eadfe9505612bd",
-        "track_preview": "https://p.scdn.co/mp3-preview/b67174dea8f9e416597b6064dc663ead3b0fb773?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/7f7Zzfv2hJurIuzc6pLOJK"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273c63e6fa70e924441291767dc",
+        "track_preview": "https://p.scdn.co/mp3-preview/13ed641152311a771cac0ccfd5ab26845701950f?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/4y3Bhor6iYWjPsCyAecuCt"
     },
     {
-        "track_name": "UN PEU PLUS SIMPLE",
+        "track_name": "Ciel pleure",
         "track_artists": [
-            "Karmen"
+            "Dinos",
+            "Laylow"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27359515f75c90a9314d7c37ef4",
-        "track_preview": "https://p.scdn.co/mp3-preview/82a670df8a7ba97e2dea4e22440d1a6b192af71f?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/1r5arJxSXv04aIhiIwlbkL"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273400348992e487ba736219912",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/3ki5NTNjfk4EXbesKr77Po"
     }
 ]
