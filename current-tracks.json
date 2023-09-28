@@ -1,30 +1,29 @@
 [
     {
-        "track_name": "Plan (feat. Alpha Wann)",
+        "track_name": "PLU$$$",
         "track_artists": [
-            "Prince Waly",
-            "Alpha Wann"
+            "Josman"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273050ed60199bfbbb99ed530b9",
-        "track_preview": "https://p.scdn.co/mp3-preview/becf2254ee7d905745f6422d19abd66678a46b1b?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/4PPXE5cPYDgVHl7L8HBPXo"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273110978fabea619d30156216b",
+        "track_preview": "https://p.scdn.co/mp3-preview/6d021e8194a49d8a8b9ba8118c6bcae45dfb6b0d?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/5VfuiPIiEWVa7c8Nw0B9rL"
     },
     {
-        "track_name": "Mauvais Djo",
+        "track_name": "Shatta",
         "track_artists": [
-            "Ninho"
+            "Franglish"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273c8e0d481bba8b6c47e1a54f2",
-        "track_preview": "https://p.scdn.co/mp3-preview/9dd48c2414ccc1ea16f91821e1b2dc097ddfac72?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/2yTH2kLPOR2Hin61Qcdovr"
-    },
-    {
-        "track_name": "Intro",
-        "track_artists": [
-            "UZI"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273680a2136cc43743a90585c23",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27352632467a31ed119a12b565a",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/2wEF7DMp3rPaNG1xCXuOye"
+        "track_url": "https://open.spotify.com/track/3GR3p7iReqqwhXHqYA5Fn4"
+    },
+    {
+        "track_name": "Cavale",
+        "track_artists": [
+            "Jeune Mort"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273d3ab072c665e4eb23724fbe9",
+        "track_preview": "https://p.scdn.co/mp3-preview/a5e3d6e1b95fb6396ad32ee4efedc5a879afe522?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/0SG2Xwt38aEAJYXgKjRmXP"
     }
 ]
