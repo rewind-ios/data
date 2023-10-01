@@ -1,31 +1,30 @@
 [
     {
-        "track_name": "BITCHES & 808",
+        "track_name": "17",
         "track_artists": [
-            "11kams",
-            "Karmen"
+            "Kima",
+            "Kalash"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273de4bdd5106000c67ba52223f",
-        "track_preview": "https://p.scdn.co/mp3-preview/5f08c79d2b363bb64ef833274478bf853e636d13?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/4yueos7JfLwg6wJ6u2JU7U"
-    },
-    {
-        "track_name": "Refait",
-        "track_artists": [
-            "Yaro",
-            "Ninho"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27346713db319a883bdaa1a0892",
-        "track_preview": "https://p.scdn.co/mp3-preview/05b5e0c66039e082eb18fb51f63606222ecfa927?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/2RPgrQkmF7Qpj3XvSyVQ5Z"
-    },
-    {
-        "track_name": "Fin de nous",
-        "track_artists": [
-            "Franglish"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27352632467a31ed119a12b565a",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273bab99c4c57142f5f5156cc75",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/4gDI1IJ5KWmtv2sHplLCs5"
+        "track_url": "https://open.spotify.com/track/69tsRNfsJlYKupCIQJp4Hk"
+    },
+    {
+        "track_name": "P\u00d4LE SUD - interlude",
+        "track_artists": [
+            "NeS"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273550b4528f31fd28007a97ab9",
+        "track_preview": "https://p.scdn.co/mp3-preview/eff392a8c4b7408ec44bd53ef7c034051f69e7e2?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/4R0sC4N6tfy8UkN53JSS7f"
+    },
+    {
+        "track_name": "My Life",
+        "track_artists": [
+            "Marwa Loud"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2731293919e912b68090f27b237",
+        "track_preview": "https://p.scdn.co/mp3-preview/a4c31b2e9d74eb0af6f8f264adc1e7b8312acea3?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/1APziDJ1MGGz5fxK1uaaqs"
     }
 ]
