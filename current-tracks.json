@@ -1,30 +1,31 @@
 [
     {
-        "track_name": "I Got You",
+        "track_name": "SOUS LE MANTEAU",
         "track_artists": [
-            "Headie One",
-            "Hamza"
+            "HOUDI"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27347083a4aec1aac7886f80eee",
-        "track_preview": "https://p.scdn.co/mp3-preview/31d91c4c8c64f6b43bf409b22f3be93abee2471a?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6WpnnAWeq9FuIF6Amavul8"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273dfff138d66f6a86b0b82b303",
+        "track_preview": "https://p.scdn.co/mp3-preview/dd026db95c1181d23f2ff412444b93e4241fbc13?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/68LWvbZZ9tNVWeULh8mx5R"
     },
     {
-        "track_name": "E.D.G.E",
+        "track_name": "Mecs de cit\u00e9s",
         "track_artists": [
-            "EDGE"
+            "Sifax",
+            "Sofiane"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27354a6cdfbdc7a0e77b99abf75",
-        "track_preview": "https://p.scdn.co/mp3-preview/542d5a95bbc7f7807397d366a6a93f7ab1eeec54?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/0FyDSDR0TL8kabpH3anmyy"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273c2d2ae17b769a645cfe3cc88",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/1kIR5FC7281XPonENALvzb"
     },
     {
-        "track_name": "Alpha Wann - 1995",
+        "track_name": "Toute la noche (feat. Ma\u00eetre Gims)",
         "track_artists": [
-            "Alpha Wann"
+            "Soso Maness",
+            "GIMS"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2731de16cb721ac163ab55c1ccf",
-        "track_preview": "https://p.scdn.co/mp3-preview/bfe19f62253d27908647bb5ddc4bacebe7f834d1?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/7jGLZGYq4jlAEocm7XKamw"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273af73615ee6257956d799ed79",
+        "track_preview": "https://p.scdn.co/mp3-preview/8985c3fdeda09d3dc28bace82120e07dcf9fa9ec?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/7kmueDSUCCcDnEed0Tseow"
     }
 ]
