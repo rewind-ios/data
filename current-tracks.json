@@ -1,34 +1,32 @@
 [
     {
-        "track_name": "Telegram",
-        "track_artists": [
-            "Dwen",
-            "Kpri"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27310590c774f87d3eeef574c1b",
-        "track_preview": "https://p.scdn.co/mp3-preview/af72609e04e46da216908dd2c8b4f43e47b29267?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/1ahvr3JWj5g9VYQSLR4OSv"
-    },
-    {
-        "track_name": "Feloos",
-        "track_artists": [
-            "Ramriddlz",
-            "Jaegen",
-            "Hamza"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b540eeb8eb1b57dfbf0cc3b8",
-        "track_preview": "https://p.scdn.co/mp3-preview/5c627e553d4772571c976a338c595044e2949ac1?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/70aLQMLxUYR9rEqHmQfEaZ"
-    },
-    {
-        "track_name": "Mec de cit\u00e9",
+        "track_name": "Dios mio",
         "track_artists": [
             "Yaro",
-            "Ninho",
-            "PLK"
+            "Ninho"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2735dbfb94d7993874c53a765a8",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273bd1cc5f28e6d67886414acda",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/0ZgS1ThlLDBfoSLwLc8AfO"
+        "track_url": "https://open.spotify.com/track/75j2xe6h9eVzT30yQz7bhC"
+    },
+    {
+        "track_name": "Tu sais qu'on est gang (feat. H\u00f6s Copperfield)",
+        "track_artists": [
+            "Ninho",
+            "H\u00f6s Copperfield"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273c8e0d481bba8b6c47e1a54f2",
+        "track_preview": "https://p.scdn.co/mp3-preview/61b213e5cad43f960c1bc05c3d848704b8fffd4b?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/2c5fZV0p0gtq136T40QhcV"
+    },
+    {
+        "track_name": "Chez nous",
+        "track_artists": [
+            "ISK",
+            "UZI"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27349b8f7afa352a8c993be31ff",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/0rFFU0peqgb4Ippt2aXkAf"
     }
 ]
