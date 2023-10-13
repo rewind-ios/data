@@ -1,30 +1,31 @@
 [
     {
-        "track_name": "SOCIOPATHE",
+        "track_name": "Macabre",
         "track_artists": [
-            "HOUDI"
+            "Dosseh",
+            "Josman"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2735b3814621f4e5a3096dec297",
-        "track_preview": "https://p.scdn.co/mp3-preview/795e3ea8a833b72db6e05c69894ad4d370c45598?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/1Gn2tGZMzvyHvEhwUjx1lQ"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27355930d523d03d95bc9c4dac5",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/4ClyFAzL56xV3wl9RICbbc"
     },
     {
-        "track_name": "Don\u2019t Tell (feat. Headie One)",
+        "track_name": "Long Beach",
         "track_artists": [
-            "Hamza",
-            "Headie One"
+            "robdbloc",
+            "EDGE"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27367c883da80c8b6fe9b5e2671",
-        "track_preview": "https://p.scdn.co/mp3-preview/8a4f602ca866cd2ae0b0037f742eb724ee4ac4c5?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/1DcMWQ5AtAACPLOnxU8yu6"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2730d8a79858b980847eaa23d22",
+        "track_preview": "https://p.scdn.co/mp3-preview/83d3a8f8ce3b871664bc9811fd04d72f19cb6066?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/0gRvnzSdmtkpGwIm6YDC4j"
     },
     {
-        "track_name": "P\u00d4LE SUD - interlude",
+        "track_name": "CONTREX",
         "track_artists": [
-            "NeS"
+            "Alpha Wann"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273550b4528f31fd28007a97ab9",
-        "track_preview": "https://p.scdn.co/mp3-preview/eff392a8c4b7408ec44bd53ef7c034051f69e7e2?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/4R0sC4N6tfy8UkN53JSS7f"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2731e546007515b02884d72595f",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/4BsXN5rMd17uLTAdMPXyHN"
     }
 ]
