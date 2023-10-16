@@ -1,31 +1,31 @@
 [
     {
-        "track_name": "Sometimes",
+        "track_name": "Laisse moi (feat. Hamza)",
         "track_artists": [
+            "Lous and The Yakuza",
             "Hamza"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2739297f238f237431d56c67460",
-        "track_preview": "https://p.scdn.co/mp3-preview/b646b67e0234cc7faed541987dbb751bb7937158?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/0SzW69DvRPldNy6Qx7NndA"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2736a1950afcffaa076fc4905a5",
+        "track_preview": "https://p.scdn.co/mp3-preview/cff3a2b9f804aab18c1c26035a439ac8d67dac30?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/7vNC9o1onqyp0PvypOZ4Yj"
     },
     {
-        "track_name": "Vivre bien",
+        "track_name": "Black Pearl",
         "track_artists": [
-            "Infinit'",
-            "Alpha Wann"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27398dd357ebcf1ebb11c0a3ea7",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/4LVwiCxAiHYYOisS3Jogs7"
-    },
-    {
-        "track_name": "Cactus",
-        "track_artists": [
-            "Rom\u00e9o Elvis",
             "Luv Resval"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273194768b5306db14fc2fb3b2d",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/1EZ6b1JPvNbccq8BkVgdhO"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2735484a476223ffe9588eb8ccc",
+        "track_preview": "https://p.scdn.co/mp3-preview/a87076769be9d1c5808a5969323eb4b31fd1ca0c?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/1cNLTTuobJoTEQI4lhqZuS"
+    },
+    {
+        "track_name": "SOLITAIRE",
+        "track_artists": [
+            "Prinzly",
+            "Hamza"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27344e6c7d6d54513f849ee2ae9",
+        "track_preview": "https://p.scdn.co/mp3-preview/60852bb56876f4870b2e941d8dcaa24f8af3b316?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/7vZHHEWobZhy29OmLSQIjH"
     }
 ]
