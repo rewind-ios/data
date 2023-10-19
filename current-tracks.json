@@ -1,32 +1,32 @@
 [
     {
-        "track_name": "Louvre",
+        "track_name": "EN DIDI - Freestyle",
         "track_artists": [
-            "Alpha Wann"
+            "HOUDI",
+            "Raplume"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f9f4c20d531f99312ed5de45",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/56M8nx9atYDlf3hpv3k5Ru"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2730063f2e0ede161eaccc360ab",
+        "track_preview": "https://p.scdn.co/mp3-preview/00b4ee9f9ee62a97b5c2d03527f5f02b22632b60?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3y7bX2Lz7Qfjo0lcgBpu5L"
     },
     {
-        "track_name": "Non-Stop",
+        "track_name": "Air tlanta",
+        "track_artists": [
+            "OBOY"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273bee09be2b9c66e75411b70fa",
+        "track_preview": "https://p.scdn.co/mp3-preview/e8adae092fdd0a1bf4ded391b3d832533da9891d?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/0OpYhWobCaNYkzTwj92Ohl"
+    },
+    {
+        "track_name": "Fascinant",
         "track_artists": [
             "Jazzy Bazz",
             "EDGE",
             "Esso Luxueux"
         ],
         "track_cover": "https://i.scdn.co/image/ab67616d0000b27338015bae2059be66a69183f7",
-        "track_preview": "https://p.scdn.co/mp3-preview/aa754ab9e5ceb2bc49af8cc3274c76289ff511d0?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/3WcJ6oazFZ4jeiGAnwpj0s"
-    },
-    {
-        "track_name": "BRUME",
-        "track_artists": [
-            "Stony Stone",
-            "HOUDI"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273da224d346a4364f17b09a1e3",
-        "track_preview": "https://p.scdn.co/mp3-preview/b085fba07dc92717726cdde2af1630b7ed5e8606?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6lrcRTgKdWFzsk9FUx93m7"
+        "track_preview": "https://p.scdn.co/mp3-preview/a95f587a0dccd6ac49dc99f97d995b884cf4c9e5?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/4tpuVCIKepgHnuo0AU4pTK"
     }
 ]
