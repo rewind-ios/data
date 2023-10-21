@@ -1,30 +1,31 @@
 [
     {
-        "track_name": "Dis le moi",
+        "track_name": "Mental",
         "track_artists": [
-            "Franglish"
+            "Jazzy Bazz",
+            "robdbloc"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27376b6a3de8aa76d5f1cbe7924",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27342f98f4eab8b0b38a4877831",
+        "track_preview": "https://p.scdn.co/mp3-preview/a4e0d7a5c0075ee5d6f7f9b096612699c6c6967d?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/2jNOKdBdO34jpT8rEQtqiF"
+    },
+    {
+        "track_name": "Shanghai",
+        "track_artists": [
+            "Alpha Wann"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f9f4c20d531f99312ed5de45",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/6TY75Su4BVybhgH0206bln"
+        "track_url": "https://open.spotify.com/track/0fzH3vWTNTdapCmaRYMSAs"
     },
     {
-        "track_name": "Fire",
+        "track_name": "Goosebumps (feat. Hamza)",
         "track_artists": [
-            "Harley",
-            "OBOY"
+            "Larry",
+            "Hamza"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273428cda3ca4c1596f71d44db1",
-        "track_preview": "https://p.scdn.co/mp3-preview/d07b8b1f1643ba9471cc0ec309d1375d9518add0?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/4aslKALI3CmxZSOnbq1MqV"
-    },
-    {
-        "track_name": "DANS \u00c7A",
-        "track_artists": [
-            "HOUDI"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273e57b1aeed998fac05ecafc3e",
-        "track_preview": "https://p.scdn.co/mp3-preview/c2c592051ad1c8e05ce83f9dbe925cf8c8ebff99?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/5rCl4dJoo3hVyzOyMcPJbb"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2738f7d0ae1c360e733a63478fa",
+        "track_preview": "https://p.scdn.co/mp3-preview/0afa53b1cb8f50b2ee2746b6c9c8a410aeca4380?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/1G59Rj6KVUQcI0zaLn5Vqr"
     }
 ]
