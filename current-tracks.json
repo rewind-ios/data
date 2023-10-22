@@ -1,31 +1,30 @@
 [
     {
-        "track_name": "Mental",
+        "track_name": "CALMITO",
         "track_artists": [
-            "Jazzy Bazz",
-            "robdbloc"
+            "HOUDI"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27342f98f4eab8b0b38a4877831",
-        "track_preview": "https://p.scdn.co/mp3-preview/a4e0d7a5c0075ee5d6f7f9b096612699c6c6967d?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/2jNOKdBdO34jpT8rEQtqiF"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273bff3ad2f41f148c0a75d2d07",
+        "track_preview": "https://p.scdn.co/mp3-preview/9c3f5e3ed0a4cf81adc0d659a7415e216484c11b?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/6WXIBjjqx1ZS8HFHyGQgnw"
     },
     {
-        "track_name": "Shanghai",
+        "track_name": "On y est",
         "track_artists": [
-            "Alpha Wann"
+            "Doums",
+            "Nekfeu"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f9f4c20d531f99312ed5de45",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/0fzH3vWTNTdapCmaRYMSAs"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2737e786ddcd6eadfe9505612bd",
+        "track_preview": "https://p.scdn.co/mp3-preview/5c39ffee25d05abf389a7e87b173ff48797ce435?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/7LFcaW7Gxe5Hbm1OQSw9jO"
     },
     {
-        "track_name": "Goosebumps (feat. Hamza)",
+        "track_name": "Intro",
         "track_artists": [
-            "Larry",
-            "Hamza"
+            "Lesram"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2738f7d0ae1c360e733a63478fa",
-        "track_preview": "https://p.scdn.co/mp3-preview/0afa53b1cb8f50b2ee2746b6c9c8a410aeca4380?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/1G59Rj6KVUQcI0zaLn5Vqr"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2739ef73b5453b6f4957c23f87e",
+        "track_preview": "https://p.scdn.co/mp3-preview/d97396f7bcea5d895f02bd8ab50203eb72d561c9?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/7sHtGL7OJ15dssSEB9oxLi"
     }
 ]
