@@ -1,30 +1,31 @@
 [
     {
-        "track_name": "CALMITO",
+        "track_name": "Six",
         "track_artists": [
-            "HOUDI"
+            "CYPH3R",
+            "Hamza"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273bff3ad2f41f148c0a75d2d07",
-        "track_preview": "https://p.scdn.co/mp3-preview/9c3f5e3ed0a4cf81adc0d659a7415e216484c11b?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6WXIBjjqx1ZS8HFHyGQgnw"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2733f91c55de94139c9ec48aaf9",
+        "track_preview": "https://p.scdn.co/mp3-preview/01e64151367c7dcdcb97fd212b7256be35276cc1?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/7aPM3QBnLovLdMm0Yrbn4G"
     },
     {
-        "track_name": "On y est",
+        "track_name": "Tha\u00eflande",
         "track_artists": [
-            "Doums",
-            "Nekfeu"
+            "Dosseh",
+            "Bramsito"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2737e786ddcd6eadfe9505612bd",
-        "track_preview": "https://p.scdn.co/mp3-preview/5c39ffee25d05abf389a7e87b173ff48797ce435?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/7LFcaW7Gxe5Hbm1OQSw9jO"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273cc535dd4d4e7611c005689b6",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/1FkKaz2v65DsN4WlGsgoqu"
     },
     {
-        "track_name": "Intro",
+        "track_name": "Fum\u00e9e",
         "track_artists": [
-            "Lesram"
+            "Sheldon"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2739ef73b5453b6f4957c23f87e",
-        "track_preview": "https://p.scdn.co/mp3-preview/d97396f7bcea5d895f02bd8ab50203eb72d561c9?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/7sHtGL7OJ15dssSEB9oxLi"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2730711dfec4f0f1e678acda737",
+        "track_preview": "https://p.scdn.co/mp3-preview/863bc6564f19aef0bd6dac149ced811ae9571eb8?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/53I0y84nNMIbo0ZMayBMIP"
     }
 ]
