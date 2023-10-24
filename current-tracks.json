@@ -1,31 +1,29 @@
 [
     {
-        "track_name": "Six",
+        "track_name": "Armada",
         "track_artists": [
-            "CYPH3R",
-            "Hamza"
+            "OBOY"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2733f91c55de94139c9ec48aaf9",
-        "track_preview": "https://p.scdn.co/mp3-preview/01e64151367c7dcdcb97fd212b7256be35276cc1?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/7aPM3QBnLovLdMm0Yrbn4G"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273bee09be2b9c66e75411b70fa",
+        "track_preview": "https://p.scdn.co/mp3-preview/c7c580df16f8df9b0887957713096e761391c810?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/0NOsqjim8zDnjXLYULEnqv"
     },
     {
-        "track_name": "Tha\u00eflande",
+        "track_name": "Shanghai",
         "track_artists": [
-            "Dosseh",
-            "Bramsito"
+            "Alpha Wann"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273cc535dd4d4e7611c005689b6",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f9f4c20d531f99312ed5de45",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/1FkKaz2v65DsN4WlGsgoqu"
+        "track_url": "https://open.spotify.com/track/0fzH3vWTNTdapCmaRYMSAs"
     },
     {
-        "track_name": "Fum\u00e9e",
+        "track_name": "Akira",
         "track_artists": [
-            "Sheldon"
+            "13 Block"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2730711dfec4f0f1e678acda737",
-        "track_preview": "https://p.scdn.co/mp3-preview/863bc6564f19aef0bd6dac149ced811ae9571eb8?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/53I0y84nNMIbo0ZMayBMIP"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b79aff4bdd3d9c8e2f65719c",
+        "track_preview": "https://p.scdn.co/mp3-preview/81fdcc354be4e90d999e28e6811e8708998ebcbf?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/7fn8VCZBZekq5FBGL192N1"
     }
 ]
