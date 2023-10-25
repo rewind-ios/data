@@ -1,29 +1,31 @@
 [
     {
-        "track_name": "Armada",
+        "track_name": "Mode Avion",
         "track_artists": [
-            "OBOY"
+            "Gros Mo",
+            "EDGE"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273bee09be2b9c66e75411b70fa",
-        "track_preview": "https://p.scdn.co/mp3-preview/c7c580df16f8df9b0887957713096e761391c810?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/0NOsqjim8zDnjXLYULEnqv"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273369022be0712f62488a9871e",
+        "track_preview": "https://p.scdn.co/mp3-preview/ec345256064041eeb36576e4339ab8817b8f6917?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/7kXzu9rK0t4qycy3wL5qvK"
     },
     {
-        "track_name": "Shanghai",
+        "track_name": "CALCULS",
         "track_artists": [
-            "Alpha Wann"
+            "Stony Stone",
+            "HOUDI"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f9f4c20d531f99312ed5de45",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/0fzH3vWTNTdapCmaRYMSAs"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273da224d346a4364f17b09a1e3",
+        "track_preview": "https://p.scdn.co/mp3-preview/f4da869534491d178bf3f2bcde6f7cf42d32ab4e?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/0rqHIPVpP6y6BqXLLh3Iiv"
     },
     {
-        "track_name": "Akira",
+        "track_name": "Normal",
         "track_artists": [
-            "13 Block"
+            "Guizmo"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b79aff4bdd3d9c8e2f65719c",
-        "track_preview": "https://p.scdn.co/mp3-preview/81fdcc354be4e90d999e28e6811e8708998ebcbf?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/7fn8VCZBZekq5FBGL192N1"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2738957f98f3504616adcd74828",
+        "track_preview": "https://p.scdn.co/mp3-preview/18d99deb86f7f37a0d7a7035e61261239bd59d88?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3qFaZiqRH2yWmQr8ir9RCQ"
     }
 ]
