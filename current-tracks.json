@@ -1,31 +1,32 @@
 [
     {
-        "track_name": "Mode Avion",
+        "track_name": "SNITCH",
         "track_artists": [
-            "Gros Mo",
-            "EDGE"
+            "La F\u00e8ve",
+            "Kosei"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273369022be0712f62488a9871e",
-        "track_preview": "https://p.scdn.co/mp3-preview/ec345256064041eeb36576e4339ab8817b8f6917?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/7kXzu9rK0t4qycy3wL5qvK"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2736d59695e16cdf5e16d423e63",
+        "track_preview": "https://p.scdn.co/mp3-preview/8db1b67939b549ab81fb18e62914c894e26e33be?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3466xSXUN8ex4E2HsZWaYE"
     },
     {
-        "track_name": "CALCULS",
+        "track_name": "Bad",
         "track_artists": [
-            "Stony Stone",
-            "HOUDI"
+            "baby hayabusa",
+            "neophron"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273da224d346a4364f17b09a1e3",
-        "track_preview": "https://p.scdn.co/mp3-preview/f4da869534491d178bf3f2bcde6f7cf42d32ab4e?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/0rqHIPVpP6y6BqXLLh3Iiv"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273aeb44e431e6792e8c79f71f5",
+        "track_preview": "https://p.scdn.co/mp3-preview/1931a8a5ec69e766eb52fcae5622f43223a84926?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/4v0nqilrwGmEY6ViF5kaUK"
     },
     {
-        "track_name": "Normal",
+        "track_name": "Point d'interrogation",
         "track_artists": [
-            "Guizmo"
+            "Nekfeu",
+            "Alpha Wann"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2738957f98f3504616adcd74828",
-        "track_preview": "https://p.scdn.co/mp3-preview/18d99deb86f7f37a0d7a7035e61261239bd59d88?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/3qFaZiqRH2yWmQr8ir9RCQ"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ff6a615bde464f6f9ee3dcce",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/7K1N8TobxyUMkfWNe75kfP"
     }
 ]
