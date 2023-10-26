@@ -1,32 +1,34 @@
 [
     {
-        "track_name": "SNITCH",
+        "track_name": "P2",
         "track_artists": [
-            "La F\u00e8ve",
-            "Kosei"
+            "Deen Burbigo",
+            "Esso Luxueux"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2736d59695e16cdf5e16d423e63",
-        "track_preview": "https://p.scdn.co/mp3-preview/8db1b67939b549ab81fb18e62914c894e26e33be?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/3466xSXUN8ex4E2HsZWaYE"
-    },
-    {
-        "track_name": "Bad",
-        "track_artists": [
-            "baby hayabusa",
-            "neophron"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273aeb44e431e6792e8c79f71f5",
-        "track_preview": "https://p.scdn.co/mp3-preview/1931a8a5ec69e766eb52fcae5622f43223a84926?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/4v0nqilrwGmEY6ViF5kaUK"
-    },
-    {
-        "track_name": "Point d'interrogation",
-        "track_artists": [
-            "Nekfeu",
-            "Alpha Wann"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ff6a615bde464f6f9ee3dcce",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27330baf01b00d9afedc52851c4",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/7K1N8TobxyUMkfWNe75kfP"
+        "track_url": "https://open.spotify.com/track/53oyhq6oGOHIMoDDW6xxKQ"
+    },
+    {
+        "track_name": "Cris des m\u00f4mes",
+        "track_artists": [
+            "Lesram"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2739ef73b5453b6f4957c23f87e",
+        "track_preview": "https://p.scdn.co/mp3-preview/d3c8d6d13074635d7f129eff7e1969f11a4479c4?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/6YN10hrd42udiW9cqTrulR"
+    },
+    {
+        "track_name": "SABOTEUR GANG",
+        "track_artists": [
+            "Saboteur",
+            "Deen Burbigo",
+            "Eff Gee",
+            "Esso Luxueux",
+            "Ratu$"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273c4072310c81438796905cb8e",
+        "track_preview": "https://p.scdn.co/mp3-preview/7c319033c59fa629710d004ea5a366913a6031d2?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/29XlgOqbi6cKX9lTMEjta0"
     }
 ]
