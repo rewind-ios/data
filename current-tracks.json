@@ -1,34 +1,33 @@
 [
     {
-        "track_name": "P2",
+        "track_name": "UMLA tour",
         "track_artists": [
-            "Deen Burbigo",
-            "Esso Luxueux"
+            "Infinit'",
+            "Alpha Wann",
+            "K.S.A."
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27330baf01b00d9afedc52851c4",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27395283d84c4fd5283f68c02be",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/53oyhq6oGOHIMoDDW6xxKQ"
+        "track_url": "https://open.spotify.com/track/035RQC8nXhnOCMSZgqK3TP"
     },
     {
-        "track_name": "Cris des m\u00f4mes",
+        "track_name": "Lunettes noires",
         "track_artists": [
-            "Lesram"
+            "Alpha Wann",
+            "S.Pri Noir"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2739ef73b5453b6f4957c23f87e",
-        "track_preview": "https://p.scdn.co/mp3-preview/d3c8d6d13074635d7f129eff7e1969f11a4479c4?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6YN10hrd42udiW9cqTrulR"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273a9abfeeb556ac61715535e8e",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/6kqjzXcWlX3bSNpR8C5wLh"
     },
     {
-        "track_name": "SABOTEUR GANG",
+        "track_name": "Double Dose",
         "track_artists": [
-            "Saboteur",
-            "Deen Burbigo",
-            "Eff Gee",
-            "Esso Luxueux",
-            "Ratu$"
+            "KR Malsain",
+            "Alpha Wann"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273c4072310c81438796905cb8e",
-        "track_preview": "https://p.scdn.co/mp3-preview/7c319033c59fa629710d004ea5a366913a6031d2?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/29XlgOqbi6cKX9lTMEjta0"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27374bff9aaecf5bb2b2a982452",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/1SGsQ9lVsyTm3kCHM7vD4z"
     }
 ]
