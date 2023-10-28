@@ -1,30 +1,31 @@
 [
     {
-        "track_name": "Bitch (feat. Vald)",
+        "track_name": "Babi",
         "track_artists": [
-            "Lefa",
-            "Vald"
+            "13 Block"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273dcdb206ee5c8b27b3f8254dc",
-        "track_preview": "https://p.scdn.co/mp3-preview/7fbed5497461aa0bf5a35072fd11adc7e2e558c2?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/4Bg5ufw4skMPjZl95Y7axO"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b79aff4bdd3d9c8e2f65719c",
+        "track_preview": "https://p.scdn.co/mp3-preview/c2e4d33840c62ab2fc4836e7e06298361ac629f5?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3FrbLRZXo94g9dnJzxQLNP"
     },
     {
-        "track_name": "\u00c0 La Mode",
+        "track_name": "Hier Encore",
         "track_artists": [
-            "Saturn Citizen"
+            "Jazzy Bazz",
+            "EDGE",
+            "Esso Luxueux"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2731e288f81a7605e91ebf71641",
-        "track_preview": "https://p.scdn.co/mp3-preview/4fc6ad6371abc73f9bf5d14a4e1946a13fe9fedf?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/0Na3sbuMWdQQPkAjrz56JT"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27338015bae2059be66a69183f7",
+        "track_preview": "https://p.scdn.co/mp3-preview/32456d90a3a1cfe1c89ffd2826d3236e2fac072e?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/1mmaEHRk8P2wIYyiEt1bch"
     },
     {
-        "track_name": "Addiction",
+        "track_name": "Vu d'en haut",
         "track_artists": [
-            "Hamza"
+            "EDGE"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2739297f238f237431d56c67460",
-        "track_preview": "https://p.scdn.co/mp3-preview/33d12e9e5a3dd3394b1649d515912260b01579dd?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/07JqNLmPUJSlcouGQoJlzq"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273399d3d48ed698b700ad2ba71",
+        "track_preview": "https://p.scdn.co/mp3-preview/31622a0da0efbb2fcb46755b29ef49beca34a7b6?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3I61jVUkATxMP57o54QZNN"
     }
 ]
