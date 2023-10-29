@@ -1,31 +1,30 @@
 [
     {
-        "track_name": "Babi",
+        "track_name": "san andreas",
         "track_artists": [
-            "13 Block"
+            "Lesram",
+            "Nekfeu"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b79aff4bdd3d9c8e2f65719c",
-        "track_preview": "https://p.scdn.co/mp3-preview/c2e4d33840c62ab2fc4836e7e06298361ac629f5?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/3FrbLRZXo94g9dnJzxQLNP"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27311cadae19d6cdc5f8463a6a0",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/75l44qUyFFMDSc9X4iBMVs"
     },
     {
-        "track_name": "Hier Encore",
+        "track_name": "Mula",
         "track_artists": [
-            "Jazzy Bazz",
-            "EDGE",
-            "Esso Luxueux"
+            "Zola"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27338015bae2059be66a69183f7",
-        "track_preview": "https://p.scdn.co/mp3-preview/32456d90a3a1cfe1c89ffd2826d3236e2fac072e?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/1mmaEHRk8P2wIYyiEt1bch"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273df3d9a644af0dab075b1cefb",
+        "track_preview": "https://p.scdn.co/mp3-preview/ab3d9708278df5fda0c3dbddc012f14e02f4491b?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/76eNOqozCzQM0gLmX6psW9"
     },
     {
-        "track_name": "Vu d'en haut",
+        "track_name": "3\u00e8me \u00c9tage",
         "track_artists": [
-            "EDGE"
+            "M Le Maudit"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273399d3d48ed698b700ad2ba71",
-        "track_preview": "https://p.scdn.co/mp3-preview/31622a0da0efbb2fcb46755b29ef49beca34a7b6?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/3I61jVUkATxMP57o54QZNN"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273a890f37780ce7d2d641d3ed5",
+        "track_preview": "https://p.scdn.co/mp3-preview/818a83e8395d83f2868a28f933b9934fcb583eee?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/7Cnb7S0GACmy6zeZEvSftY"
     }
 ]
