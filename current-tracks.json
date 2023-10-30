@@ -1,30 +1,31 @@
 [
     {
-        "track_name": "Sous marin",
+        "track_name": "P2",
+        "track_artists": [
+            "Deen Burbigo",
+            "Esso Luxueux"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27330baf01b00d9afedc52851c4",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/53oyhq6oGOHIMoDDW6xxKQ"
+    },
+    {
+        "track_name": "Flingtro",
         "track_artists": [
             "Alpha Wann"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273a9abfeeb556ac61715535e8e",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273012b9be80a30474b3e6ecc0b",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/2ksvc4KPA1jE8rkc6OBFuD"
+        "track_url": "https://open.spotify.com/track/3JMCj6XucgFFHtH6neFpKl"
     },
     {
-        "track_name": "SOLITAIRE",
+        "track_name": "Type plante",
         "track_artists": [
-            "Prinzly",
-            "Hamza"
+            "Caballero & JeanJass",
+            "Savage Toddy"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27344e6c7d6d54513f849ee2ae9",
-        "track_preview": "https://p.scdn.co/mp3-preview/60852bb56876f4870b2e941d8dcaa24f8af3b316?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/7vZHHEWobZhy29OmLSQIjH"
-    },
-    {
-        "track_name": "SOUS LE MANTEAU",
-        "track_artists": [
-            "HOUDI"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273dfff138d66f6a86b0b82b303",
-        "track_preview": "https://p.scdn.co/mp3-preview/dd026db95c1181d23f2ff412444b93e4241fbc13?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/68LWvbZZ9tNVWeULh8mx5R"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ec5209db2595d168861cb316",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/30sYR8fyHG26N8jVXEJQQJ"
     }
 ]
