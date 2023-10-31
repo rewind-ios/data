@@ -1,31 +1,33 @@
 [
     {
-        "track_name": "P2",
+        "track_name": "SBTR/GLDSTN (feat. Deen Burbigo)",
         "track_artists": [
-            "Deen Burbigo",
+            "EDGE",
+            "Ratu$",
+            "Deen Burbigo"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2733fe09aaa46e497fb24ea59ba",
+        "track_preview": "https://p.scdn.co/mp3-preview/32991b7cc90bc166be2dc3df134fd477e2f2e470?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/4Tri5HFHkKMFoPgHck7qoM"
+    },
+    {
+        "track_name": "Hier Encore",
+        "track_artists": [
+            "Jazzy Bazz",
+            "EDGE",
             "Esso Luxueux"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27330baf01b00d9afedc52851c4",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/53oyhq6oGOHIMoDDW6xxKQ"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27338015bae2059be66a69183f7",
+        "track_preview": "https://p.scdn.co/mp3-preview/32456d90a3a1cfe1c89ffd2826d3236e2fac072e?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/1mmaEHRk8P2wIYyiEt1bch"
     },
     {
-        "track_name": "Flingtro",
+        "track_name": "LGBIRI - Bonus",
         "track_artists": [
-            "Alpha Wann"
+            "Ateyaba"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273012b9be80a30474b3e6ecc0b",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2732ce1b58317e3ad7cadf45f42",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/3JMCj6XucgFFHtH6neFpKl"
-    },
-    {
-        "track_name": "Type plante",
-        "track_artists": [
-            "Caballero & JeanJass",
-            "Savage Toddy"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ec5209db2595d168861cb316",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/30sYR8fyHG26N8jVXEJQQJ"
+        "track_url": "https://open.spotify.com/track/6PWMAoEaU4ih0ZkPmWgDIJ"
     }
 ]
