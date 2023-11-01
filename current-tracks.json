@@ -1,33 +1,31 @@
 [
     {
-        "track_name": "SBTR/GLDSTN (feat. Deen Burbigo)",
+        "track_name": "T'as capt\u00e9",
         "track_artists": [
-            "EDGE",
-            "Ratu$",
-            "Deen Burbigo"
+            "S.Pri Noir",
+            "Alpha Wann",
+            "Sneazzy"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2733fe09aaa46e497fb24ea59ba",
-        "track_preview": "https://p.scdn.co/mp3-preview/32991b7cc90bc166be2dc3df134fd477e2f2e470?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/4Tri5HFHkKMFoPgHck7qoM"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2738102c807432b7b63d7b9c3dd",
+        "track_preview": "https://p.scdn.co/mp3-preview/be479db9e8c59d5eb66fb8c54d9a2ad18a6d029d?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/5CO0a7utO79twHhGb1sxTw"
     },
     {
-        "track_name": "Hier Encore",
+        "track_name": "Bouteille \u00e0 la mer",
         "track_artists": [
-            "Jazzy Bazz",
-            "EDGE",
-            "Esso Luxueux"
+            "Roshi"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27338015bae2059be66a69183f7",
-        "track_preview": "https://p.scdn.co/mp3-preview/32456d90a3a1cfe1c89ffd2826d3236e2fac072e?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/1mmaEHRk8P2wIYyiEt1bch"
-    },
-    {
-        "track_name": "LGBIRI - Bonus",
-        "track_artists": [
-            "Ateyaba"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2732ce1b58317e3ad7cadf45f42",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ca609abc239a1ed52dfd11b6",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/6PWMAoEaU4ih0ZkPmWgDIJ"
+        "track_url": "https://open.spotify.com/track/2VYHTYG7Ug3cqRYkUuHW8q"
+    },
+    {
+        "track_name": "R\u00dcDIGER",
+        "track_artists": [
+            "HOUDI"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273002af80beb7ec41524946c06",
+        "track_preview": "https://p.scdn.co/mp3-preview/dc56b4ba143e8595333e7cc9ee6ffcdf4d3e4e67?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/52vgGLRTc5T3ZXe5Bdv2Vs"
     }
 ]
