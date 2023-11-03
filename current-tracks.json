@@ -1,31 +1,42 @@
 [
     {
-        "track_name": "Sans toi",
+        "track_name": "Comme jamais",
         "track_artists": [
-            "Myth Syzer",
+            "Soolking",
+            "Zed",
             "Hamza"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27390d7484b62edd5291ef68094",
-        "track_preview": "https://p.scdn.co/mp3-preview/5164e53a95f38a25d452e385f318b8611a5c1476?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/0iIz6vVDp7bPxP639Ro6FC"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273382d41464084766fdb907605",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/310aQZOY3wVUfh2JEaOJX5"
     },
     {
-        "track_name": "Palace (feat. J\u00e4de)",
+        "track_name": "Je t'avais pr\u00e9venue",
         "track_artists": [
-            "EDGE",
-            "J\u00e4de"
+            "H Magnum",
+            "Franglish"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27354a6cdfbdc7a0e77b99abf75",
-        "track_preview": "https://p.scdn.co/mp3-preview/8415bb3c2998bc54f8b5d997a1f67edf51287d1a?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/0E0kfSCYK2ZinzUCLKMCPo"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273d2d4e7a47b9732e56419f709",
+        "track_preview": "https://p.scdn.co/mp3-preview/c0453ac4ef2765f57b83b1951f2c8da0932437fe?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/5TSZzuNGz6xq5SKKwh2Qld"
     },
     {
-        "track_name": "CAUCHEMAR 3",
+        "track_name": "On a trop charbonn\u00e9",
         "track_artists": [
-            "HOUDI"
+            "Le classico organis\u00e9",
+            "AM La Scampia",
+            "Franglish",
+            "100 Blaze",
+            "Jok'air",
+            "Carlito Brigante",
+            "Bol\u00e9mvn",
+            "Jul",
+            "L'Alg\u00e9rino",
+            "KeBlack",
+            "Solda"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2732640c2800c6ca08e57f2b2a7",
-        "track_preview": "https://p.scdn.co/mp3-preview/30a8a1f99d0361acc22b19bb1a275b4ffca84807?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/4dXnY58RMuedIxxLsd0Onj"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27395e2527023061d088736ed3d",
+        "track_preview": "https://p.scdn.co/mp3-preview/12417cfe007991fc858298f7de0d37c449fdaf7e?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/7j4ajgNwW2Mf4qk4vMnGPf"
     }
 ]
