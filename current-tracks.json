@@ -1,42 +1,30 @@
 [
     {
-        "track_name": "Comme jamais",
+        "track_name": "Deal & Stream - Extrait de CRCLR MVT SAISON II",
         "track_artists": [
-            "Soolking",
-            "Zed",
-            "Hamza"
+            "Gambino La MG",
+            "SAF"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273382d41464084766fdb907605",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273e8df53be437ee09ac033ee3c",
+        "track_preview": "https://p.scdn.co/mp3-preview/fdb7872d1c64079638fa2ec7f91230dd9f3453c8?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/6S2rP62I2cZattJg5WbgcN"
+    },
+    {
+        "track_name": "LGBIRI - Bonus",
+        "track_artists": [
+            "Ateyaba"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2732ce1b58317e3ad7cadf45f42",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/310aQZOY3wVUfh2JEaOJX5"
+        "track_url": "https://open.spotify.com/track/6PWMAoEaU4ih0ZkPmWgDIJ"
     },
     {
-        "track_name": "Je t'avais pr\u00e9venue",
+        "track_name": "R\u00dcDIGER",
         "track_artists": [
-            "H Magnum",
-            "Franglish"
+            "HOUDI"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273d2d4e7a47b9732e56419f709",
-        "track_preview": "https://p.scdn.co/mp3-preview/c0453ac4ef2765f57b83b1951f2c8da0932437fe?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/5TSZzuNGz6xq5SKKwh2Qld"
-    },
-    {
-        "track_name": "On a trop charbonn\u00e9",
-        "track_artists": [
-            "Le classico organis\u00e9",
-            "AM La Scampia",
-            "Franglish",
-            "100 Blaze",
-            "Jok'air",
-            "Carlito Brigante",
-            "Bol\u00e9mvn",
-            "Jul",
-            "L'Alg\u00e9rino",
-            "KeBlack",
-            "Solda"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27395e2527023061d088736ed3d",
-        "track_preview": "https://p.scdn.co/mp3-preview/12417cfe007991fc858298f7de0d37c449fdaf7e?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/7j4ajgNwW2Mf4qk4vMnGPf"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273002af80beb7ec41524946c06",
+        "track_preview": "https://p.scdn.co/mp3-preview/dc56b4ba143e8595333e7cc9ee6ffcdf4d3e4e67?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/52vgGLRTc5T3ZXe5Bdv2Vs"
     }
 ]
