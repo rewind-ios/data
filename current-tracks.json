@@ -1,13 +1,22 @@
 [
     {
-        "track_name": "Deal & Stream - Extrait de CRCLR MVT SAISON II",
+        "track_name": "Criminel",
         "track_artists": [
-            "Gambino La MG",
-            "SAF"
+            "Bramsito",
+            "Niska"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273e8df53be437ee09ac033ee3c",
-        "track_preview": "https://p.scdn.co/mp3-preview/fdb7872d1c64079638fa2ec7f91230dd9f3453c8?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6S2rP62I2cZattJg5WbgcN"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2737930486e26f6564be75ac84f",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/6JAezQjLfd5CopZ5klhzHu"
+    },
+    {
+        "track_name": "BONUS EFFRAYANT",
+        "track_artists": [
+            "HOUDI"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273e5968b186ca0926b5984c574",
+        "track_preview": "https://p.scdn.co/mp3-preview/a0798d464c146957aa496ceeecc0d822bc6c96b7?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/0wvKrBlHk1OhpZuNsEkSN9"
     },
     {
         "track_name": "LGBIRI - Bonus",
@@ -17,14 +26,5 @@
         "track_cover": "https://i.scdn.co/image/ab67616d0000b2732ce1b58317e3ad7cadf45f42",
         "track_preview": "",
         "track_url": "https://open.spotify.com/track/6PWMAoEaU4ih0ZkPmWgDIJ"
-    },
-    {
-        "track_name": "R\u00dcDIGER",
-        "track_artists": [
-            "HOUDI"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273002af80beb7ec41524946c06",
-        "track_preview": "https://p.scdn.co/mp3-preview/dc56b4ba143e8595333e7cc9ee6ffcdf4d3e4e67?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/52vgGLRTc5T3ZXe5Bdv2Vs"
     }
 ]
