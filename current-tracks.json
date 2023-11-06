@@ -1,29 +1,30 @@
 [
     {
-        "track_name": "Compliqu\u00e9",
+        "track_name": "Marquises",
         "track_artists": [
-            "EDGE"
+            "Disiz",
+            "Hamza"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273399d3d48ed698b700ad2ba71",
-        "track_preview": "https://p.scdn.co/mp3-preview/c0dde99ec39ab4aaf1d7e8fb7c533393949a9ea1?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/3CjRUDRlBMeRPL9xKwhmmK"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273027b6e86d6e8cc7af127e825",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/7lSQLxWMkFdOy72LDibY1M"
     },
     {
-        "track_name": "CVA",
+        "track_name": "Probl\u00e8mes du matin",
         "track_artists": [
-            "NeS"
+            "Ninho"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273db520bb005a31225511e6ddb",
-        "track_preview": "https://p.scdn.co/mp3-preview/a732fcef73ca01496d992b42394c441aeace3bd7?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/4He5f8FsXKRcOdhleYNZFV"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f95b3f97ed99b30a717f4396",
+        "track_preview": "https://p.scdn.co/mp3-preview/088012113a7a1e16fcb26b4a96687ef0ef6fa31d?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/1n4Ud9ZkZY5mA7QfIu53r8"
     },
     {
-        "track_name": "Calumet",
+        "track_name": "regarde",
         "track_artists": [
-            "Hornet La Frappe"
+            "34murphy"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27304fe648a80f2cf2b016258c8",
-        "track_preview": "https://p.scdn.co/mp3-preview/1a175b765e061859d6827ca15dc323cef4643f9e?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/4hCHnvepjWmpP2kgYuEC7d"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ad35084d9a0f325c1bec5789",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/3Qhj6KQw8DLctfxdw9CrvZ"
     }
 ]
