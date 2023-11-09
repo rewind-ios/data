@@ -1,31 +1,32 @@
 [
     {
-        "track_name": "Maudit (feat. Hamza)",
+        "track_name": "SOLITAIRE",
         "track_artists": [
-            "Vald",
+            "Prinzly",
             "Hamza"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273d786d5d4d12fe3e33aec8752",
-        "track_preview": "https://p.scdn.co/mp3-preview/1ca928d5c44f43a418837a21c83f26cc628edbbc?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6MHeQfndkEfQvEoHOpkjgl"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27344e6c7d6d54513f849ee2ae9",
+        "track_preview": "https://p.scdn.co/mp3-preview/60852bb56876f4870b2e941d8dcaa24f8af3b316?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/7vZHHEWobZhy29OmLSQIjH"
     },
     {
-        "track_name": "crack crack",
+        "track_name": "Obscurit\u00e9 (feat. Hamza)",
         "track_artists": [
-            "Mairo"
+            "ElGrandeToto",
+            "Hamza"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2739127367ad406522575a673d5",
-        "track_preview": "https://p.scdn.co/mp3-preview/4e28465b0f7da47dd36289cd7234bbca664db6fb?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/1wMXCXXZRESzcMVTWvhcmX"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ed623ce724d59c3065a31388",
+        "track_preview": "https://p.scdn.co/mp3-preview/94b40629e8b73c2d904a6183f4c441554d375fba?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/2FkCxMgyjqvKwV0wqKb3vF"
     },
     {
-        "track_name": "MKII",
+        "track_name": "Mastic",
         "track_artists": [
-            "FEMTOGO",
-            "neophron"
+            "Guy2Bezbar",
+            "Hamza"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273a36f85cdd02924af0a76f2fe",
-        "track_preview": "https://p.scdn.co/mp3-preview/6bbdb524171daac2b68cf12b04fed10e814249e6?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/5nikpahfP4xCbJt1T65fCI"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273520508401966572476eb5e03",
+        "track_preview": "https://p.scdn.co/mp3-preview/832d312156eb5e1c0cb8dab92ec9c2d136e5fd67?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/4i8Vyi0H8MCXlrCKqMGHor"
     }
 ]
