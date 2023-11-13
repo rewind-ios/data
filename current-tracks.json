@@ -1,29 +1,30 @@
 [
     {
-        "track_name": "Comme tu es",
+        "track_name": "Cuba",
         "track_artists": [
-            "Franglish"
+            "Hamza"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2737b5d2a1dac967202fd008710",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273a14e38b1dc2396c8e170e577",
+        "track_preview": "https://p.scdn.co/mp3-preview/68dc454fe96d42f090ff839ce95fd9c15d31167f?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/6RF8VQGR4gFyUV5jTNmcqE"
+    },
+    {
+        "track_name": "Criminel",
+        "track_artists": [
+            "Bramsito",
+            "Niska"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2737930486e26f6564be75ac84f",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/0UVLqFLFMDMhUOS5OtcMNi"
+        "track_url": "https://open.spotify.com/track/6JAezQjLfd5CopZ5klhzHu"
     },
     {
-        "track_name": "Coeur, Conscience",
+        "track_name": "Paire de Prada",
         "track_artists": [
-            "Jazzy Bazz"
+            "Alpha Wann"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27342f98f4eab8b0b38a4877831",
-        "track_preview": "https://p.scdn.co/mp3-preview/44f0afb2eaca9b7fb06ff99988bca78973c45262?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6cD3CxmcLveyHsQoqVCfFn"
-    },
-    {
-        "track_name": "CALMITO",
-        "track_artists": [
-            "HOUDI"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273bff3ad2f41f148c0a75d2d07",
-        "track_preview": "https://p.scdn.co/mp3-preview/9c3f5e3ed0a4cf81adc0d659a7415e216484c11b?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6WXIBjjqx1ZS8HFHyGQgnw"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f9f4c20d531f99312ed5de45",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/2d7wQ0V8uGcAeXQ0TfXSyV"
     }
 ]
