@@ -1,30 +1,33 @@
 [
     {
-        "track_name": "Soir\u00e9es des cit\u00e9s",
+        "track_name": "CASTING",
         "track_artists": [
-            "DA Uzi"
+            "EDGE",
+            "Ratu$"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273c02777e049de6be1db326d94",
-        "track_preview": "https://p.scdn.co/mp3-preview/d4dcb98b94e04652b0e2880543746ce7fca0b10e?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/1DuGijuKlKeiMGlU6x5LEb"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2733fe09aaa46e497fb24ea59ba",
+        "track_preview": "https://p.scdn.co/mp3-preview/572aa16c706cead0ee10124e9f6a728727ae76c3?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/2x445JLcE4EabQUiXPXpgp"
     },
     {
-        "track_name": "Old Boy",
+        "track_name": "Laisse moi te dire",
         "track_artists": [
-            "Hugo TSR"
+            "No Limit",
+            "Tayc",
+            "Hamza"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b71a55d7c06d524ff66991c1",
-        "track_preview": "https://p.scdn.co/mp3-preview/a759f7a8bb9620c422bb79240fa3c0d1a9649809?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/33IkUVE8cyaWO92IbxIr2j"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ebc5ecc01cb262a62edea514",
+        "track_preview": "https://p.scdn.co/mp3-preview/81af1359dcf9db797655f01b0fac9bcfeb09bd5d?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/7dq6t0RK55zKi6CRsbnMJT"
     },
     {
-        "track_name": "MILLION",
+        "track_name": "Fauves",
         "track_artists": [
-            "Stony Stone",
-            "HOUDI"
+            "Zamdane",
+            "Jazzy Bazz"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273da224d346a4364f17b09a1e3",
-        "track_preview": "https://p.scdn.co/mp3-preview/05a7ff5037c6a2edb8cd15ed0188ff91968b6ebf?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/13XCZ4orFEmxN9UoukGyCa"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27363295426613ca48a50e434a9",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/5lyKwmMB1nuU3jUrrIFI3Q"
     }
 ]
