@@ -1,33 +1,29 @@
 [
     {
-        "track_name": "CASTING",
+        "track_name": "Intro",
         "track_artists": [
-            "EDGE",
-            "Ratu$"
+            "Lesram"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2733fe09aaa46e497fb24ea59ba",
-        "track_preview": "https://p.scdn.co/mp3-preview/572aa16c706cead0ee10124e9f6a728727ae76c3?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/2x445JLcE4EabQUiXPXpgp"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2739ef73b5453b6f4957c23f87e",
+        "track_preview": "https://p.scdn.co/mp3-preview/d97396f7bcea5d895f02bd8ab50203eb72d561c9?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/7sHtGL7OJ15dssSEB9oxLi"
     },
     {
-        "track_name": "Laisse moi te dire",
+        "track_name": "CALMOS",
         "track_artists": [
-            "No Limit",
-            "Tayc",
+            "HOUDI"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273dfff138d66f6a86b0b82b303",
+        "track_preview": "https://p.scdn.co/mp3-preview/36c022462c2da288f2b3ad79a7a126885b8a931b?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/2AC4Twvon2Z3WER5DU5Lzf"
+    },
+    {
+        "track_name": "Addiction",
+        "track_artists": [
             "Hamza"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ebc5ecc01cb262a62edea514",
-        "track_preview": "https://p.scdn.co/mp3-preview/81af1359dcf9db797655f01b0fac9bcfeb09bd5d?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/7dq6t0RK55zKi6CRsbnMJT"
-    },
-    {
-        "track_name": "Fauves",
-        "track_artists": [
-            "Zamdane",
-            "Jazzy Bazz"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27363295426613ca48a50e434a9",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/5lyKwmMB1nuU3jUrrIFI3Q"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2739297f238f237431d56c67460",
+        "track_preview": "https://p.scdn.co/mp3-preview/33d12e9e5a3dd3394b1649d515912260b01579dd?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/07JqNLmPUJSlcouGQoJlzq"
     }
 ]
