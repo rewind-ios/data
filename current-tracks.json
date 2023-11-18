@@ -1,29 +1,34 @@
 [
     {
-        "track_name": "Intro",
+        "track_name": "FAUX G",
         "track_artists": [
-            "Lesram"
+            "Saboteur",
+            "Deen Burbigo",
+            "Jazzy Bazz",
+            "La F\u00e8ve"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2739ef73b5453b6f4957c23f87e",
-        "track_preview": "https://p.scdn.co/mp3-preview/d97396f7bcea5d895f02bd8ab50203eb72d561c9?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/7sHtGL7OJ15dssSEB9oxLi"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273c4072310c81438796905cb8e",
+        "track_preview": "https://p.scdn.co/mp3-preview/4c528fa2cd6adae57de5759fac15e581e3904768?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3t6GTlbWPl2j9iAjj4fdJ6"
     },
     {
-        "track_name": "CALMOS",
+        "track_name": "Portes Suicide",
         "track_artists": [
-            "HOUDI"
+            "Dinos",
+            "Ninho"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273dfff138d66f6a86b0b82b303",
-        "track_preview": "https://p.scdn.co/mp3-preview/36c022462c2da288f2b3ad79a7a126885b8a931b?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/2AC4Twvon2Z3WER5DU5Lzf"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273af09d950d28e289163448ab5",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/6ZcKyt3c0bnJjn4igDFrzf"
     },
     {
-        "track_name": "Addiction",
+        "track_name": "Palace (feat. J\u00e4de)",
         "track_artists": [
-            "Hamza"
+            "EDGE",
+            "J\u00e4de"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2739297f238f237431d56c67460",
-        "track_preview": "https://p.scdn.co/mp3-preview/33d12e9e5a3dd3394b1649d515912260b01579dd?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/07JqNLmPUJSlcouGQoJlzq"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27354a6cdfbdc7a0e77b99abf75",
+        "track_preview": "https://p.scdn.co/mp3-preview/8415bb3c2998bc54f8b5d997a1f67edf51287d1a?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/0E0kfSCYK2ZinzUCLKMCPo"
     }
 ]
