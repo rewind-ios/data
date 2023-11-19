@@ -1,34 +1,30 @@
 [
     {
-        "track_name": "FAUX G",
+        "track_name": "Cris des m\u00f4mes",
         "track_artists": [
-            "Saboteur",
-            "Deen Burbigo",
-            "Jazzy Bazz",
-            "La F\u00e8ve"
+            "Lesram"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273c4072310c81438796905cb8e",
-        "track_preview": "https://p.scdn.co/mp3-preview/4c528fa2cd6adae57de5759fac15e581e3904768?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/3t6GTlbWPl2j9iAjj4fdJ6"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2739ef73b5453b6f4957c23f87e",
+        "track_preview": "https://p.scdn.co/mp3-preview/d3c8d6d13074635d7f129eff7e1969f11a4479c4?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/6YN10hrd42udiW9cqTrulR"
     },
     {
-        "track_name": "Portes Suicide",
+        "track_name": "SHECK WES",
         "track_artists": [
-            "Dinos",
-            "Ninho"
+            "Zeu",
+            "Ormaz"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273af09d950d28e289163448ab5",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/6ZcKyt3c0bnJjn4igDFrzf"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273448972450d7f27cdb5f92991",
+        "track_preview": "https://p.scdn.co/mp3-preview/63484eedc0873c7fb9f7f987b693406710f20a17?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/7nhkeUqsFrpg1dDuZwVNrv"
     },
     {
-        "track_name": "Palace (feat. J\u00e4de)",
+        "track_name": "Vu d'en haut",
         "track_artists": [
-            "EDGE",
-            "J\u00e4de"
+            "EDGE"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27354a6cdfbdc7a0e77b99abf75",
-        "track_preview": "https://p.scdn.co/mp3-preview/8415bb3c2998bc54f8b5d997a1f67edf51287d1a?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/0E0kfSCYK2ZinzUCLKMCPo"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273399d3d48ed698b700ad2ba71",
+        "track_preview": "https://p.scdn.co/mp3-preview/31622a0da0efbb2fcb46755b29ef49beca34a7b6?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3I61jVUkATxMP57o54QZNN"
     }
 ]
