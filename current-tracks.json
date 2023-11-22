@@ -1,33 +1,31 @@
 [
     {
-        "track_name": "Comme tu es",
+        "track_name": "Pas un Euj",
         "track_artists": [
-            "Franglish"
+            "Slimka",
+            "Jok'air"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2737b5d2a1dac967202fd008710",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/0UVLqFLFMDMhUOS5OtcMNi"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273caa055eb6cd1066328f3b074",
+        "track_preview": "https://p.scdn.co/mp3-preview/99e22c880b502343cd95d8d9f9d1663600d290ba?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/1bT2UCN4Ob2xniMgqBHp0n"
     },
     {
-        "track_name": "Ma iv",
+        "track_name": "Scars",
         "track_artists": [
-            "Deen Burbigo",
-            "Alpha Wann",
-            "Nekfeu",
-            "Jazzy",
-            "Bazz"
+            "baby hayabusa",
+            "neophron"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273d0373a8d021c9d1655fa5dc9",
-        "track_preview": "https://p.scdn.co/mp3-preview/24517f66e470b30d78bbc734c19b025089d6d268?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/2VS8q7CyRsggU6z4o2Dgt9"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273aeb44e431e6792e8c79f71f5",
+        "track_preview": "https://p.scdn.co/mp3-preview/c9b34421d94b65922d6e721560947cef92974b42?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/43UpFAqHJa1yoAocJTkc9g"
     },
     {
-        "track_name": "Hydroponie",
+        "track_name": "Probl\u00e8mes du matin",
         "track_artists": [
-            "Alpha Wann"
+            "Ninho"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273012b9be80a30474b3e6ecc0b",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/1iuPiD85FeJubHplU0r6c7"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f95b3f97ed99b30a717f4396",
+        "track_preview": "https://p.scdn.co/mp3-preview/088012113a7a1e16fcb26b4a96687ef0ef6fa31d?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/1n4Ud9ZkZY5mA7QfIu53r8"
     }
 ]
