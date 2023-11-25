@@ -1,31 +1,31 @@
 [
     {
-        "track_name": "Vrai og",
+        "track_name": "CDC",
         "track_artists": [
-            "Tayc"
+            "Niska",
+            "Pepito",
+            "Madrane"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273edada44aa6563859737ef170",
-        "track_preview": "https://p.scdn.co/mp3-preview/8a2d1f2b3d208dc1867c4c544a86f81f9387742b?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/2R2URjb9drCzvHwLNtwY2u"
-    },
-    {
-        "track_name": "P2",
-        "track_artists": [
-            "Deen Burbigo",
-            "Esso Luxueux"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27330baf01b00d9afedc52851c4",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27397644a8a0e18cda742fcbf5f",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/53oyhq6oGOHIMoDDW6xxKQ"
+        "track_url": "https://open.spotify.com/track/1mn02AnGIKkKzRJGNxxvcM"
     },
     {
-        "track_name": "Bitch (feat. Vald)",
+        "track_name": "hors de ma vue",
         "track_artists": [
-            "Lefa",
-            "Vald"
+            "Krisy"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273dcdb206ee5c8b27b3f8254dc",
-        "track_preview": "https://p.scdn.co/mp3-preview/7fbed5497461aa0bf5a35072fd11adc7e2e558c2?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/4Bg5ufw4skMPjZl95Y7axO"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2730f27565f0e8495c6e0243419",
+        "track_preview": "https://p.scdn.co/mp3-preview/bdc1bf2233b45df91263e428a5b394a5c378b515?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/4Fx7PyC66y1VMoQShoE7NP"
+    },
+    {
+        "track_name": "M98B",
+        "track_artists": [
+            "Jolagreen23"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273e73f037d4997e6cf8d2dd0f5",
+        "track_preview": "https://p.scdn.co/mp3-preview/4e66ade9d229db68bd2f388eb127420f7141d9aa?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/22NbUMjKBrqndMfR3fd2sP"
     }
 ]
