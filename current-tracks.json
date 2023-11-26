@@ -1,31 +1,30 @@
 [
     {
-        "track_name": "CDC",
+        "track_name": "Double file (feat. Dinos)",
         "track_artists": [
-            "Niska",
-            "Pepito",
-            "Madrane"
+            "Zikxo",
+            "Dinos"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2730bf4970876b4ff379414f935",
+        "track_preview": "https://p.scdn.co/mp3-preview/8cdaeffcd37b647c12727b09f75665b255ac024d?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/4kwLSSLiymfxuxjtVMNHNo"
+    },
+    {
+        "track_name": "Toutes les couleurs",
+        "track_artists": [
+            "Ninho"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f95b3f97ed99b30a717f4396",
+        "track_preview": "https://p.scdn.co/mp3-preview/5f91923085ec8ae047a7245d332ab2a674d1354b?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/7s0TcSgr6VzxjJ4S9VuJc9"
+    },
+    {
+        "track_name": "Le monde est m\u00e9chant",
+        "track_artists": [
+            "Niska"
         ],
         "track_cover": "https://i.scdn.co/image/ab67616d0000b27397644a8a0e18cda742fcbf5f",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/1mn02AnGIKkKzRJGNxxvcM"
-    },
-    {
-        "track_name": "hors de ma vue",
-        "track_artists": [
-            "Krisy"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2730f27565f0e8495c6e0243419",
-        "track_preview": "https://p.scdn.co/mp3-preview/bdc1bf2233b45df91263e428a5b394a5c378b515?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/4Fx7PyC66y1VMoQShoE7NP"
-    },
-    {
-        "track_name": "M98B",
-        "track_artists": [
-            "Jolagreen23"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273e73f037d4997e6cf8d2dd0f5",
-        "track_preview": "https://p.scdn.co/mp3-preview/4e66ade9d229db68bd2f388eb127420f7141d9aa?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/22NbUMjKBrqndMfR3fd2sP"
+        "track_url": "https://open.spotify.com/track/2DhOf9aFuyDaCgQ00ApAL3"
     }
 ]
