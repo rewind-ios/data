@@ -1,30 +1,31 @@
 [
     {
-        "track_name": "Double file (feat. Dinos)",
+        "track_name": "Square",
         "track_artists": [
-            "Zikxo",
-            "Dinos"
+            "4Keus"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2730bf4970876b4ff379414f935",
-        "track_preview": "https://p.scdn.co/mp3-preview/8cdaeffcd37b647c12727b09f75665b255ac024d?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/4kwLSSLiymfxuxjtVMNHNo"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2732a13271b14086c9a0a3fcb60",
+        "track_preview": "https://p.scdn.co/mp3-preview/216986a36b6bfed5307835165996a27676f4011f?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/5drQNRYsZGVEhh2mtuNwE8"
     },
     {
-        "track_name": "Toutes les couleurs",
+        "track_name": "Tha\u00eflande",
         "track_artists": [
-            "Ninho"
+            "Dosseh",
+            "Bramsito"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f95b3f97ed99b30a717f4396",
-        "track_preview": "https://p.scdn.co/mp3-preview/5f91923085ec8ae047a7245d332ab2a674d1354b?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/7s0TcSgr6VzxjJ4S9VuJc9"
-    },
-    {
-        "track_name": "Le monde est m\u00e9chant",
-        "track_artists": [
-            "Niska"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27397644a8a0e18cda742fcbf5f",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273cc535dd4d4e7611c005689b6",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/2DhOf9aFuyDaCgQ00ApAL3"
+        "track_url": "https://open.spotify.com/track/1FkKaz2v65DsN4WlGsgoqu"
+    },
+    {
+        "track_name": "DJINN",
+        "track_artists": [
+            "HOUDI",
+            "Stony Stone"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273dfff138d66f6a86b0b82b303",
+        "track_preview": "https://p.scdn.co/mp3-preview/9eb7fcf1405164134e55c4ed2cdec38ca2aef6c5?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3CjKdEkOtB8Iq3zproGbFL"
     }
 ]
