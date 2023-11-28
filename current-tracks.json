@@ -1,31 +1,30 @@
 [
     {
-        "track_name": "Square",
+        "track_name": "Turban",
         "track_artists": [
-            "4Keus"
+            "Alpha Wann"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2732a13271b14086c9a0a3fcb60",
-        "track_preview": "https://p.scdn.co/mp3-preview/216986a36b6bfed5307835165996a27676f4011f?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/5drQNRYsZGVEhh2mtuNwE8"
-    },
-    {
-        "track_name": "Tha\u00eflande",
-        "track_artists": [
-            "Dosseh",
-            "Bramsito"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273cc535dd4d4e7611c005689b6",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f9f4c20d531f99312ed5de45",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/1FkKaz2v65DsN4WlGsgoqu"
+        "track_url": "https://open.spotify.com/track/088z1LqLYn74Vdh2CdRvTQ"
     },
     {
-        "track_name": "DJINN",
+        "track_name": "Roberto Baggio",
         "track_artists": [
-            "HOUDI",
-            "Stony Stone"
+            "JeanJass",
+            "Youssoupha"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273dfff138d66f6a86b0b82b303",
-        "track_preview": "https://p.scdn.co/mp3-preview/9eb7fcf1405164134e55c4ed2cdec38ca2aef6c5?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/3CjKdEkOtB8Iq3zproGbFL"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273978be0819ec62d09c7475355",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/1f9S2cYR26ww8JARgafYjr"
+    },
+    {
+        "track_name": "JDAY",
+        "track_artists": [
+            "Zeu"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273448972450d7f27cdb5f92991",
+        "track_preview": "https://p.scdn.co/mp3-preview/d472a42fd0c78782e34a7e9ea5d2b88351698d55?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/6Ppunn0oij7cXSsQRefvrx"
     }
 ]
