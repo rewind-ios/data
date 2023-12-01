@@ -1,31 +1,32 @@
 [
     {
-        "track_name": "Slide",
+        "track_name": "CASTING",
         "track_artists": [
-            "Franglish",
-            "Hamza"
+            "EDGE",
+            "Ratu$"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27352632467a31ed119a12b565a",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/7r34Ig3S7rR1bZmZ0GmxW8"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2733fe09aaa46e497fb24ea59ba",
+        "track_preview": "https://p.scdn.co/mp3-preview/572aa16c706cead0ee10124e9f6a728727ae76c3?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/2x445JLcE4EabQUiXPXpgp"
     },
     {
-        "track_name": "San Pellegrino",
+        "track_name": "SUR LE GUN",
         "track_artists": [
-            "Chily"
+            "Yvnnis"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b914a6286bc39e2bf9070b74",
-        "track_preview": "https://p.scdn.co/mp3-preview/4364aa43505987f7cfe33e5a48e15e90edd7aa94?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/5jfvG5UhPE92bhwyJgbKYl"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273e5fb8425dfe7771f698113b7",
+        "track_preview": "https://p.scdn.co/mp3-preview/2e8217fa69e182ca5be37fc89003980fac2e0bbb?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/2Rs0ueNGhjxXnGLdCSEiQE"
     },
     {
-        "track_name": "Laisse moi (feat. Hamza)",
+        "track_name": "HNINA (feat. Ghost Killer Track)",
         "track_artists": [
-            "Lous and The Yakuza",
-            "Hamza"
+            "Stony Stone",
+            "HOUDI",
+            "Ghost Killer Track"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2736a1950afcffaa076fc4905a5",
-        "track_preview": "https://p.scdn.co/mp3-preview/cff3a2b9f804aab18c1c26035a439ac8d67dac30?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/7vNC9o1onqyp0PvypOZ4Yj"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273da224d346a4364f17b09a1e3",
+        "track_preview": "https://p.scdn.co/mp3-preview/06e930628cc4e2a52f25f8278ded4b0d4468ed1f?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/7wTop5ElIt0HcZJpxCcxdX"
     }
 ]
