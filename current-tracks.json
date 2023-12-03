@@ -1,33 +1,32 @@
 [
     {
-        "track_name": "Keur Nwar",
+        "track_name": "Dark City",
         "track_artists": [
-            "SDM"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b88dd3f6147c30901e18732e",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/6DjuDcreFKYmHAbldvMzLU"
-    },
-    {
-        "track_name": "Coeur, Conscience",
-        "track_artists": [
-            "Jazzy Bazz"
+            "Jazzy Bazz",
+            "EDGE"
         ],
         "track_cover": "https://i.scdn.co/image/ab67616d0000b27342f98f4eab8b0b38a4877831",
-        "track_preview": "https://p.scdn.co/mp3-preview/44f0afb2eaca9b7fb06ff99988bca78973c45262?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6cD3CxmcLveyHsQoqVCfFn"
+        "track_preview": "https://p.scdn.co/mp3-preview/e223e63d4c5c6cb835330a07c1d8c30787fb18e7?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/61ZtfldLZCE3YqrQwSIshy"
     },
     {
-        "track_name": "SABOTEUR GANG",
+        "track_name": "TRABAJAW",
         "track_artists": [
-            "Saboteur",
-            "Deen Burbigo",
-            "Eff Gee",
-            "Esso Luxueux",
-            "Ratu$"
+            "HOUDI"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273c4072310c81438796905cb8e",
-        "track_preview": "https://p.scdn.co/mp3-preview/7c319033c59fa629710d004ea5a366913a6031d2?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/29XlgOqbi6cKX9lTMEjta0"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273e5968b186ca0926b5984c574",
+        "track_preview": "https://p.scdn.co/mp3-preview/7ea4a5675ab16984a2e0770a2ff8863584be05ce?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/5F9ra9qgU28UuJWgI53Otk"
+    },
+    {
+        "track_name": "Mec de cit\u00e9",
+        "track_artists": [
+            "Yaro",
+            "Ninho",
+            "PLK"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2735dbfb94d7993874c53a765a8",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/0ZgS1ThlLDBfoSLwLc8AfO"
     }
 ]
