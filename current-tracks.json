@@ -1,32 +1,30 @@
 [
     {
-        "track_name": "Dark City",
+        "track_name": "Cuba",
         "track_artists": [
-            "Jazzy Bazz",
-            "EDGE"
+            "Hamza"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27342f98f4eab8b0b38a4877831",
-        "track_preview": "https://p.scdn.co/mp3-preview/e223e63d4c5c6cb835330a07c1d8c30787fb18e7?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/61ZtfldLZCE3YqrQwSIshy"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273a14e38b1dc2396c8e170e577",
+        "track_preview": "https://p.scdn.co/mp3-preview/68dc454fe96d42f090ff839ce95fd9c15d31167f?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/6RF8VQGR4gFyUV5jTNmcqE"
     },
     {
-        "track_name": "TRABAJAW",
+        "track_name": ".FUMEE.\u00c9PAISSE.",
         "track_artists": [
-            "HOUDI"
+            "Kobo",
+            "Damso"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273e5968b186ca0926b5984c574",
-        "track_preview": "https://p.scdn.co/mp3-preview/7ea4a5675ab16984a2e0770a2ff8863584be05ce?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/5F9ra9qgU28UuJWgI53Otk"
-    },
-    {
-        "track_name": "Mec de cit\u00e9",
-        "track_artists": [
-            "Yaro",
-            "Ninho",
-            "PLK"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2735dbfb94d7993874c53a765a8",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273cc3f46757a5ad6e23412b8da",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/0ZgS1ThlLDBfoSLwLc8AfO"
+        "track_url": "https://open.spotify.com/track/3ito6F0uTgkWADZNtoPji2"
+    },
+    {
+        "track_name": "Game 7",
+        "track_artists": [
+            "Jok'air"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2731c6be6320c47b3d7f5f209b9",
+        "track_preview": "https://p.scdn.co/mp3-preview/6b488cb56b34a31df24475b2063f03ba0f5827d8?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/779O4gnXKkMlLLd99zNQDF"
     }
 ]
