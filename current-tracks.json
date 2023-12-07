@@ -1,15 +1,5 @@
 [
     {
-        "track_name": "Mode Avion",
-        "track_artists": [
-            "Gros Mo",
-            "EDGE"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273369022be0712f62488a9871e",
-        "track_preview": "https://p.scdn.co/mp3-preview/ec345256064041eeb36576e4339ab8817b8f6917?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/7kXzu9rK0t4qycy3wL5qvK"
-    },
-    {
         "track_name": "HNINA (feat. Ghost Killer Track)",
         "track_artists": [
             "Stony Stone",
@@ -21,13 +11,22 @@
         "track_url": "https://open.spotify.com/track/7wTop5ElIt0HcZJpxCcxdX"
     },
     {
-        "track_name": "100k",
+        "track_name": "Deal & Stream - Extrait de CRCLR MVT SAISON II",
         "track_artists": [
-            "34murphy",
-            "Sobek"
+            "Gambino La MG",
+            "SAF"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273c3a2b5d1674fc8b6c69e1840",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273e8df53be437ee09ac033ee3c",
+        "track_preview": "https://p.scdn.co/mp3-preview/fdb7872d1c64079638fa2ec7f91230dd9f3453c8?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/6S2rP62I2cZattJg5WbgcN"
+    },
+    {
+        "track_name": "Qu'est ce qui m'arrive",
+        "track_artists": [
+            "JeanJass"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273177270b6829ddd67ed561868",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/0rN20XegpM67SN87zPxjWu"
+        "track_url": "https://open.spotify.com/track/0MrK9jb8k4piwh8zU5Qey3"
     }
 ]
