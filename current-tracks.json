@@ -1,32 +1,34 @@
 [
     {
-        "track_name": "HNINA (feat. Ghost Killer Track)",
+        "track_name": "T'as capt\u00e9",
         "track_artists": [
-            "Stony Stone",
-            "HOUDI",
-            "Ghost Killer Track"
+            "S.Pri Noir",
+            "Alpha Wann",
+            "Sneazzy"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273da224d346a4364f17b09a1e3",
-        "track_preview": "https://p.scdn.co/mp3-preview/06e930628cc4e2a52f25f8278ded4b0d4468ed1f?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/7wTop5ElIt0HcZJpxCcxdX"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2738102c807432b7b63d7b9c3dd",
+        "track_preview": "https://p.scdn.co/mp3-preview/be479db9e8c59d5eb66fb8c54d9a2ad18a6d029d?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/5CO0a7utO79twHhGb1sxTw"
     },
     {
-        "track_name": "Deal & Stream - Extrait de CRCLR MVT SAISON II",
+        "track_name": "Benzo - feat. Hamza, Leto",
         "track_artists": [
-            "Gambino La MG",
-            "SAF"
+            "Rim'K",
+            "Leto",
+            "Hamza"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273e8df53be437ee09ac033ee3c",
-        "track_preview": "https://p.scdn.co/mp3-preview/fdb7872d1c64079638fa2ec7f91230dd9f3453c8?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6S2rP62I2cZattJg5WbgcN"
-    },
-    {
-        "track_name": "Qu'est ce qui m'arrive",
-        "track_artists": [
-            "JeanJass"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273177270b6829ddd67ed561868",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2736f85f01ba3b4dcfc1cd7ba76",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/0MrK9jb8k4piwh8zU5Qey3"
+        "track_url": "https://open.spotify.com/track/79AGGL5GLjdvvLmpeBKyJX"
+    },
+    {
+        "track_name": "ALCHIMIE",
+        "track_artists": [
+            "La F\u00e8ve",
+            "Kosei"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2736d59695e16cdf5e16d423e63",
+        "track_preview": "https://p.scdn.co/mp3-preview/4fad95a7ffc1a30392d8747334181eab1caae8bc?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3fWKIdgG2hDSg3Go683kH0"
     }
 ]
