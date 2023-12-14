@@ -1,32 +1,30 @@
 [
     {
-        "track_name": "\u00c0 deux pas",
+        "track_name": "Toutes les couleurs",
         "track_artists": [
-            "Alpha Wann",
-            "Nekfeu"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273a9abfeeb556ac61715535e8e",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/5fGeEt85ytd6xhDGpopBZr"
-    },
-    {
-        "track_name": "BLH",
-        "track_artists": [
-            "Gradur",
             "Ninho"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2738320af5749259913564098be",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/6CfGQzfXt10xyTt6QYKueh"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f5cdcd0491e495a848fb8bb6",
+        "track_preview": "https://p.scdn.co/mp3-preview/5f91923085ec8ae047a7245d332ab2a674d1354b?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/7s0TcSgr6VzxjJ4S9VuJc9"
     },
     {
-        "track_name": "DJINN",
+        "track_name": "MKII",
         "track_artists": [
-            "HOUDI",
-            "Stony Stone"
+            "FEMTOGO",
+            "neophron"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273dfff138d66f6a86b0b82b303",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273a36f85cdd02924af0a76f2fe",
+        "track_preview": "https://p.scdn.co/mp3-preview/6bbdb524171daac2b68cf12b04fed10e814249e6?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/5nikpahfP4xCbJt1T65fCI"
+    },
+    {
+        "track_name": "Tulum",
+        "track_artists": [
+            "Dinos"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2736d87200c168c8876c7c2ebd8",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/3CjKdEkOtB8Iq3zproGbFL"
+        "track_url": "https://open.spotify.com/track/158IeVCrnVJlMsWaleMsnN"
     }
 ]
