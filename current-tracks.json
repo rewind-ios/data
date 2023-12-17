@@ -1,29 +1,32 @@
 [
     {
-        "track_name": "ELEVATION",
+        "track_name": "MAFIA",
         "track_artists": [
-            "AAMO"
+            "Rounhaa"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273af60b35f010033596026eb9a",
-        "track_preview": "https://p.scdn.co/mp3-preview/935861c08296115da9d9352717fecbe3407d65f5?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/11bECtMQz7Xmpd9rBgKYmy"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27329937008eb9e06df2fd3d49b",
+        "track_preview": "https://p.scdn.co/mp3-preview/1c4f2fe010e9a5386b217333a5f820bce411d5fb?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/0jIBOHLQp8BfUXXMYbfOAe"
     },
     {
-        "track_name": "Intro",
+        "track_name": "Dark City",
         "track_artists": [
-            "Lesram"
+            "Jazzy Bazz",
+            "EDGE"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2739ef73b5453b6f4957c23f87e",
-        "track_preview": "https://p.scdn.co/mp3-preview/d97396f7bcea5d895f02bd8ab50203eb72d561c9?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/7sHtGL7OJ15dssSEB9oxLi"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27342f98f4eab8b0b38a4877831",
+        "track_preview": "https://p.scdn.co/mp3-preview/e223e63d4c5c6cb835330a07c1d8c30787fb18e7?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/61ZtfldLZCE3YqrQwSIshy"
     },
     {
-        "track_name": "N'oublie pas",
+        "track_name": "CBD",
         "track_artists": [
-            "S-Crew"
+            "Saboteur",
+            "Deen Burbigo",
+            "Nubi"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273494a339a3667b890e80ac98f",
-        "track_preview": "https://p.scdn.co/mp3-preview/3a1e64c374a1f39a7a74fd053433d141ac37120b?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/7M2kjdidDi0A2E4Knabggt"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273c4072310c81438796905cb8e",
+        "track_preview": "https://p.scdn.co/mp3-preview/be7dee2dea3958f261d3553d55415e0e18a7a096?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/7yRZ0yZOWGmBAnCYCVoADh"
     }
 ]
