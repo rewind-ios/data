@@ -1,32 +1,33 @@
 [
     {
-        "track_name": "MAFIA",
+        "track_name": "Somebody",
         "track_artists": [
-            "Rounhaa"
+            "HD La Rel\u00e8ve",
+            "Hamza"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27329937008eb9e06df2fd3d49b",
-        "track_preview": "https://p.scdn.co/mp3-preview/1c4f2fe010e9a5386b217333a5f820bce411d5fb?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/0jIBOHLQp8BfUXXMYbfOAe"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27300befc9d236d2d5c77fab5d6",
+        "track_preview": "https://p.scdn.co/mp3-preview/b20cca69fcf31f6f70c2f075627c119ffa5f249d?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/5lSVb0wlpoHUceBEsAoTQk"
     },
     {
-        "track_name": "Dark City",
-        "track_artists": [
-            "Jazzy Bazz",
-            "EDGE"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27342f98f4eab8b0b38a4877831",
-        "track_preview": "https://p.scdn.co/mp3-preview/e223e63d4c5c6cb835330a07c1d8c30787fb18e7?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/61ZtfldLZCE3YqrQwSIshy"
-    },
-    {
-        "track_name": "CBD",
+        "track_name": "FAUX G",
         "track_artists": [
             "Saboteur",
             "Deen Burbigo",
-            "Nubi"
+            "Jazzy Bazz",
+            "La F\u00e8ve"
         ],
         "track_cover": "https://i.scdn.co/image/ab67616d0000b273c4072310c81438796905cb8e",
-        "track_preview": "https://p.scdn.co/mp3-preview/be7dee2dea3958f261d3553d55415e0e18a7a096?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/7yRZ0yZOWGmBAnCYCVoADh"
+        "track_preview": "https://p.scdn.co/mp3-preview/4c528fa2cd6adae57de5759fac15e581e3904768?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3t6GTlbWPl2j9iAjj4fdJ6"
+    },
+    {
+        "track_name": "Tulum",
+        "track_artists": [
+            "Dinos"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2736d87200c168c8876c7c2ebd8",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/158IeVCrnVJlMsWaleMsnN"
     }
 ]
