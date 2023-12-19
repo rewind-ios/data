@@ -1,33 +1,30 @@
 [
     {
-        "track_name": "Somebody",
+        "track_name": "Vrai og",
         "track_artists": [
-            "HD La Rel\u00e8ve",
+            "Tayc"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273edada44aa6563859737ef170",
+        "track_preview": "https://p.scdn.co/mp3-preview/8a2d1f2b3d208dc1867c4c544a86f81f9387742b?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/2R2URjb9drCzvHwLNtwY2u"
+    },
+    {
+        "track_name": "Datcha",
+        "track_artists": [
+            "EDGE"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27354a6cdfbdc7a0e77b99abf75",
+        "track_preview": "https://p.scdn.co/mp3-preview/9ef977526ac19e24f84acf7def92cc9fed86d024?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/4QWC1p4fbVOaABgj0nPP0U"
+    },
+    {
+        "track_name": "Bae",
+        "track_artists": [
+            "Caballero & JeanJass",
             "Hamza"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27300befc9d236d2d5c77fab5d6",
-        "track_preview": "https://p.scdn.co/mp3-preview/b20cca69fcf31f6f70c2f075627c119ffa5f249d?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/5lSVb0wlpoHUceBEsAoTQk"
-    },
-    {
-        "track_name": "FAUX G",
-        "track_artists": [
-            "Saboteur",
-            "Deen Burbigo",
-            "Jazzy Bazz",
-            "La F\u00e8ve"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273c4072310c81438796905cb8e",
-        "track_preview": "https://p.scdn.co/mp3-preview/4c528fa2cd6adae57de5759fac15e581e3904768?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/3t6GTlbWPl2j9iAjj4fdJ6"
-    },
-    {
-        "track_name": "Tulum",
-        "track_artists": [
-            "Dinos"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2736d87200c168c8876c7c2ebd8",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2732618a20189911943345b86d1",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/158IeVCrnVJlMsWaleMsnN"
+        "track_url": "https://open.spotify.com/track/69PsDTFqL2dYZ9AlLwYYN0"
     }
 ]
