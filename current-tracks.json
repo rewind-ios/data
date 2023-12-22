@@ -1,34 +1,30 @@
 [
     {
-        "track_name": "Calumet",
+        "track_name": "SML",
         "track_artists": [
-            "Hornet La Frappe"
+            "AAMO"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27304fe648a80f2cf2b016258c8",
-        "track_preview": "https://p.scdn.co/mp3-preview/1a175b765e061859d6827ca15dc323cef4643f9e?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/4hCHnvepjWmpP2kgYuEC7d"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273af60b35f010033596026eb9a",
+        "track_preview": "https://p.scdn.co/mp3-preview/98ff7d59962e8f885490caad23cc61cfcb6769ee?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/6kuj7BdnPnNRlNKbLJNbMh"
     },
     {
-        "track_name": "Portes Suicide",
+        "track_name": "T\u00c9N\u00c9BREUX",
         "track_artists": [
-            "Dinos",
-            "Ninho"
+            "HOUDI"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273af09d950d28e289163448ab5",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/6ZcKyt3c0bnJjn4igDFrzf"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273e5968b186ca0926b5984c574",
+        "track_preview": "https://p.scdn.co/mp3-preview/16c70dbfbe2b42e8ed9d2049170efed5711f9598?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/0hKpC0aKTjyXAFbuj5FVQt"
     },
     {
-        "track_name": "SABOTEUR GANG",
+        "track_name": "Sans toi",
         "track_artists": [
-            "Saboteur",
-            "Deen Burbigo",
-            "Eff Gee",
-            "Esso Luxueux",
-            "Ratu$"
+            "Myth Syzer",
+            "Hamza"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273c4072310c81438796905cb8e",
-        "track_preview": "https://p.scdn.co/mp3-preview/7c319033c59fa629710d004ea5a366913a6031d2?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/29XlgOqbi6cKX9lTMEjta0"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27390d7484b62edd5291ef68094",
+        "track_preview": "https://p.scdn.co/mp3-preview/5164e53a95f38a25d452e385f318b8611a5c1476?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/0iIz6vVDp7bPxP639Ro6FC"
     }
 ]
