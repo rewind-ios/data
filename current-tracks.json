@@ -1,30 +1,31 @@
 [
     {
-        "track_name": "SML",
+        "track_name": "Sicario",
         "track_artists": [
-            "AAMO"
+            "YL",
+            "Ninho"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273af60b35f010033596026eb9a",
-        "track_preview": "https://p.scdn.co/mp3-preview/98ff7d59962e8f885490caad23cc61cfcb6769ee?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6kuj7BdnPnNRlNKbLJNbMh"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273bd320edc480061c161bb6285",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/4WlhkB8IhnO2Ovqv3tWrHa"
     },
     {
-        "track_name": "T\u00c9N\u00c9BREUX",
+        "track_name": "Compliqu\u00e9",
         "track_artists": [
-            "HOUDI"
+            "EDGE"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273e5968b186ca0926b5984c574",
-        "track_preview": "https://p.scdn.co/mp3-preview/16c70dbfbe2b42e8ed9d2049170efed5711f9598?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/0hKpC0aKTjyXAFbuj5FVQt"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273399d3d48ed698b700ad2ba71",
+        "track_preview": "https://p.scdn.co/mp3-preview/c0dde99ec39ab4aaf1d7e8fb7c533393949a9ea1?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3CjRUDRlBMeRPL9xKwhmmK"
     },
     {
-        "track_name": "Sans toi",
+        "track_name": "Colis (feat. Maes)",
         "track_artists": [
-            "Myth Syzer",
-            "Hamza"
+            "Larry",
+            "Maes"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27390d7484b62edd5291ef68094",
-        "track_preview": "https://p.scdn.co/mp3-preview/5164e53a95f38a25d452e385f318b8611a5c1476?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/0iIz6vVDp7bPxP639Ro6FC"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2738f7d0ae1c360e733a63478fa",
+        "track_preview": "https://p.scdn.co/mp3-preview/0877f41bc09451fd0390945d1897110e8185c03a?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/1sVg7wSCOmUzJLqUmxOvj9"
     }
 ]
