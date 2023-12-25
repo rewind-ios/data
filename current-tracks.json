@@ -1,31 +1,33 @@
 [
     {
-        "track_name": "Slide",
+        "track_name": "Obscurit\u00e9 (feat. Hamza)",
         "track_artists": [
-            "Franglish",
+            "ElGrandeToto",
             "Hamza"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27352632467a31ed119a12b565a",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/7r34Ig3S7rR1bZmZ0GmxW8"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ed623ce724d59c3065a31388",
+        "track_preview": "https://p.scdn.co/mp3-preview/94b40629e8b73c2d904a6183f4c441554d375fba?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/2FkCxMgyjqvKwV0wqKb3vF"
     },
     {
-        "track_name": "Paire de Prada",
+        "track_name": "Mode Avion",
         "track_artists": [
-            "Alpha Wann"
+            "Gros Mo",
+            "EDGE"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f9f4c20d531f99312ed5de45",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/2d7wQ0V8uGcAeXQ0TfXSyV"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273369022be0712f62488a9871e",
+        "track_preview": "https://p.scdn.co/mp3-preview/ec345256064041eeb36576e4339ab8817b8f6917?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/7kXzu9rK0t4qycy3wL5qvK"
     },
     {
-        "track_name": "Lex Luthor",
+        "track_name": "CDC",
         "track_artists": [
-            "NeS",
-            "Luther"
+            "Niska",
+            "Pepito",
+            "Madrane"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f7f5db6ff8d4c86a64abb66b",
-        "track_preview": "https://p.scdn.co/mp3-preview/017725a5fa68bd9537271b5d2d60afb954f95fff?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/1INzmCkygHDbpX9detM2mh"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27397644a8a0e18cda742fcbf5f",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/1mn02AnGIKkKzRJGNxxvcM"
     }
 ]
