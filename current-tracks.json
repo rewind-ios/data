@@ -1,33 +1,31 @@
 [
     {
-        "track_name": "GRV PAS LE TEMPS",
+        "track_name": "Type plante",
         "track_artists": [
-            "PUSH & GIO",
-            "HOUDI",
-            "LETS GO"
+            "Caballero & JeanJass",
+            "Savage Toddy"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2730521e74124cafc13a90b00b8",
-        "track_preview": "https://p.scdn.co/mp3-preview/36213158743732970f3ac28f41dc07177fce6925?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/0vKLfjSeOSjeV2uB1DP7T2"
-    },
-    {
-        "track_name": "soldat tue soldat",
-        "track_artists": [
-            "Alpha Wann",
-            "Kaaris",
-            "Infinit'"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2734e2eba88eda4ded5e590ba6b",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ec5209db2595d168861cb316",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/0CwTlnZiB3Nkhfd8uGNgq6"
+        "track_url": "https://open.spotify.com/track/30sYR8fyHG26N8jVXEJQQJ"
     },
     {
-        "track_name": "Coeur, Conscience",
+        "track_name": "Kalenji",
         "track_artists": [
-            "Jazzy Bazz"
+            "Maes",
+            "Zkr"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27342f98f4eab8b0b38a4877831",
-        "track_preview": "https://p.scdn.co/mp3-preview/44f0afb2eaca9b7fb06ff99988bca78973c45262?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6cD3CxmcLveyHsQoqVCfFn"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f588cd5248d6bea87201ee88",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/1BL7fxywhLybZSHG6Lvi32"
+    },
+    {
+        "track_name": "CAUCHEMAR 3",
+        "track_artists": [
+            "HOUDI"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2732640c2800c6ca08e57f2b2a7",
+        "track_preview": "https://p.scdn.co/mp3-preview/30a8a1f99d0361acc22b19bb1a275b4ffca84807?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/4dXnY58RMuedIxxLsd0Onj"
     }
 ]
