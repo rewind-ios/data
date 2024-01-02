@@ -1,31 +1,33 @@
 [
     {
-        "track_name": "Type plante",
+        "track_name": "Piscine qui d\u00e9borde",
         "track_artists": [
-            "Caballero & JeanJass",
-            "Savage Toddy"
+            "Esso Luxueux",
+            "EDGE"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ec5209db2595d168861cb316",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/30sYR8fyHG26N8jVXEJQQJ"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b5b8f0570a3406a3168e36a0",
+        "track_preview": "https://p.scdn.co/mp3-preview/a05b40302220e26153048d805da82c5a7e0beff2?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3C89VqREnXcEEGeIaTaS28"
     },
     {
-        "track_name": "Kalenji",
+        "track_name": "GO (feat. Franglish & Landy)",
         "track_artists": [
-            "Maes",
-            "Zkr"
+            "Gazo",
+            "Franglish",
+            "Landy"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f588cd5248d6bea87201ee88",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/1BL7fxywhLybZSHG6Lvi32"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ce69e24aeddaa03334f7fa5e",
+        "track_preview": "https://p.scdn.co/mp3-preview/2cb211f772646296920beeedfc087849b64e89ac?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3pFjLqo6SFBAegYmmNO60n"
     },
     {
-        "track_name": "CAUCHEMAR 3",
+        "track_name": "Double file (feat. Dinos)",
         "track_artists": [
-            "HOUDI"
+            "Zikxo",
+            "Dinos"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2732640c2800c6ca08e57f2b2a7",
-        "track_preview": "https://p.scdn.co/mp3-preview/30a8a1f99d0361acc22b19bb1a275b4ffca84807?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/4dXnY58RMuedIxxLsd0Onj"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2730bf4970876b4ff379414f935",
+        "track_preview": "https://p.scdn.co/mp3-preview/8cdaeffcd37b647c12727b09f75665b255ac024d?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/4kwLSSLiymfxuxjtVMNHNo"
     }
 ]
