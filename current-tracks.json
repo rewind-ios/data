@@ -1,33 +1,31 @@
 [
     {
-        "track_name": "Mula",
+        "track_name": "Zepe & Zada",
         "track_artists": [
-            "Zola"
+            "Slimka",
+            "Mairo"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273df3d9a644af0dab075b1cefb",
-        "track_preview": "https://p.scdn.co/mp3-preview/ab3d9708278df5fda0c3dbddc012f14e02f4491b?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/76eNOqozCzQM0gLmX6psW9"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2731649629d809d4a1b895871a6",
+        "track_preview": "https://p.scdn.co/mp3-preview/8a2ed8d958e9394d79f91d474239fc456766d111?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/5mZaPZO8w4e3dCQbtpR3Q2"
     },
     {
-        "track_name": "Tornado",
+        "track_name": "SML",
         "track_artists": [
-            "Caballero & JeanJass",
-            "Enima",
-            "Limsa d'Aulnay"
+            "AAMO"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ec5209db2595d168861cb316",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273af60b35f010033596026eb9a",
+        "track_preview": "https://p.scdn.co/mp3-preview/98ff7d59962e8f885490caad23cc61cfcb6769ee?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/6kuj7BdnPnNRlNKbLJNbMh"
+    },
+    {
+        "track_name": "Bonne journ\u00e9e",
+        "track_artists": [
+            "Booba",
+            "SDM"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b7c26131d453d1d9afb81aa0",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/0ddzN7uIQupcq4qUd8fOoC"
-    },
-    {
-        "track_name": "High",
-        "track_artists": [
-            "Myth Syzer",
-            "Ikaz Boi",
-            "Hamza"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273eddaae5c9d148b6c589f7110",
-        "track_preview": "https://p.scdn.co/mp3-preview/6fe14d527e310a10a96f654713564c3f76359f6f?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/5T0rK330yOnZuBbQqVod4t"
+        "track_url": "https://open.spotify.com/track/3jRTJfW2nvUM4eoZoihnfW"
     }
 ]
