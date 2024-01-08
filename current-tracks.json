@@ -1,31 +1,30 @@
 [
     {
-        "track_name": "Zepe & Zada",
+        "track_name": "Point d'interrogation",
         "track_artists": [
-            "Slimka",
-            "Mairo"
+            "Nekfeu",
+            "Alpha Wann"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2731649629d809d4a1b895871a6",
-        "track_preview": "https://p.scdn.co/mp3-preview/8a2ed8d958e9394d79f91d474239fc456766d111?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/5mZaPZO8w4e3dCQbtpR3Q2"
-    },
-    {
-        "track_name": "SML",
-        "track_artists": [
-            "AAMO"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273af60b35f010033596026eb9a",
-        "track_preview": "https://p.scdn.co/mp3-preview/98ff7d59962e8f885490caad23cc61cfcb6769ee?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6kuj7BdnPnNRlNKbLJNbMh"
-    },
-    {
-        "track_name": "Bonne journ\u00e9e",
-        "track_artists": [
-            "Booba",
-            "SDM"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b7c26131d453d1d9afb81aa0",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2736ac7a439b043411a368f1a56",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/3jRTJfW2nvUM4eoZoihnfW"
+        "track_url": "https://open.spotify.com/track/7K1N8TobxyUMkfWNe75kfP"
+    },
+    {
+        "track_name": "SORCI\u00c8RE",
+        "track_artists": [
+            "HOUDI"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273e0949fb221d2d8dbcc3b53d1",
+        "track_preview": "https://p.scdn.co/mp3-preview/aa0c918d0e38f09b87587c15ce9dd9f6236af0c5?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/1iABCTllPwSsVbjddCeHtu"
+    },
+    {
+        "track_name": "Stone Island",
+        "track_artists": [
+            "UZI"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273e3aa150a4f944a9d9eab5e67",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/5v9BTm4hTKx8aux9YoTLXX"
     }
 ]
