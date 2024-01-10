@@ -1,30 +1,32 @@
 [
     {
-        "track_name": "Cochi",
+        "track_name": "Obscurit\u00e9 (feat. Hamza)",
         "track_artists": [
-            "1PLIK\u00c9140"
+            "ElGrandeToto",
+            "Hamza"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2734bb182ac101f159db139cbc2",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/3wRCGjKtedHSQoWzqNPsEr"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ed623ce724d59c3065a31388",
+        "track_preview": "https://p.scdn.co/mp3-preview/94b40629e8b73c2d904a6183f4c441554d375fba?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/2FkCxMgyjqvKwV0wqKb3vF"
     },
     {
-        "track_name": "FPH #2",
+        "track_name": "CALCULS",
         "track_artists": [
+            "Stony Stone",
             "HOUDI"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273aa710a403fdbfa07879d6812",
-        "track_preview": "https://p.scdn.co/mp3-preview/412d540deb7f3c5b24344766def5468ce547aef5?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/30Abtt1qug3d2SpL7hLZGl"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273da224d346a4364f17b09a1e3",
+        "track_preview": "https://p.scdn.co/mp3-preview/f4da869534491d178bf3f2bcde6f7cf42d32ab4e?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/0rqHIPVpP6y6BqXLLh3Iiv"
     },
     {
-        "track_name": "Cicatrice",
+        "track_name": "DJINN",
         "track_artists": [
-            "Rim'K",
-            "Zamdane"
+            "HOUDI",
+            "Stony Stone"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273817cbda39800d5bebb015244",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273dfff138d66f6a86b0b82b303",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/7s97KyBEO1UJWAoFFlArGp"
+        "track_url": "https://open.spotify.com/track/3CjKdEkOtB8Iq3zproGbFL"
     }
 ]
