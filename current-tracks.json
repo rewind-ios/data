@@ -1,32 +1,30 @@
 [
     {
-        "track_name": "King Kong",
+        "track_name": "CAUCHEMAR 3",
         "track_artists": [
-            "BU$HI",
-            "La F\u00e8ve"
+            "HOUDI"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273020dc07f6dacd616c260ecd1",
-        "track_preview": "https://p.scdn.co/mp3-preview/06d9b29b473e17c8a4f5add22bb69200e099da37?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/4dGoGZUhMp3O68O8JbOIjG"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2732640c2800c6ca08e57f2b2a7",
+        "track_preview": "https://p.scdn.co/mp3-preview/30a8a1f99d0361acc22b19bb1a275b4ffca84807?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/4dXnY58RMuedIxxLsd0Onj"
     },
     {
-        "track_name": "Dios mio",
+        "track_name": "Jungle Urbaine",
         "track_artists": [
-            "Yaro",
-            "Ninho"
+            "S-Crew"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273bd1cc5f28e6d67886414acda",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273daed9c11ccdf66d72b94d92c",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/75j2xe6h9eVzT30yQz7bhC"
+        "track_url": "https://open.spotify.com/track/5e0DZA1Y7DEbDmXcmmoAbC"
     },
     {
-        "track_name": "Scars",
+        "track_name": "AUTRE PART",
         "track_artists": [
-            "baby hayabusa",
-            "neophron"
+            "Stony Stone",
+            "HOUDI"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273aeb44e431e6792e8c79f71f5",
-        "track_preview": "https://p.scdn.co/mp3-preview/c9b34421d94b65922d6e721560947cef92974b42?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/43UpFAqHJa1yoAocJTkc9g"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2731c2da0efc4f9a08bcb0dd8b8",
+        "track_preview": "https://p.scdn.co/mp3-preview/efc5104907226969b01ea16eca2fa548d2a7eabf?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3LG6azKZnt0TcOUtZlL2zz"
     }
 ]
