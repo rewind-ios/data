@@ -1,30 +1,31 @@
 [
     {
-        "track_name": "CAUCHEMAR 3",
+        "track_name": "Obscurit\u00e9 (feat. Hamza)",
         "track_artists": [
-            "HOUDI"
+            "ElGrandeToto",
+            "Hamza"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2732640c2800c6ca08e57f2b2a7",
-        "track_preview": "https://p.scdn.co/mp3-preview/30a8a1f99d0361acc22b19bb1a275b4ffca84807?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/4dXnY58RMuedIxxLsd0Onj"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ed623ce724d59c3065a31388",
+        "track_preview": "https://p.scdn.co/mp3-preview/94b40629e8b73c2d904a6183f4c441554d375fba?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/2FkCxMgyjqvKwV0wqKb3vF"
     },
     {
-        "track_name": "Jungle Urbaine",
+        "track_name": "Marquises",
         "track_artists": [
-            "S-Crew"
+            "Disiz",
+            "Hamza"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273daed9c11ccdf66d72b94d92c",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273027b6e86d6e8cc7af127e825",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/5e0DZA1Y7DEbDmXcmmoAbC"
+        "track_url": "https://open.spotify.com/track/7lSQLxWMkFdOy72LDibY1M"
     },
     {
-        "track_name": "AUTRE PART",
+        "track_name": "D\u00e9co",
         "track_artists": [
-            "Stony Stone",
-            "HOUDI"
+            "Leo SVR"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2731c2da0efc4f9a08bcb0dd8b8",
-        "track_preview": "https://p.scdn.co/mp3-preview/efc5104907226969b01ea16eca2fa548d2a7eabf?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/3LG6azKZnt0TcOUtZlL2zz"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273e5de1bb763963fe9ee0eddb9",
+        "track_preview": "https://p.scdn.co/mp3-preview/52db02e9d76a34102d63a7258e2c8efda7d057b4?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3ryHLE8tPi7FFSl6YQVtpn"
     }
 ]
