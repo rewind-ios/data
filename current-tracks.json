@@ -1,31 +1,30 @@
 [
     {
-        "track_name": "Bae",
+        "track_name": "Normal",
         "track_artists": [
-            "Caballero & JeanJass",
-            "Hamza"
+            "Guizmo"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2732618a20189911943345b86d1",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/69PsDTFqL2dYZ9AlLwYYN0"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2738957f98f3504616adcd74828",
+        "track_preview": "https://p.scdn.co/mp3-preview/18d99deb86f7f37a0d7a7035e61261239bd59d88?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3qFaZiqRH2yWmQr8ir9RCQ"
     },
     {
-        "track_name": "san andreas",
+        "track_name": "LA NOYADE",
         "track_artists": [
-            "Lesram",
-            "Nekfeu"
+            "EDGE",
+            "Ratu$"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27311cadae19d6cdc5f8463a6a0",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/75l44qUyFFMDSc9X4iBMVs"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2733fe09aaa46e497fb24ea59ba",
+        "track_preview": "https://p.scdn.co/mp3-preview/3306c3166526afc22a5afeabafae76ba6b04e405?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/7AnQQUoTNXvUvLZmVVagXA"
     },
     {
-        "track_name": "Journal de bord",
+        "track_name": "Shanghai",
         "track_artists": [
-            "Roshi"
+            "Alpha Wann"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273515a6ae6ebe3688b25e524ba",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f9f4c20d531f99312ed5de45",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/7ATSdSIJfgcaIiJz0U7WCT"
+        "track_url": "https://open.spotify.com/track/0fzH3vWTNTdapCmaRYMSAs"
     }
 ]
