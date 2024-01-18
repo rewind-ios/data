@@ -1,30 +1,32 @@
 [
     {
-        "track_name": "Normal",
+        "track_name": "Voyou",
         "track_artists": [
-            "Guizmo"
+            "Niro",
+            "Tayc"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2738957f98f3504616adcd74828",
-        "track_preview": "https://p.scdn.co/mp3-preview/18d99deb86f7f37a0d7a7035e61261239bd59d88?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/3qFaZiqRH2yWmQr8ir9RCQ"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f0537a216f21ef98dc21f41b",
+        "track_preview": "https://p.scdn.co/mp3-preview/97c5369af3ab9b48d87f1ac61d6fb62f6c1e9e2d?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/25yClj1On8jAnCppkAUlyl"
     },
     {
-        "track_name": "LA NOYADE",
+        "track_name": "Tu le reconnais",
         "track_artists": [
-            "EDGE",
-            "Ratu$"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2733fe09aaa46e497fb24ea59ba",
-        "track_preview": "https://p.scdn.co/mp3-preview/3306c3166526afc22a5afeabafae76ba6b04e405?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/7AnQQUoTNXvUvLZmVVagXA"
-    },
-    {
-        "track_name": "Shanghai",
-        "track_artists": [
+            "Rocca",
             "Alpha Wann"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f9f4c20d531f99312ed5de45",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/0fzH3vWTNTdapCmaRYMSAs"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273c8526c6ca7790665a7443416",
+        "track_preview": "https://p.scdn.co/mp3-preview/d268d7b4d2f3e2eba32a42fe51d30a55d875e27b?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/6dWucCM7fEMPVg56v83SoL"
+    },
+    {
+        "track_name": "PAS NORMAL",
+        "track_artists": [
+            "Stony Stone",
+            "HOUDI"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273da224d346a4364f17b09a1e3",
+        "track_preview": "https://p.scdn.co/mp3-preview/ffedf4eba434e1b456277e4dfb5ccbb3e382a32c?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3TBVuDY9vTb1StSwgB0SYL"
     }
 ]
