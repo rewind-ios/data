@@ -1,32 +1,31 @@
 [
     {
-        "track_name": "Voyou",
+        "track_name": "\u00c0 L'AUBE",
         "track_artists": [
-            "Niro",
-            "Tayc"
+            "H\u00f6s Copperfield",
+            "Ninho"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f0537a216f21ef98dc21f41b",
-        "track_preview": "https://p.scdn.co/mp3-preview/97c5369af3ab9b48d87f1ac61d6fb62f6c1e9e2d?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/25yClj1On8jAnCppkAUlyl"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273da557111397b4f7eca9de939",
+        "track_preview": "https://p.scdn.co/mp3-preview/50ecfe7d019e97aa72314011fdaaccda3ea44471?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/1aOy9aPUFFE73cPPUJ2kNW"
     },
     {
-        "track_name": "Tu le reconnais",
+        "track_name": "Bethleem",
         "track_artists": [
-            "Rocca",
+            "Caballero"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273843c50fa0d2d5199a9a5cba6",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/3Li7gehqgOC6ntvpkXivtO"
+    },
+    {
+        "track_name": "Point d'interrogation",
+        "track_artists": [
+            "Nekfeu",
             "Alpha Wann"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273c8526c6ca7790665a7443416",
-        "track_preview": "https://p.scdn.co/mp3-preview/d268d7b4d2f3e2eba32a42fe51d30a55d875e27b?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6dWucCM7fEMPVg56v83SoL"
-    },
-    {
-        "track_name": "PAS NORMAL",
-        "track_artists": [
-            "Stony Stone",
-            "HOUDI"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273da224d346a4364f17b09a1e3",
-        "track_preview": "https://p.scdn.co/mp3-preview/ffedf4eba434e1b456277e4dfb5ccbb3e382a32c?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/3TBVuDY9vTb1StSwgB0SYL"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2736ac7a439b043411a368f1a56",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/7K1N8TobxyUMkfWNe75kfP"
     }
 ]
