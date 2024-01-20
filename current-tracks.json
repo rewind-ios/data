@@ -1,31 +1,30 @@
 [
     {
-        "track_name": "\u00c0 L'AUBE",
+        "track_name": "Fight Club",
         "track_artists": [
-            "H\u00f6s Copperfield",
-            "Ninho"
+            "Zuukou mayzie",
+            "THEODORT"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273da557111397b4f7eca9de939",
-        "track_preview": "https://p.scdn.co/mp3-preview/50ecfe7d019e97aa72314011fdaaccda3ea44471?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/1aOy9aPUFFE73cPPUJ2kNW"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2735314245c0868df2f4cdb6561",
+        "track_preview": "https://p.scdn.co/mp3-preview/67afb11178179e49fc064feb79c398b2bfaf6592?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/1i77Jphj3twH3eNeMvrSzy"
     },
     {
-        "track_name": "Bethleem",
+        "track_name": "Louvre",
         "track_artists": [
-            "Caballero"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273843c50fa0d2d5199a9a5cba6",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/3Li7gehqgOC6ntvpkXivtO"
-    },
-    {
-        "track_name": "Point d'interrogation",
-        "track_artists": [
-            "Nekfeu",
             "Alpha Wann"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2736ac7a439b043411a368f1a56",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f9f4c20d531f99312ed5de45",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/7K1N8TobxyUMkfWNe75kfP"
+        "track_url": "https://open.spotify.com/track/56M8nx9atYDlf3hpv3k5Ru"
+    },
+    {
+        "track_name": "Affam\u00e9 #8 - Hayati",
+        "track_artists": [
+            "Zamdane"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273fe19b90ba3c22419f8d2b893",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/2puxOJQk78PKnWa0fcr3iz"
     }
 ]
