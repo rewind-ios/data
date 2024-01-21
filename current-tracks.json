@@ -1,30 +1,31 @@
 [
     {
-        "track_name": "Fight Club",
+        "track_name": "Sans toi",
         "track_artists": [
-            "Zuukou mayzie",
-            "THEODORT"
+            "Myth Syzer",
+            "Hamza"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2735314245c0868df2f4cdb6561",
-        "track_preview": "https://p.scdn.co/mp3-preview/67afb11178179e49fc064feb79c398b2bfaf6592?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/1i77Jphj3twH3eNeMvrSzy"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27390d7484b62edd5291ef68094",
+        "track_preview": "https://p.scdn.co/mp3-preview/5164e53a95f38a25d452e385f318b8611a5c1476?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/0iIz6vVDp7bPxP639Ro6FC"
     },
     {
-        "track_name": "Louvre",
+        "track_name": "Point d'interrogation",
         "track_artists": [
+            "Nekfeu",
             "Alpha Wann"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f9f4c20d531f99312ed5de45",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2736ac7a439b043411a368f1a56",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/56M8nx9atYDlf3hpv3k5Ru"
+        "track_url": "https://open.spotify.com/track/7K1N8TobxyUMkfWNe75kfP"
     },
     {
-        "track_name": "Affam\u00e9 #8 - Hayati",
+        "track_name": "Tchyco",
         "track_artists": [
-            "Zamdane"
+            "Jul"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273fe19b90ba3c22419f8d2b893",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/2puxOJQk78PKnWa0fcr3iz"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f979ede7cdc1861e14dce2b5",
+        "track_preview": "https://p.scdn.co/mp3-preview/04c7def27fb0d4978f07a0b095004372970597fd?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3FYYBSjV3ygsJJTCdMsSbX"
     }
 ]
