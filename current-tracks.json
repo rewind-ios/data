@@ -1,31 +1,30 @@
 [
     {
-        "track_name": "Sans toi",
+        "track_name": "Comme tu es",
         "track_artists": [
-            "Myth Syzer",
-            "Hamza"
+            "Franglish"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27390d7484b62edd5291ef68094",
-        "track_preview": "https://p.scdn.co/mp3-preview/5164e53a95f38a25d452e385f318b8611a5c1476?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/0iIz6vVDp7bPxP639Ro6FC"
-    },
-    {
-        "track_name": "Point d'interrogation",
-        "track_artists": [
-            "Nekfeu",
-            "Alpha Wann"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2736ac7a439b043411a368f1a56",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2737b5d2a1dac967202fd008710",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/7K1N8TobxyUMkfWNe75kfP"
+        "track_url": "https://open.spotify.com/track/0UVLqFLFMDMhUOS5OtcMNi"
     },
     {
-        "track_name": "Tchyco",
+        "track_name": "Berline noire",
         "track_artists": [
-            "Jul"
+            "Maes"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f979ede7cdc1861e14dce2b5",
-        "track_preview": "https://p.scdn.co/mp3-preview/04c7def27fb0d4978f07a0b095004372970597fd?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/3FYYBSjV3ygsJJTCdMsSbX"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f588cd5248d6bea87201ee88",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/1hm73YHdovKvv0JXc11Afk"
+    },
+    {
+        "track_name": "Mental",
+        "track_artists": [
+            "Jazzy Bazz",
+            "robdbloc"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27342f98f4eab8b0b38a4877831",
+        "track_preview": "https://p.scdn.co/mp3-preview/a4e0d7a5c0075ee5d6f7f9b096612699c6c6967d?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/2jNOKdBdO34jpT8rEQtqiF"
     }
 ]
