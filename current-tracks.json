@@ -1,30 +1,31 @@
 [
     {
-        "track_name": "P\u00d4LE SUD - interlude",
+        "track_name": "Dis le moi",
         "track_artists": [
-            "NeS"
+            "Franglish"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273550b4528f31fd28007a97ab9",
-        "track_preview": "https://p.scdn.co/mp3-preview/eff392a8c4b7408ec44bd53ef7c034051f69e7e2?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/4R0sC4N6tfy8UkN53JSS7f"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27376b6a3de8aa76d5f1cbe7924",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/6TY75Su4BVybhgH0206bln"
     },
     {
-        "track_name": "BLH",
+        "track_name": "Piscine qui d\u00e9borde",
         "track_artists": [
-            "Gradur",
+            "Esso Luxueux",
+            "EDGE"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b5b8f0570a3406a3168e36a0",
+        "track_preview": "https://p.scdn.co/mp3-preview/a05b40302220e26153048d805da82c5a7e0beff2?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3C89VqREnXcEEGeIaTaS28"
+    },
+    {
+        "track_name": "Portes Suicide",
+        "track_artists": [
+            "Dinos",
             "Ninho"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2738320af5749259913564098be",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273af09d950d28e289163448ab5",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/6CfGQzfXt10xyTt6QYKueh"
-    },
-    {
-        "track_name": "Hydroponie",
-        "track_artists": [
-            "Alpha Wann"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273012b9be80a30474b3e6ecc0b",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/1iuPiD85FeJubHplU0r6c7"
+        "track_url": "https://open.spotify.com/track/6ZcKyt3c0bnJjn4igDFrzf"
     }
 ]
