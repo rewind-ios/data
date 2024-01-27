@@ -1,29 +1,32 @@
 [
     {
-        "track_name": "Mula",
+        "track_name": "Entre les murs (feat. Ninho)",
         "track_artists": [
-            "Zola"
+            "DA Uzi",
+            "Ninho"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273df3d9a644af0dab075b1cefb",
-        "track_preview": "https://p.scdn.co/mp3-preview/ab3d9708278df5fda0c3dbddc012f14e02f4491b?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/76eNOqozCzQM0gLmX6psW9"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b938fa9974a1df3dd7c840ce",
+        "track_preview": "https://p.scdn.co/mp3-preview/22c7dddd9c0dd58a45bf5a3d2b06d54e3458729f?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/5I86TGCQg2yM9tZRHJebiQ"
     },
     {
-        "track_name": "Affam\u00e9 #8 - Hayati",
+        "track_name": "Point d'interrogation",
         "track_artists": [
-            "Zamdane"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273fe19b90ba3c22419f8d2b893",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/2puxOJQk78PKnWa0fcr3iz"
-    },
-    {
-        "track_name": "CONTREX",
-        "track_artists": [
+            "Nekfeu",
             "Alpha Wann"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2731e546007515b02884d72595f",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2736ac7a439b043411a368f1a56",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/4BsXN5rMd17uLTAdMPXyHN"
+        "track_url": "https://open.spotify.com/track/7K1N8TobxyUMkfWNe75kfP"
+    },
+    {
+        "track_name": "Fire",
+        "track_artists": [
+            "Harley",
+            "OBOY"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273428cda3ca4c1596f71d44db1",
+        "track_preview": "https://p.scdn.co/mp3-preview/d07b8b1f1643ba9471cc0ec309d1375d9518add0?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/4aslKALI3CmxZSOnbq1MqV"
     }
 ]
