@@ -1,24 +1,5 @@
 [
     {
-        "track_name": "E.D.G.E",
-        "track_artists": [
-            "EDGE"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27354a6cdfbdc7a0e77b99abf75",
-        "track_preview": "https://p.scdn.co/mp3-preview/542d5a95bbc7f7807397d366a6a93f7ab1eeec54?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/0FyDSDR0TL8kabpH3anmyy"
-    },
-    {
-        "track_name": "Carolina",
-        "track_artists": [
-            "REDVOLUTION",
-            "Ninho"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273cd20801c5435657d0ec5b62d",
-        "track_preview": "https://p.scdn.co/mp3-preview/c9c431ca03e8a3b0085132dba7f8ba701653ebed?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/07r32jNfQPQ4gQJRc3K17q"
-    },
-    {
         "track_name": "Mula",
         "track_artists": [
             "Zola"
@@ -26,5 +7,23 @@
         "track_cover": "https://i.scdn.co/image/ab67616d0000b273df3d9a644af0dab075b1cefb",
         "track_preview": "https://p.scdn.co/mp3-preview/ab3d9708278df5fda0c3dbddc012f14e02f4491b?cid=bf21f31fb512401e902a9bc1cf03ffd3",
         "track_url": "https://open.spotify.com/track/76eNOqozCzQM0gLmX6psW9"
+    },
+    {
+        "track_name": "Vu d'en haut",
+        "track_artists": [
+            "EDGE"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273399d3d48ed698b700ad2ba71",
+        "track_preview": "https://p.scdn.co/mp3-preview/31622a0da0efbb2fcb46755b29ef49beca34a7b6?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3I61jVUkATxMP57o54QZNN"
+    },
+    {
+        "track_name": "Journal de bord",
+        "track_artists": [
+            "Roshi"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273515a6ae6ebe3688b25e524ba",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/7ATSdSIJfgcaIiJz0U7WCT"
     }
 ]
