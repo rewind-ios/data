@@ -1,29 +1,31 @@
 [
     {
-        "track_name": "Mula",
+        "track_name": "Cnn",
         "track_artists": [
-            "Zola"
+            "Lesram"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273df3d9a644af0dab075b1cefb",
-        "track_preview": "https://p.scdn.co/mp3-preview/ab3d9708278df5fda0c3dbddc012f14e02f4491b?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/76eNOqozCzQM0gLmX6psW9"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2739ef73b5453b6f4957c23f87e",
+        "track_preview": "https://p.scdn.co/mp3-preview/e5f42051e5f94b0dd9e552a26a98494c0b24114c?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/6lURMfGBWKFsIJEtV2AQzZ"
     },
     {
-        "track_name": "Vu d'en haut",
+        "track_name": "A TON AVIS (feat. Hamza)",
         "track_artists": [
-            "EDGE"
+            "Oldpee",
+            "Hamza"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273399d3d48ed698b700ad2ba71",
-        "track_preview": "https://p.scdn.co/mp3-preview/31622a0da0efbb2fcb46755b29ef49beca34a7b6?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/3I61jVUkATxMP57o54QZNN"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27397148fef3855feaa101f4faf",
+        "track_preview": "https://p.scdn.co/mp3-preview/d9b1ecb1820e4c477aa0a5bed6faf362553cc9b5?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/5c3xHofWxukyKgXbxi5HXi"
     },
     {
-        "track_name": "Journal de bord",
+        "track_name": "PAS NORMAL",
         "track_artists": [
-            "Roshi"
+            "Stony Stone",
+            "HOUDI"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273515a6ae6ebe3688b25e524ba",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/7ATSdSIJfgcaIiJz0U7WCT"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273da224d346a4364f17b09a1e3",
+        "track_preview": "https://p.scdn.co/mp3-preview/ffedf4eba434e1b456277e4dfb5ccbb3e382a32c?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3TBVuDY9vTb1StSwgB0SYL"
     }
 ]
