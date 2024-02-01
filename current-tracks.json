@@ -1,31 +1,30 @@
 [
     {
-        "track_name": "LGBIRI - Bonus",
+        "track_name": "Bitch (feat. Vald)",
         "track_artists": [
-            "Ateyaba"
+            "Lefa",
+            "Vald"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2732ce1b58317e3ad7cadf45f42",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/6PWMAoEaU4ih0ZkPmWgDIJ"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273dcdb206ee5c8b27b3f8254dc",
+        "track_preview": "https://p.scdn.co/mp3-preview/7fbed5497461aa0bf5a35072fd11adc7e2e558c2?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/4Bg5ufw4skMPjZl95Y7axO"
     },
     {
-        "track_name": "Double file (feat. Dinos)",
+        "track_name": "Sir\u00e8ne",
         "track_artists": [
-            "Zikxo",
-            "Dinos"
+            "Larry"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2730bf4970876b4ff379414f935",
-        "track_preview": "https://p.scdn.co/mp3-preview/8cdaeffcd37b647c12727b09f75665b255ac024d?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/4kwLSSLiymfxuxjtVMNHNo"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2738f7d0ae1c360e733a63478fa",
+        "track_preview": "https://p.scdn.co/mp3-preview/61e09113a0c9c150a1d5aeebb4405ccfa12c891e?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/7b0dFF0NjFOSEJWyMKeuMZ"
     },
     {
-        "track_name": "Dios mio",
+        "track_name": "Tchyco",
         "track_artists": [
-            "Yaro",
-            "Ninho"
+            "Jul"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273bd1cc5f28e6d67886414acda",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/75j2xe6h9eVzT30yQz7bhC"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f979ede7cdc1861e14dce2b5",
+        "track_preview": "https://p.scdn.co/mp3-preview/04c7def27fb0d4978f07a0b095004372970597fd?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3FYYBSjV3ygsJJTCdMsSbX"
     }
 ]
