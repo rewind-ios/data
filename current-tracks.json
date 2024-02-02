@@ -1,30 +1,32 @@
 [
     {
-        "track_name": "Bitch (feat. Vald)",
+        "track_name": "Point d'interrogation",
         "track_artists": [
-            "Lefa",
-            "Vald"
+            "Nekfeu",
+            "Alpha Wann"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273dcdb206ee5c8b27b3f8254dc",
-        "track_preview": "https://p.scdn.co/mp3-preview/7fbed5497461aa0bf5a35072fd11adc7e2e558c2?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/4Bg5ufw4skMPjZl95Y7axO"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2736ac7a439b043411a368f1a56",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/7K1N8TobxyUMkfWNe75kfP"
     },
     {
-        "track_name": "Sir\u00e8ne",
+        "track_name": "Bailar",
         "track_artists": [
-            "Larry"
+            "SenSey'"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2738f7d0ae1c360e733a63478fa",
-        "track_preview": "https://p.scdn.co/mp3-preview/61e09113a0c9c150a1d5aeebb4405ccfa12c891e?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/7b0dFF0NjFOSEJWyMKeuMZ"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ac400c5364c7b77a48fa451f",
+        "track_preview": "https://p.scdn.co/mp3-preview/18fea79091d0ba6701cd6271e4531f9c544c031a?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/03zLSsFVXTs7caHLmvBQF9"
     },
     {
-        "track_name": "Tchyco",
+        "track_name": "Astronaute",
         "track_artists": [
-            "Jul"
+            "Raplume",
+            "Stony Stone",
+            "Sto"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f979ede7cdc1861e14dce2b5",
-        "track_preview": "https://p.scdn.co/mp3-preview/04c7def27fb0d4978f07a0b095004372970597fd?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/3FYYBSjV3ygsJJTCdMsSbX"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2737f9de6ad63a1c58814748beb",
+        "track_preview": "https://p.scdn.co/mp3-preview/b24976249fbed826b0e3d6e4c1032d8b59d9646c?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/0eRUI3RparJvrI6H89ZO2I"
     }
 ]
