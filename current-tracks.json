@@ -1,32 +1,31 @@
 [
     {
-        "track_name": "Point d'interrogation",
+        "track_name": "Coeur, Conscience",
         "track_artists": [
-            "Nekfeu",
-            "Alpha Wann"
+            "Jazzy Bazz"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2736ac7a439b043411a368f1a56",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27342f98f4eab8b0b38a4877831",
+        "track_preview": "https://p.scdn.co/mp3-preview/44f0afb2eaca9b7fb06ff99988bca78973c45262?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/6cD3CxmcLveyHsQoqVCfFn"
+    },
+    {
+        "track_name": "Carolina",
+        "track_artists": [
+            "REDVOLUTION",
+            "Ninho"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273cd20801c5435657d0ec5b62d",
+        "track_preview": "https://p.scdn.co/mp3-preview/c9c431ca03e8a3b0085132dba7f8ba701653ebed?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/07r32jNfQPQ4gQJRc3K17q"
+    },
+    {
+        "track_name": "Nous",
+        "track_artists": [
+            "Franglish",
+            "MV"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27352632467a31ed119a12b565a",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/7K1N8TobxyUMkfWNe75kfP"
-    },
-    {
-        "track_name": "Bailar",
-        "track_artists": [
-            "SenSey'"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ac400c5364c7b77a48fa451f",
-        "track_preview": "https://p.scdn.co/mp3-preview/18fea79091d0ba6701cd6271e4531f9c544c031a?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/03zLSsFVXTs7caHLmvBQF9"
-    },
-    {
-        "track_name": "Astronaute",
-        "track_artists": [
-            "Raplume",
-            "Stony Stone",
-            "Sto"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2737f9de6ad63a1c58814748beb",
-        "track_preview": "https://p.scdn.co/mp3-preview/b24976249fbed826b0e3d6e4c1032d8b59d9646c?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/0eRUI3RparJvrI6H89ZO2I"
+        "track_url": "https://open.spotify.com/track/74DEEAViIepZ2IBoL5O4ar"
     }
 ]
