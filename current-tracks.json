@@ -1,31 +1,29 @@
 [
     {
-        "track_name": "Coeur, Conscience",
+        "track_name": "C\u00e9leste",
         "track_artists": [
-            "Jazzy Bazz"
+            "Luv Resval"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27342f98f4eab8b0b38a4877831",
-        "track_preview": "https://p.scdn.co/mp3-preview/44f0afb2eaca9b7fb06ff99988bca78973c45262?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6cD3CxmcLveyHsQoqVCfFn"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27345621c70e9a479b321274a75",
+        "track_preview": "https://p.scdn.co/mp3-preview/fc5e8b1ebdac88f9a8543ec0550cc036c5af0b6f?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/0Ij0UelyN0YsYisAAWenAA"
     },
     {
-        "track_name": "Carolina",
+        "track_name": "Go",
         "track_artists": [
-            "REDVOLUTION",
-            "Ninho"
+            "Franglish"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273cd20801c5435657d0ec5b62d",
-        "track_preview": "https://p.scdn.co/mp3-preview/c9c431ca03e8a3b0085132dba7f8ba701653ebed?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/07r32jNfQPQ4gQJRc3K17q"
-    },
-    {
-        "track_name": "Nous",
-        "track_artists": [
-            "Franglish",
-            "MV"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27352632467a31ed119a12b565a",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273066240c7aac4f0e4eafd854d",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/74DEEAViIepZ2IBoL5O4ar"
+        "track_url": "https://open.spotify.com/track/5IH8jei0Iw74eWn1pni6s3"
+    },
+    {
+        "track_name": "Babi",
+        "track_artists": [
+            "13 Block"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b79aff4bdd3d9c8e2f65719c",
+        "track_preview": "https://p.scdn.co/mp3-preview/c2e4d33840c62ab2fc4836e7e06298361ac629f5?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3FrbLRZXo94g9dnJzxQLNP"
     }
 ]
