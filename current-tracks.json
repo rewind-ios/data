@@ -1,30 +1,32 @@
 [
     {
-        "track_name": "Sofie Fatale",
+        "track_name": "Armada",
         "track_artists": [
-            "Zuukou mayzie"
+            "OBOY"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b1085cf62d8f8e4eba2c8d63",
-        "track_preview": "https://p.scdn.co/mp3-preview/4e8d607711ad302b12284f88a91304913f70ff23?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/4sUYoxTnO98rDtzPc88xtr"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273bee09be2b9c66e75411b70fa",
+        "track_preview": "https://p.scdn.co/mp3-preview/c7c580df16f8df9b0887957713096e761391c810?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/0NOsqjim8zDnjXLYULEnqv"
     },
     {
-        "track_name": "Waze (feat. Enfantdepauvres)",
+        "track_name": "Disjonct\u00e9",
         "track_artists": [
-            "EDGE",
-            "Enfantdepauvres"
+            "S-Crew",
+            "Alpha Wann"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27354a6cdfbdc7a0e77b99abf75",
-        "track_preview": "https://p.scdn.co/mp3-preview/7d9a9820f71cbb29cc09febda561a8fea90bb36e?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6fuWdF41l8dPZbRSvFH8iD"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273daed9c11ccdf66d72b94d92c",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/4Kzs3c48ucppkq92zA3QFM"
     },
     {
-        "track_name": "MAUVAIS R\u00caVE",
+        "track_name": "La science des astres",
         "track_artists": [
-            "HOUDI"
+            "Waltmann",
+            "Nekfeu",
+            "Alpha Wann"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273e815129374b26e9379b4932c",
-        "track_preview": "https://p.scdn.co/mp3-preview/2ee6171e8944b6925ce848c65fbb1ddf6fef3fd4?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/3PkL4hwoDfywRnYUGBnPKv"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2730441cda747040c4682ccdf20",
+        "track_preview": "https://p.scdn.co/mp3-preview/371ed3c0a1813f5db2ae80f71f4c3a277acb6bb5?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/53w56JO88V3zSQcuNzD2v6"
     }
 ]
