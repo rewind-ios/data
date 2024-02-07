@@ -1,32 +1,33 @@
 [
     {
-        "track_name": "Armada",
+        "track_name": "Mental",
         "track_artists": [
-            "OBOY"
+            "Jazzy Bazz",
+            "robdbloc"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273bee09be2b9c66e75411b70fa",
-        "track_preview": "https://p.scdn.co/mp3-preview/c7c580df16f8df9b0887957713096e761391c810?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/0NOsqjim8zDnjXLYULEnqv"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27342f98f4eab8b0b38a4877831",
+        "track_preview": "https://p.scdn.co/mp3-preview/a4e0d7a5c0075ee5d6f7f9b096612699c6c6967d?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/2jNOKdBdO34jpT8rEQtqiF"
     },
     {
-        "track_name": "Disjonct\u00e9",
+        "track_name": "Colis (feat. Maes)",
         "track_artists": [
-            "S-Crew",
-            "Alpha Wann"
+            "Larry",
+            "Maes"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273daed9c11ccdf66d72b94d92c",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/4Kzs3c48ucppkq92zA3QFM"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2738f7d0ae1c360e733a63478fa",
+        "track_preview": "https://p.scdn.co/mp3-preview/0877f41bc09451fd0390945d1897110e8185c03a?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/1sVg7wSCOmUzJLqUmxOvj9"
     },
     {
-        "track_name": "La science des astres",
+        "track_name": "Big Boss",
         "track_artists": [
-            "Waltmann",
-            "Nekfeu",
-            "Alpha Wann"
+            "Gros Mo",
+            "Alpha Wann",
+            "Bruce Lee"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2730441cda747040c4682ccdf20",
-        "track_preview": "https://p.scdn.co/mp3-preview/371ed3c0a1813f5db2ae80f71f4c3a277acb6bb5?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/53w56JO88V3zSQcuNzD2v6"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2739f9a4914a7c58c50c7d761b2",
+        "track_preview": "https://p.scdn.co/mp3-preview/f9e5ff6e4db7da1c40a1457a1705617fa67fbb52?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/7jkE3jhExESEJ1mVrs7IHx"
     }
 ]
