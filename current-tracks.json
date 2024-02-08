@@ -1,33 +1,30 @@
 [
     {
-        "track_name": "Mental",
+        "track_name": "DJINN",
         "track_artists": [
-            "Jazzy Bazz",
-            "robdbloc"
+            "HOUDI",
+            "Stony Stone"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27342f98f4eab8b0b38a4877831",
-        "track_preview": "https://p.scdn.co/mp3-preview/a4e0d7a5c0075ee5d6f7f9b096612699c6c6967d?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/2jNOKdBdO34jpT8rEQtqiF"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273dfff138d66f6a86b0b82b303",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/3CjKdEkOtB8Iq3zproGbFL"
     },
     {
-        "track_name": "Colis (feat. Maes)",
+        "track_name": "McQueen / Givenchy",
         "track_artists": [
-            "Larry",
-            "Maes"
+            "Josman"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2738f7d0ae1c360e733a63478fa",
-        "track_preview": "https://p.scdn.co/mp3-preview/0877f41bc09451fd0390945d1897110e8185c03a?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/1sVg7wSCOmUzJLqUmxOvj9"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273110978fabea619d30156216b",
+        "track_preview": "https://p.scdn.co/mp3-preview/3aced7d2ba18771ef9cfd8bf70ff1de4b6a30515?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/6c8rVvdCyALUTZXuxdgCb0"
     },
     {
-        "track_name": "Big Boss",
+        "track_name": "Atlas",
         "track_artists": [
-            "Gros Mo",
-            "Alpha Wann",
-            "Bruce Lee"
+            "DTF"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2739f9a4914a7c58c50c7d761b2",
-        "track_preview": "https://p.scdn.co/mp3-preview/f9e5ff6e4db7da1c40a1457a1705617fa67fbb52?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/7jkE3jhExESEJ1mVrs7IHx"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2733c089293d86f361dbed30b23",
+        "track_preview": "https://p.scdn.co/mp3-preview/3a00139a41d79fdcfbcd8c092d5b5cebf41a179c?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/4f6ujVHsT8JUglIMuOWmp3"
     }
 ]
