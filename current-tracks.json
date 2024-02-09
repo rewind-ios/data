@@ -1,30 +1,31 @@
 [
     {
-        "track_name": "DJINN",
+        "track_name": "w",
         "track_artists": [
-            "HOUDI",
-            "Stony Stone"
+            "Wallace Cleaver"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273dfff138d66f6a86b0b82b303",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/3CjKdEkOtB8Iq3zproGbFL"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b566cb21e7b0068c0aed9b11",
+        "track_preview": "https://p.scdn.co/mp3-preview/474d73383cffd0b1a57c2dce02d05fd3de157e9f?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/6JpC92F8mIoThMSBPxq5Hq"
     },
     {
-        "track_name": "McQueen / Givenchy",
+        "track_name": "Long Beach",
         "track_artists": [
-            "Josman"
+            "robdbloc",
+            "EDGE"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273110978fabea619d30156216b",
-        "track_preview": "https://p.scdn.co/mp3-preview/3aced7d2ba18771ef9cfd8bf70ff1de4b6a30515?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6c8rVvdCyALUTZXuxdgCb0"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2730d8a79858b980847eaa23d22",
+        "track_preview": "https://p.scdn.co/mp3-preview/83d3a8f8ce3b871664bc9811fd04d72f19cb6066?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/0gRvnzSdmtkpGwIm6YDC4j"
     },
     {
-        "track_name": "Atlas",
+        "track_name": "Vaisseau",
         "track_artists": [
-            "DTF"
+            "Sneazzy",
+            "Franglish"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2733c089293d86f361dbed30b23",
-        "track_preview": "https://p.scdn.co/mp3-preview/3a00139a41d79fdcfbcd8c092d5b5cebf41a179c?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/4f6ujVHsT8JUglIMuOWmp3"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2734202c03e93c1477b80ed44a5",
+        "track_preview": "https://p.scdn.co/mp3-preview/637a98ace192565776010c2d10f733b21674eac6?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/0zfRKUT1VhaaHxEsgxWdyp"
     }
 ]
