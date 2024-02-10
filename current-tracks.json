@@ -1,31 +1,31 @@
 [
     {
-        "track_name": "w",
+        "track_name": "Normal",
         "track_artists": [
-            "Wallace Cleaver"
+            "Guizmo"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b566cb21e7b0068c0aed9b11",
-        "track_preview": "https://p.scdn.co/mp3-preview/474d73383cffd0b1a57c2dce02d05fd3de157e9f?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6JpC92F8mIoThMSBPxq5Hq"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2738957f98f3504616adcd74828",
+        "track_preview": "https://p.scdn.co/mp3-preview/18d99deb86f7f37a0d7a7035e61261239bd59d88?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3qFaZiqRH2yWmQr8ir9RCQ"
     },
     {
-        "track_name": "Long Beach",
+        "track_name": "Baby lova",
         "track_artists": [
-            "robdbloc",
-            "EDGE"
+            "SAF"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2730d8a79858b980847eaa23d22",
-        "track_preview": "https://p.scdn.co/mp3-preview/83d3a8f8ce3b871664bc9811fd04d72f19cb6066?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/0gRvnzSdmtkpGwIm6YDC4j"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27329a909cb8997cb7ffab5a482",
+        "track_preview": "https://p.scdn.co/mp3-preview/11b05400c85a0b9f140aa9e8f851105ae67b40a5?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/52I2bOFtGiRzbBtux6tXn6"
     },
     {
-        "track_name": "Vaisseau",
+        "track_name": "Ouais mec - Remix",
         "track_artists": [
             "Sneazzy",
-            "Franglish"
+            "Nekfeu",
+            "Alpha Wann"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2734202c03e93c1477b80ed44a5",
-        "track_preview": "https://p.scdn.co/mp3-preview/637a98ace192565776010c2d10f733b21674eac6?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/0zfRKUT1VhaaHxEsgxWdyp"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2737e5152f917dc4e0d8f24a1b4",
+        "track_preview": "https://p.scdn.co/mp3-preview/8533129ab4259dd2d3088428e2a5650b787a743b?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/4Vg5DX38XeHrWXcE22DMNg"
     }
 ]
