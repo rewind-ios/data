@@ -1,31 +1,33 @@
 [
     {
-        "track_name": "Normal",
+        "track_name": "UMLA tour",
         "track_artists": [
-            "Guizmo"
+            "Infinit'",
+            "Alpha Wann",
+            "K.S.A."
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2738957f98f3504616adcd74828",
-        "track_preview": "https://p.scdn.co/mp3-preview/18d99deb86f7f37a0d7a7035e61261239bd59d88?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/3qFaZiqRH2yWmQr8ir9RCQ"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27395283d84c4fd5283f68c02be",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/035RQC8nXhnOCMSZgqK3TP"
     },
     {
-        "track_name": "Baby lova",
+        "track_name": "RIDEAUX",
         "track_artists": [
-            "SAF"
+            "YZLA",
+            "EDGE"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27329a909cb8997cb7ffab5a482",
-        "track_preview": "https://p.scdn.co/mp3-preview/11b05400c85a0b9f140aa9e8f851105ae67b40a5?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/52I2bOFtGiRzbBtux6tXn6"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2737cea006ceb92b0cde7583d7e",
+        "track_preview": "https://p.scdn.co/mp3-preview/390645a082ea04be4b221d7dacf20f80a7fe9795?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/34ezjrZFjEPl0R5JRyQUSV"
     },
     {
-        "track_name": "Ouais mec - Remix",
+        "track_name": "JOUEURS DE SEX",
         "track_artists": [
-            "Sneazzy",
-            "Nekfeu",
-            "Alpha Wann"
+            "Gemen",
+            "HOUDI"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2737e5152f917dc4e0d8f24a1b4",
-        "track_preview": "https://p.scdn.co/mp3-preview/8533129ab4259dd2d3088428e2a5650b787a743b?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/4Vg5DX38XeHrWXcE22DMNg"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273edc598e4c9198f4c81290a44",
+        "track_preview": "https://p.scdn.co/mp3-preview/b27c34789e2f1770714fd827bf9e6e2ed3dc395c?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/6TqedkssTx6kT29vNs7VVk"
     }
 ]
