@@ -1,30 +1,32 @@
 [
     {
-        "track_name": "Eyes contact (feat. Franglish)",
+        "track_name": "TURBO",
         "track_artists": [
-            "Gambino La MG",
-            "Franglish"
+            "Malo",
+            "Khali"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273e74a736b0e0e0398d65e3583",
-        "track_preview": "https://p.scdn.co/mp3-preview/f0538c2d4b0f6fffcbbecb0e9727623a37df81dc?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6ylaAsWV97msUQfm4yu8az"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273537e4d7abea1474aa3740aa1",
+        "track_preview": "https://p.scdn.co/mp3-preview/c39667726215a19a6e5c956c85442af7701c0047?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/7fnVpT1Kxsng9DmoQtycn0"
     },
     {
-        "track_name": "ONYX",
+        "track_name": "Louvre",
         "track_artists": [
-            "Zeu"
+            "Alpha Wann"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273448972450d7f27cdb5f92991",
-        "track_preview": "https://p.scdn.co/mp3-preview/de4b2d509bbe077bc2f6fa1e42ccb88a68d7fd15?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/4zsUiVVhJ8joGSi0CnGgvn"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f9f4c20d531f99312ed5de45",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/56M8nx9atYDlf3hpv3k5Ru"
     },
     {
-        "track_name": "Mula",
+        "track_name": "Baby (feat. Ashanti & Hamza) - Hamza Remix",
         "track_artists": [
-            "Zola"
+            "Aitch",
+            "Ashanti",
+            "Hamza"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273df3d9a644af0dab075b1cefb",
-        "track_preview": "https://p.scdn.co/mp3-preview/ab3d9708278df5fda0c3dbddc012f14e02f4491b?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/76eNOqozCzQM0gLmX6psW9"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273202254e92311c0570959ed9c",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/3ia2hxHE3xwYFMVAYy1zls"
     }
 ]
