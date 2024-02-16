@@ -1,32 +1,29 @@
 [
     {
-        "track_name": "TURBO",
+        "track_name": "Sometimes",
         "track_artists": [
-            "Malo",
-            "Khali"
+            "Hamza"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273537e4d7abea1474aa3740aa1",
-        "track_preview": "https://p.scdn.co/mp3-preview/c39667726215a19a6e5c956c85442af7701c0047?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/7fnVpT1Kxsng9DmoQtycn0"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2739297f238f237431d56c67460",
+        "track_preview": "https://p.scdn.co/mp3-preview/b646b67e0234cc7faed541987dbb751bb7937158?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/0SzW69DvRPldNy6Qx7NndA"
     },
     {
-        "track_name": "Louvre",
+        "track_name": "MACRO",
         "track_artists": [
             "Alpha Wann"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f9f4c20d531f99312ed5de45",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2731e546007515b02884d72595f",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/56M8nx9atYDlf3hpv3k5Ru"
+        "track_url": "https://open.spotify.com/track/7jawKXg08iaOUOD7lFg0wY"
     },
     {
-        "track_name": "Baby (feat. Ashanti & Hamza) - Hamza Remix",
+        "track_name": "Julio & sa gogo danseuse",
         "track_artists": [
-            "Aitch",
-            "Ashanti",
-            "Hamza"
+            "Krisy"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273202254e92311c0570959ed9c",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/3ia2hxHE3xwYFMVAYy1zls"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273554305fc5c7bb4ec60af39ac",
+        "track_preview": "https://p.scdn.co/mp3-preview/29bc686e0fbc67ac3da786671b8bc289566fe554?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/0E9gFGghKiY46dB6028JEe"
     }
 ]
