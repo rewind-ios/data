@@ -1,29 +1,31 @@
 [
     {
-        "track_name": "Sometimes",
+        "track_name": "D\u00e9conseill\u00e9",
         "track_artists": [
-            "Hamza"
+            "JeanJass"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2739297f238f237431d56c67460",
-        "track_preview": "https://p.scdn.co/mp3-preview/b646b67e0234cc7faed541987dbb751bb7937158?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/0SzW69DvRPldNy6Qx7NndA"
-    },
-    {
-        "track_name": "MACRO",
-        "track_artists": [
-            "Alpha Wann"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2731e546007515b02884d72595f",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273177270b6829ddd67ed561868",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/7jawKXg08iaOUOD7lFg0wY"
+        "track_url": "https://open.spotify.com/track/6V4rifc6yC55r17h3cAnW0"
     },
     {
-        "track_name": "Julio & sa gogo danseuse",
+        "track_name": "Angels (Affam\u00e9 #17)",
         "track_artists": [
-            "Krisy"
+            "Zamdane"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273554305fc5c7bb4ec60af39ac",
-        "track_preview": "https://p.scdn.co/mp3-preview/29bc686e0fbc67ac3da786671b8bc289566fe554?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/0E9gFGghKiY46dB6028JEe"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2738525a88f476d45f3c54f5722",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/7xTBhoMUmP4TB0jS6nlDji"
+    },
+    {
+        "track_name": "HNINA (feat. Ghost Killer Track)",
+        "track_artists": [
+            "Stony Stone",
+            "HOUDI",
+            "Ghost Killer Track"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273da224d346a4364f17b09a1e3",
+        "track_preview": "https://p.scdn.co/mp3-preview/06e930628cc4e2a52f25f8278ded4b0d4468ed1f?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/7wTop5ElIt0HcZJpxCcxdX"
     }
 ]
