@@ -1,31 +1,34 @@
 [
     {
-        "track_name": "D\u00e9conseill\u00e9",
+        "track_name": "TP",
         "track_artists": [
-            "JeanJass"
+            "Sadek",
+            "Ninho"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273177270b6829ddd67ed561868",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2737ead397c5b37e15ce28d8b2c",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/6V4rifc6yC55r17h3cAnW0"
+        "track_url": "https://open.spotify.com/track/4aslqUfhnz7lYd8mEMIToq"
     },
     {
-        "track_name": "Angels (Affam\u00e9 #17)",
+        "track_name": "Hier Encore",
         "track_artists": [
-            "Zamdane"
+            "Jazzy Bazz",
+            "EDGE",
+            "Esso Luxueux"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2738525a88f476d45f3c54f5722",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/7xTBhoMUmP4TB0jS6nlDji"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27338015bae2059be66a69183f7",
+        "track_preview": "https://p.scdn.co/mp3-preview/32456d90a3a1cfe1c89ffd2826d3236e2fac072e?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/1mmaEHRk8P2wIYyiEt1bch"
     },
     {
-        "track_name": "HNINA (feat. Ghost Killer Track)",
+        "track_name": "Mec de cit\u00e9",
         "track_artists": [
-            "Stony Stone",
-            "HOUDI",
-            "Ghost Killer Track"
+            "Yaro",
+            "Ninho",
+            "PLK"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273da224d346a4364f17b09a1e3",
-        "track_preview": "https://p.scdn.co/mp3-preview/06e930628cc4e2a52f25f8278ded4b0d4468ed1f?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/7wTop5ElIt0HcZJpxCcxdX"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2735dbfb94d7993874c53a765a8",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/0ZgS1ThlLDBfoSLwLc8AfO"
     }
 ]
