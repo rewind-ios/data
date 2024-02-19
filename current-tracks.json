@@ -1,34 +1,32 @@
 [
     {
-        "track_name": "TP",
+        "track_name": "Bruh",
         "track_artists": [
-            "Sadek",
-            "Ninho"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2737ead397c5b37e15ce28d8b2c",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/4aslqUfhnz7lYd8mEMIToq"
-    },
-    {
-        "track_name": "Hier Encore",
-        "track_artists": [
-            "Jazzy Bazz",
+            "Bolides",
             "EDGE",
-            "Esso Luxueux"
+            "Oscar Emch"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27338015bae2059be66a69183f7",
-        "track_preview": "https://p.scdn.co/mp3-preview/32456d90a3a1cfe1c89ffd2826d3236e2fac072e?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/1mmaEHRk8P2wIYyiEt1bch"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2737f81379642c82d23febd8491",
+        "track_preview": "https://p.scdn.co/mp3-preview/0cd51cfe6ed771e276ecba003f2428b195146571?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/0zqwWswHsR1bAiKfNIJtw3"
     },
     {
-        "track_name": "Mec de cit\u00e9",
+        "track_name": "Dis le moi",
         "track_artists": [
-            "Yaro",
-            "Ninho",
-            "PLK"
+            "Franglish"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2735dbfb94d7993874c53a765a8",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27376b6a3de8aa76d5f1cbe7924",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/0ZgS1ThlLDBfoSLwLc8AfO"
+        "track_url": "https://open.spotify.com/track/6TY75Su4BVybhgH0206bln"
+    },
+    {
+        "track_name": "D\u00e9tail",
+        "track_artists": [
+            "Roshi",
+            "Alpha Wann"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ca609abc239a1ed52dfd11b6",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/3MsEj3a4VkrgveoFE8JAXO"
     }
 ]
