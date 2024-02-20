@@ -1,32 +1,30 @@
 [
     {
-        "track_name": "Bruh",
+        "track_name": "Appel en absence",
         "track_artists": [
-            "Bolides",
-            "EDGE",
-            "Oscar Emch"
+            "Slkrack",
+            "EDGE"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2737f81379642c82d23febd8491",
-        "track_preview": "https://p.scdn.co/mp3-preview/0cd51cfe6ed771e276ecba003f2428b195146571?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/0zqwWswHsR1bAiKfNIJtw3"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273c762b902f3fbb81cc38843eb",
+        "track_preview": "https://p.scdn.co/mp3-preview/642b2f18c8db34f8a22ad3019423eaa3c2147854?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3R9eWc9VowAW2F7zNKV5CF"
     },
     {
-        "track_name": "Dis le moi",
+        "track_name": "hors de ma vue",
         "track_artists": [
-            "Franglish"
+            "Krisy"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27376b6a3de8aa76d5f1cbe7924",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/6TY75Su4BVybhgH0206bln"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2730f27565f0e8495c6e0243419",
+        "track_preview": "https://p.scdn.co/mp3-preview/bdc1bf2233b45df91263e428a5b394a5c378b515?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/4Fx7PyC66y1VMoQShoE7NP"
     },
     {
-        "track_name": "D\u00e9tail",
+        "track_name": "Au max",
         "track_artists": [
-            "Roshi",
-            "Alpha Wann"
+            "H JeuneCrack"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ca609abc239a1ed52dfd11b6",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/3MsEj3a4VkrgveoFE8JAXO"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2739526e14c54e791ba48796bda",
+        "track_preview": "https://p.scdn.co/mp3-preview/7c8cf5ed718cde931568fa41240ddbec29838f5c?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/0Bw8tbPRVFXjiCuRA2rkMn"
     }
 ]
