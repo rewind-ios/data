@@ -1,31 +1,30 @@
 [
     {
-        "track_name": "BLH",
+        "track_name": "SOCIOPATHE",
         "track_artists": [
-            "Gradur",
+            "HOUDI"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2735b3814621f4e5a3096dec297",
+        "track_preview": "https://p.scdn.co/mp3-preview/795e3ea8a833b72db6e05c69894ad4d370c45598?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/1Gn2tGZMzvyHvEhwUjx1lQ"
+    },
+    {
+        "track_name": "Dios mio",
+        "track_artists": [
+            "Yaro",
             "Ninho"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2738320af5749259913564098be",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273bd1cc5f28e6d67886414acda",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/6CfGQzfXt10xyTt6QYKueh"
+        "track_url": "https://open.spotify.com/track/75j2xe6h9eVzT30yQz7bhC"
     },
     {
-        "track_name": "Type plante",
+        "track_name": "LE PI\u00c8GE",
         "track_artists": [
-            "Caballero & JeanJass",
-            "Savage Toddy"
+            "Alpha Wann"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ec5209db2595d168861cb316",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2731e546007515b02884d72595f",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/30sYR8fyHG26N8jVXEJQQJ"
-    },
-    {
-        "track_name": "Trop parler peut les tuer",
-        "track_artists": [
-            "Niro"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f0537a216f21ef98dc21f41b",
-        "track_preview": "https://p.scdn.co/mp3-preview/fc31e2128e4abe2b67082ea5e00b59308162c0c6?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/3aqECjsAbDUsHi7ZUv1qC4"
+        "track_url": "https://open.spotify.com/track/2PW7ZQgtYGtBjAQYetkU6Q"
     }
 ]
