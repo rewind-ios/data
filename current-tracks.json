@@ -1,31 +1,31 @@
 [
     {
-        "track_name": "LE TEMPS",
+        "track_name": "Sous marin",
         "track_artists": [
-            "Stony Stone",
-            "HOUDI"
+            "Alpha Wann"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273da224d346a4364f17b09a1e3",
-        "track_preview": "https://p.scdn.co/mp3-preview/e66bbbe48f4fa6749de55171d86bec716ec047ec?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/5eSzb54jH05EZwLZrdLOwt"
-    },
-    {
-        "track_name": "Somebody",
-        "track_artists": [
-            "HD La Rel\u00e8ve",
-            "Hamza"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27300befc9d236d2d5c77fab5d6",
-        "track_preview": "https://p.scdn.co/mp3-preview/b20cca69fcf31f6f70c2f075627c119ffa5f249d?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/5lSVb0wlpoHUceBEsAoTQk"
-    },
-    {
-        "track_name": "Shatta",
-        "track_artists": [
-            "Franglish"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27352632467a31ed119a12b565a",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273a9abfeeb556ac61715535e8e",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/3GR3p7iReqqwhXHqYA5Fn4"
+        "track_url": "https://open.spotify.com/track/2ksvc4KPA1jE8rkc6OBFuD"
+    },
+    {
+        "track_name": "CBD",
+        "track_artists": [
+            "Saboteur",
+            "Deen Burbigo",
+            "Nubi"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273c4072310c81438796905cb8e",
+        "track_preview": "https://p.scdn.co/mp3-preview/be7dee2dea3958f261d3553d55415e0e18a7a096?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/7yRZ0yZOWGmBAnCYCVoADh"
+    },
+    {
+        "track_name": "Compliqu\u00e9",
+        "track_artists": [
+            "EDGE"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273399d3d48ed698b700ad2ba71",
+        "track_preview": "https://p.scdn.co/mp3-preview/c0dde99ec39ab4aaf1d7e8fb7c533393949a9ea1?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3CjRUDRlBMeRPL9xKwhmmK"
     }
 ]
