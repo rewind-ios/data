@@ -1,30 +1,31 @@
 [
     {
-        "track_name": "Level Up",
+        "track_name": "SOUS LE MANTEAU",
         "track_artists": [
-            "Elh Kmer"
+            "HOUDI"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273a61da7f77a7ca97a92d5ad9b",
-        "track_preview": "https://p.scdn.co/mp3-preview/abc9ac2ff89050be6d44ec3f823de9db403c159a?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/3vSYe1iZhJ4WAbdr5KSmIF"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273d93ab7dac95ec7322fbc7249",
+        "track_preview": "https://p.scdn.co/mp3-preview/dd026db95c1181d23f2ff412444b93e4241fbc13?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/6QKzumFfhHte3udEQ8Yzjw"
     },
     {
-        "track_name": "CASTRO (feat. $ouley)",
+        "track_name": "Coeur, Conscience",
         "track_artists": [
-            "La F\u00e8ve",
-            "$ouley"
+            "Jazzy Bazz"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273c3142e16d4fe11a5906d79a1",
-        "track_preview": "https://p.scdn.co/mp3-preview/2508d9a5f04e689e7a6ef7124aa733601648c6d1?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/33cbqmP8VaudWC4HQwvxRf"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27342f98f4eab8b0b38a4877831",
+        "track_preview": "https://p.scdn.co/mp3-preview/44f0afb2eaca9b7fb06ff99988bca78973c45262?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/6cD3CxmcLveyHsQoqVCfFn"
     },
     {
-        "track_name": "6' du mat",
+        "track_name": "R8",
         "track_artists": [
-            "EDGE"
+            "4.4.2",
+            "Alonzo",
+            "Hamza"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2734524e82f03ad5789ae8201b8",
-        "track_preview": "https://p.scdn.co/mp3-preview/63a3475fc121b568be8d259ae3774bbab447228f?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/0LMQVvFZZwBN7wdiV6jHAo"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273d10f8d1130208bc7964c5d00",
+        "track_preview": "https://p.scdn.co/mp3-preview/42054e9f3b361b3f4fcba11b02e05066bbf61b01?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/2wknFfHBCpx50a2ghMMJIg"
     }
 ]
