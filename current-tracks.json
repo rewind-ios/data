@@ -1,31 +1,31 @@
 [
     {
-        "track_name": "SOUS LE MANTEAU",
+        "track_name": "20.000 (feat. Alpha Wann)",
         "track_artists": [
+            "EDGE",
+            "Alpha Wann"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27354a6cdfbdc7a0e77b99abf75",
+        "track_preview": "https://p.scdn.co/mp3-preview/a8ac5ee66849e67e9628e529f7b31522e11be069?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/798b2y0QY71JCmgZ9HN8BY"
+    },
+    {
+        "track_name": "TOMB\u00c9 DU CIEL (Giovanni x PushK x HOUDI) - COOTB vol.2",
+        "track_artists": [
+            "Label Blue Sky",
             "HOUDI"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273d93ab7dac95ec7322fbc7249",
-        "track_preview": "https://p.scdn.co/mp3-preview/dd026db95c1181d23f2ff412444b93e4241fbc13?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6QKzumFfhHte3udEQ8Yzjw"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2737557486170b6b77e8a13c682",
+        "track_preview": "https://p.scdn.co/mp3-preview/7d58391dd0c919821a23428f8814878554edcaf4?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/6lOz87WD9FhPP6kAa5Z1qE"
     },
     {
-        "track_name": "Coeur, Conscience",
+        "track_name": "20 ans",
         "track_artists": [
-            "Jazzy Bazz"
+            "Luv Resval"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27342f98f4eab8b0b38a4877831",
-        "track_preview": "https://p.scdn.co/mp3-preview/44f0afb2eaca9b7fb06ff99988bca78973c45262?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6cD3CxmcLveyHsQoqVCfFn"
-    },
-    {
-        "track_name": "R8",
-        "track_artists": [
-            "4.4.2",
-            "Alonzo",
-            "Hamza"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273d10f8d1130208bc7964c5d00",
-        "track_preview": "https://p.scdn.co/mp3-preview/42054e9f3b361b3f4fcba11b02e05066bbf61b01?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/2wknFfHBCpx50a2ghMMJIg"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2735484a476223ffe9588eb8ccc",
+        "track_preview": "https://p.scdn.co/mp3-preview/307d7bc201b730e5ce283613cb2de0af408f3ab8?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/1O0Xd9laypchLjuKsha0SI"
     }
 ]
