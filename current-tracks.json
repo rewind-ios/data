@@ -1,31 +1,30 @@
 [
     {
-        "track_name": "CBD",
+        "track_name": "Plan (feat. Alpha Wann)",
         "track_artists": [
-            "Saboteur",
-            "Deen Burbigo",
-            "Nubi"
+            "Prince Waly",
+            "Alpha Wann"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273c4072310c81438796905cb8e",
-        "track_preview": "https://p.scdn.co/mp3-preview/be7dee2dea3958f261d3553d55415e0e18a7a096?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/7yRZ0yZOWGmBAnCYCVoADh"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273050ed60199bfbbb99ed530b9",
+        "track_preview": "https://p.scdn.co/mp3-preview/becf2254ee7d905745f6422d19abd66678a46b1b?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/4PPXE5cPYDgVHl7L8HBPXo"
     },
     {
-        "track_name": "DLM",
-        "track_artists": [
-            "SAF"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273d169d3d03776ee3a8bb864a9",
-        "track_preview": "https://p.scdn.co/mp3-preview/38bc05c9fee26b405825416d1f9186ea0ed6c025?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/3QK7qLFOyDr5ztdGut3LFY"
-    },
-    {
-        "track_name": "Compliqu\u00e9",
+        "track_name": "E.D.G.E",
         "track_artists": [
             "EDGE"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273399d3d48ed698b700ad2ba71",
-        "track_preview": "https://p.scdn.co/mp3-preview/c0dde99ec39ab4aaf1d7e8fb7c533393949a9ea1?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/3CjRUDRlBMeRPL9xKwhmmK"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27354a6cdfbdc7a0e77b99abf75",
+        "track_preview": "https://p.scdn.co/mp3-preview/542d5a95bbc7f7807397d366a6a93f7ab1eeec54?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/0FyDSDR0TL8kabpH3anmyy"
+    },
+    {
+        "track_name": "CONTREX",
+        "track_artists": [
+            "Alpha Wann"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2731e546007515b02884d72595f",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/4BsXN5rMd17uLTAdMPXyHN"
     }
 ]
