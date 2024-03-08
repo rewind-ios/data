@@ -1,30 +1,31 @@
 [
     {
-        "track_name": "Plan (feat. Alpha Wann)",
+        "track_name": "D\u00e9tail",
         "track_artists": [
-            "Prince Waly",
+            "Roshi",
             "Alpha Wann"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273050ed60199bfbbb99ed530b9",
-        "track_preview": "https://p.scdn.co/mp3-preview/becf2254ee7d905745f6422d19abd66678a46b1b?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/4PPXE5cPYDgVHl7L8HBPXo"
-    },
-    {
-        "track_name": "E.D.G.E",
-        "track_artists": [
-            "EDGE"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27354a6cdfbdc7a0e77b99abf75",
-        "track_preview": "https://p.scdn.co/mp3-preview/542d5a95bbc7f7807397d366a6a93f7ab1eeec54?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/0FyDSDR0TL8kabpH3anmyy"
-    },
-    {
-        "track_name": "CONTREX",
-        "track_artists": [
-            "Alpha Wann"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2731e546007515b02884d72595f",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ca609abc239a1ed52dfd11b6",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/4BsXN5rMd17uLTAdMPXyHN"
+        "track_url": "https://open.spotify.com/track/3MsEj3a4VkrgveoFE8JAXO"
+    },
+    {
+        "track_name": "\u00c0 L'AUBE",
+        "track_artists": [
+            "H\u00f6s Copperfield",
+            "Ninho"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273da557111397b4f7eca9de939",
+        "track_preview": "https://p.scdn.co/mp3-preview/50ecfe7d019e97aa72314011fdaaccda3ea44471?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/1aOy9aPUFFE73cPPUJ2kNW"
+    },
+    {
+        "track_name": "Rayon gamma",
+        "track_artists": [
+            "Josu\u00e9"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2734c28e6d8c15f93581df634b7",
+        "track_preview": "https://p.scdn.co/mp3-preview/b189f8597b8938d78a26107eb9f784f4fa43972f?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/7a5zpJ8cFZF35v5UWERFTr"
     }
 ]
