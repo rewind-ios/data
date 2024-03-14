@@ -1,32 +1,30 @@
 [
     {
-        "track_name": "Dark City",
+        "track_name": "Me sauver",
         "track_artists": [
-            "Jazzy Bazz",
-            "EDGE"
+            "Zed",
+            "Tiakola"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27342f98f4eab8b0b38a4877831",
-        "track_preview": "https://p.scdn.co/mp3-preview/e223e63d4c5c6cb835330a07c1d8c30787fb18e7?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/61ZtfldLZCE3YqrQwSIshy"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273a191abf2edd0ec3f4b22e4cb",
+        "track_preview": "https://p.scdn.co/mp3-preview/e879b19bcbf87561ad445c12352656f646a65a8d?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3xzqAXUBXBGdYK7YeFW4If"
     },
     {
-        "track_name": "Astronaute",
+        "track_name": "Paire de Prada",
         "track_artists": [
-            "Raplume",
-            "Stony Stone",
-            "Sto"
+            "Alpha Wann"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2737f9de6ad63a1c58814748beb",
-        "track_preview": "https://p.scdn.co/mp3-preview/b24976249fbed826b0e3d6e4c1032d8b59d9646c?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/0eRUI3RparJvrI6H89ZO2I"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f9f4c20d531f99312ed5de45",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/2d7wQ0V8uGcAeXQ0TfXSyV"
     },
     {
-        "track_name": "GANGTAKA",
+        "track_name": "AVANT TOI",
         "track_artists": [
-            "Jolagreen23"
+            "HOUDI"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273c547c733fe4008f3388a1e17",
-        "track_preview": "https://p.scdn.co/mp3-preview/fddd2071b2d4f1a2280cf93e8163eeb662f29137?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/08XUhuIl1kzMGZCvyYSaFq"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273e0949fb221d2d8dbcc3b53d1",
+        "track_preview": "https://p.scdn.co/mp3-preview/6420031e141cd68565e5a7f00ab7b62d0edb881e?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/5x4cFSRsvdCdizLzK8FZXs"
     }
 ]
