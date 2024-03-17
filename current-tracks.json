@@ -1,30 +1,33 @@
 [
     {
-        "track_name": "Waze (feat. Enfantdepauvres)",
+        "track_name": "GO (feat. Franglish & Landy)",
         "track_artists": [
-            "EDGE",
-            "Enfantdepauvres"
+            "Gazo",
+            "Franglish",
+            "Landy"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27354a6cdfbdc7a0e77b99abf75",
-        "track_preview": "https://p.scdn.co/mp3-preview/7d9a9820f71cbb29cc09febda561a8fea90bb36e?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6fuWdF41l8dPZbRSvFH8iD"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ce69e24aeddaa03334f7fa5e",
+        "track_preview": "https://p.scdn.co/mp3-preview/2cb211f772646296920beeedfc087849b64e89ac?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3pFjLqo6SFBAegYmmNO60n"
     },
     {
-        "track_name": "Nuit et jour",
+        "track_name": "Longue vie",
         "track_artists": [
-            "Jok'air"
+            "Sofiane",
+            "Ninho",
+            "Hornet La Frappe"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2736b9698c34da82c3198834ac1",
-        "track_preview": "https://p.scdn.co/mp3-preview/2359867c0ca353107d89daad4cd0e21f576ae015?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/0sEFsB9lQXlK7ozkifXQMl"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ef0619c98503dab0a6e96559",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/11c33jkE3WmwfTY7VlYG2Q"
     },
     {
-        "track_name": "Khaleesi",
+        "track_name": "Sometimes",
         "track_artists": [
-            "Lesram"
+            "Hamza"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2739ef73b5453b6f4957c23f87e",
-        "track_preview": "https://p.scdn.co/mp3-preview/b9a2dd331406ca52a86d4f3a9120f7f303ca3380?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/1IVdF1aeeIt498atWO51kG"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2739297f238f237431d56c67460",
+        "track_preview": "https://p.scdn.co/mp3-preview/b646b67e0234cc7faed541987dbb751bb7937158?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/0SzW69DvRPldNy6Qx7NndA"
     }
 ]
