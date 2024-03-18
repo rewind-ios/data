@@ -1,33 +1,30 @@
 [
     {
-        "track_name": "GO (feat. Franglish & Landy)",
+        "track_name": "Warehouse",
         "track_artists": [
-            "Gazo",
-            "Franglish",
-            "Landy"
+            "Le R\u00e8glement",
+            "Mairo"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ce69e24aeddaa03334f7fa5e",
-        "track_preview": "https://p.scdn.co/mp3-preview/2cb211f772646296920beeedfc087849b64e89ac?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/3pFjLqo6SFBAegYmmNO60n"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273d96b255a48516b72d7eb869d",
+        "track_preview": "https://p.scdn.co/mp3-preview/fb24dee3498ad22986dc4bd952f60fb893b28337?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/5B1Gru5ZkpK6nFTQS3DQpw"
     },
     {
-        "track_name": "Longue vie",
+        "track_name": "Appelez les Pim-Pom",
         "track_artists": [
-            "Sofiane",
-            "Ninho",
-            "Hornet La Frappe"
+            "SDM"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ef0619c98503dab0a6e96559",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b88dd3f6147c30901e18732e",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/11c33jkE3WmwfTY7VlYG2Q"
+        "track_url": "https://open.spotify.com/track/6ssbbigLyLpNqzCkHhdmFt"
     },
     {
-        "track_name": "Sometimes",
+        "track_name": "Vu d'en haut",
         "track_artists": [
-            "Hamza"
+            "EDGE"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2739297f238f237431d56c67460",
-        "track_preview": "https://p.scdn.co/mp3-preview/b646b67e0234cc7faed541987dbb751bb7937158?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/0SzW69DvRPldNy6Qx7NndA"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273399d3d48ed698b700ad2ba71",
+        "track_preview": "https://p.scdn.co/mp3-preview/31622a0da0efbb2fcb46755b29ef49beca34a7b6?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3I61jVUkATxMP57o54QZNN"
     }
 ]
