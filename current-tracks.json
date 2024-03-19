@@ -1,30 +1,31 @@
 [
     {
-        "track_name": "Warehouse",
+        "track_name": "CALMOS",
         "track_artists": [
-            "Le R\u00e8glement",
-            "Mairo"
+            "HOUDI"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273d96b255a48516b72d7eb869d",
-        "track_preview": "https://p.scdn.co/mp3-preview/fb24dee3498ad22986dc4bd952f60fb893b28337?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/5B1Gru5ZkpK6nFTQS3DQpw"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273d93ab7dac95ec7322fbc7249",
+        "track_preview": "https://p.scdn.co/mp3-preview/36c022462c2da288f2b3ad79a7a126885b8a931b?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/0ZXJZf35qpJgjQEylh0HAY"
     },
     {
-        "track_name": "Appelez les Pim-Pom",
+        "track_name": "Nobu",
         "track_artists": [
-            "SDM"
+            "Hamza"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b88dd3f6147c30901e18732e",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ece4e42d3aaff75b8ec8a43d",
+        "track_preview": "https://p.scdn.co/mp3-preview/0afee50633a9026e76cb0a1c2d559cf77ed00a50?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/2h1X1g6qw0IdhcQKFs1Aen"
+    },
+    {
+        "track_name": "Longue vie",
+        "track_artists": [
+            "Sofiane",
+            "Ninho",
+            "Hornet La Frappe"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ef0619c98503dab0a6e96559",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/6ssbbigLyLpNqzCkHhdmFt"
-    },
-    {
-        "track_name": "Vu d'en haut",
-        "track_artists": [
-            "EDGE"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273399d3d48ed698b700ad2ba71",
-        "track_preview": "https://p.scdn.co/mp3-preview/31622a0da0efbb2fcb46755b29ef49beca34a7b6?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/3I61jVUkATxMP57o54QZNN"
+        "track_url": "https://open.spotify.com/track/11c33jkE3WmwfTY7VlYG2Q"
     }
 ]
