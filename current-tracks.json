@@ -1,31 +1,29 @@
 [
     {
-        "track_name": "CALMOS",
+        "track_name": "LIGNE DROITE",
         "track_artists": [
-            "HOUDI"
+            "NeS"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273d93ab7dac95ec7322fbc7249",
-        "track_preview": "https://p.scdn.co/mp3-preview/36c022462c2da288f2b3ad79a7a126885b8a931b?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/0ZXJZf35qpJgjQEylh0HAY"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273d16a4dc23a13103bd21dce17",
+        "track_preview": "https://p.scdn.co/mp3-preview/e3bb7e428325b5bcb47e9d544787b3c1ae5697e8?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/7BJkYrMGLmsEVpYtBtvCHz"
     },
     {
-        "track_name": "Nobu",
+        "track_name": "A la base",
         "track_artists": [
-            "Hamza"
+            "Nekfeu"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ece4e42d3aaff75b8ec8a43d",
-        "track_preview": "https://p.scdn.co/mp3-preview/0afee50633a9026e76cb0a1c2d559cf77ed00a50?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/2h1X1g6qw0IdhcQKFs1Aen"
-    },
-    {
-        "track_name": "Longue vie",
-        "track_artists": [
-            "Sofiane",
-            "Ninho",
-            "Hornet La Frappe"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ef0619c98503dab0a6e96559",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27376370f7e9d19f210360186ca",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/11c33jkE3WmwfTY7VlYG2Q"
+        "track_url": "https://open.spotify.com/track/6jsjizOPrKfXCvrvzzXAHb"
+    },
+    {
+        "track_name": "Barcelone",
+        "track_artists": [
+            "Alpha Wann"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273757c47be7338c71f6c8b7cc7",
+        "track_preview": "https://p.scdn.co/mp3-preview/cb4779fa511777906ccc6337bfb4289c10ed6313?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/4K2Tnho13ECsZNaNNjqrJ8"
     }
 ]
