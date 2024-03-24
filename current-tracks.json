@@ -1,30 +1,31 @@
 [
     {
-        "track_name": "Sous marin",
+        "track_name": "D\u00e9\u00e7u",
         "track_artists": [
-            "Alpha Wann"
+            "Franglish",
+            "Soolking"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273757c47be7338c71f6c8b7cc7",
-        "track_preview": "https://p.scdn.co/mp3-preview/15e638f3083edcec6912d76c98eddd2853cf8dd6?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/5X9CBj80TImnkzzpTVoxTb"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2737b5d2a1dac967202fd008710",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/41VKigz0wzwbY5bMbO8qCx"
     },
     {
-        "track_name": "20 ans",
+        "track_name": "SANG FROID",
         "track_artists": [
-            "Luv Resval"
+            "Sneazzy",
+            "Laylow"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2735484a476223ffe9588eb8ccc",
-        "track_preview": "https://p.scdn.co/mp3-preview/307d7bc201b730e5ce283613cb2de0af408f3ab8?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/1O0Xd9laypchLjuKsha0SI"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27366b88645240f7b384258b5cb",
+        "track_preview": "https://p.scdn.co/mp3-preview/e85f49432c05aaab4d5abcbc20f0f41034fe7571?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/00y6yHW6kv07HqWmodzjGb"
     },
     {
-        "track_name": "20.000 (feat. Alpha Wann)",
+        "track_name": "History X",
         "track_artists": [
-            "EDGE",
-            "Alpha Wann"
+            "Guizmo"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27354a6cdfbdc7a0e77b99abf75",
-        "track_preview": "https://p.scdn.co/mp3-preview/a8ac5ee66849e67e9628e529f7b31522e11be069?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/798b2y0QY71JCmgZ9HN8BY"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2733589a722e9a3d9817e2a3242",
+        "track_preview": "https://p.scdn.co/mp3-preview/8365067cebb8997919a34f2d3a849386ef8dbdeb?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/2byBNPHCtgP88G70CGX0NT"
     }
 ]
