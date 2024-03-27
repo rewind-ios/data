@@ -1,31 +1,29 @@
 [
     {
-        "track_name": "San Pellegrino",
+        "track_name": "Sur paname",
         "track_artists": [
-            "Chily"
+            "Ninho"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b914a6286bc39e2bf9070b74",
-        "track_preview": "https://p.scdn.co/mp3-preview/4364aa43505987f7cfe33e5a48e15e90edd7aa94?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/5jfvG5UhPE92bhwyJgbKYl"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2735097b9a3b4034fe0f61f8ab9",
+        "track_preview": "https://p.scdn.co/mp3-preview/5d463e8e463874dd9e2a3ae8b674b1bd790c20ad?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/6yEyXUuKsHa2byKddTnA6r"
     },
     {
-        "track_name": "OGOD",
+        "track_name": "LGBIRI - Bonus",
         "track_artists": [
-            "Chanje"
+            "Ateyaba"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273e6e21b370ad88f7e1355c68d",
-        "track_preview": "https://p.scdn.co/mp3-preview/bff4b3adf3f06d75b0515b0f5503145997dffcb2?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/1zOx9aFuRJ7NYYaIuQBaEX"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2732ce1b58317e3ad7cadf45f42",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/6PWMAoEaU4ih0ZkPmWgDIJ"
     },
     {
-        "track_name": "GRV PAS LE TEMPS",
+        "track_name": "AVANT TOI",
         "track_artists": [
-            "PUSH & GIO",
-            "HOUDI",
-            "LETS GO"
+            "HOUDI"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2730521e74124cafc13a90b00b8",
-        "track_preview": "https://p.scdn.co/mp3-preview/36213158743732970f3ac28f41dc07177fce6925?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/0vKLfjSeOSjeV2uB1DP7T2"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273e0949fb221d2d8dbcc3b53d1",
+        "track_preview": "https://p.scdn.co/mp3-preview/6420031e141cd68565e5a7f00ab7b62d0edb881e?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/5x4cFSRsvdCdizLzK8FZXs"
     }
 ]
