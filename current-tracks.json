@@ -1,29 +1,31 @@
 [
     {
-        "track_name": "Sur paname",
+        "track_name": "Private Club",
         "track_artists": [
-            "Ninho"
+            "Jazzy Bazz",
+            "EDGE",
+            "Esso Luxueux"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2735097b9a3b4034fe0f61f8ab9",
-        "track_preview": "https://p.scdn.co/mp3-preview/5d463e8e463874dd9e2a3ae8b674b1bd790c20ad?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6yEyXUuKsHa2byKddTnA6r"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27338015bae2059be66a69183f7",
+        "track_preview": "https://p.scdn.co/mp3-preview/f376049760b6a2b831a9b3099bc24089e24bc92e?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/5tGPEY0EkG9zHefEIkPjtu"
     },
     {
-        "track_name": "LGBIRI - Bonus",
+        "track_name": "Go",
         "track_artists": [
-            "Ateyaba"
+            "Franglish"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2732ce1b58317e3ad7cadf45f42",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273066240c7aac4f0e4eafd854d",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/6PWMAoEaU4ih0ZkPmWgDIJ"
+        "track_url": "https://open.spotify.com/track/5IH8jei0Iw74eWn1pni6s3"
     },
     {
-        "track_name": "AVANT TOI",
+        "track_name": "Tulum",
         "track_artists": [
-            "HOUDI"
+            "Dinos"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273e0949fb221d2d8dbcc3b53d1",
-        "track_preview": "https://p.scdn.co/mp3-preview/6420031e141cd68565e5a7f00ab7b62d0edb881e?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/5x4cFSRsvdCdizLzK8FZXs"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2736d87200c168c8876c7c2ebd8",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/158IeVCrnVJlMsWaleMsnN"
     }
 ]
