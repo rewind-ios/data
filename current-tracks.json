@@ -1,31 +1,30 @@
 [
     {
-        "track_name": "Private Club",
+        "track_name": "Plaza Ath\u00e9n\u00e9e",
+        "track_artists": [
+            "Booba"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b83b5650c1837b1812a71c18",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/3zfX77h21GrlhsiOuYnZNC"
+    },
+    {
+        "track_name": "\u00c9l\u00e9ment 115",
         "track_artists": [
             "Jazzy Bazz",
-            "EDGE",
-            "Esso Luxueux"
+            "Nekfeu"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27338015bae2059be66a69183f7",
-        "track_preview": "https://p.scdn.co/mp3-preview/f376049760b6a2b831a9b3099bc24089e24bc92e?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/5tGPEY0EkG9zHefEIkPjtu"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27342f98f4eab8b0b38a4877831",
+        "track_preview": "https://p.scdn.co/mp3-preview/e8e8cfd9944acfcb020a3f9e3cb7e2be42a5a877?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/2k4rnj8GC80C4rA6eZUIdz"
     },
     {
-        "track_name": "Go",
+        "track_name": "Mula",
         "track_artists": [
-            "Franglish"
+            "Zola"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273066240c7aac4f0e4eafd854d",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/5IH8jei0Iw74eWn1pni6s3"
-    },
-    {
-        "track_name": "Tulum",
-        "track_artists": [
-            "Dinos"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2736d87200c168c8876c7c2ebd8",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/158IeVCrnVJlMsWaleMsnN"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273df3d9a644af0dab075b1cefb",
+        "track_preview": "https://p.scdn.co/mp3-preview/ab3d9708278df5fda0c3dbddc012f14e02f4491b?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/76eNOqozCzQM0gLmX6psW9"
     }
 ]
