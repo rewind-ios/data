@@ -1,32 +1,31 @@
 [
     {
-        "track_name": "44 (feat. Yaro)",
+        "track_name": "Jetski",
         "track_artists": [
-            "Ninho",
-            "Yaro"
+            "Franglish"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b2b45ba815670e92164581c5",
-        "track_preview": "https://p.scdn.co/mp3-preview/57913709d94adb6a937bf419406a112d0e1e42e3?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/46ZOMbOANX8TlyEamO31MJ"
-    },
-    {
-        "track_name": "B&B",
-        "track_artists": [
-            "HOUDI"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273e5968b186ca0926b5984c574",
-        "track_preview": "https://p.scdn.co/mp3-preview/90a911076e98df070298ff2204a21999e1a6fb34?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/658YWBNhcV1bhsoDtjVgqT"
-    },
-    {
-        "track_name": "Comme jamais",
-        "track_artists": [
-            "Soolking",
-            "Zed",
-            "Hamza"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273382d41464084766fdb907605",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273e9a796cef79365f5f216c2bc",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/310aQZOY3wVUfh2JEaOJX5"
+        "track_url": "https://open.spotify.com/track/5L59TlnCaoXtspEgIMQala"
+    },
+    {
+        "track_name": "Fight Club",
+        "track_artists": [
+            "Zuukou mayzie",
+            "THEODORT"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2735314245c0868df2f4cdb6561",
+        "track_preview": "https://p.scdn.co/mp3-preview/67afb11178179e49fc064feb79c398b2bfaf6592?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/1i77Jphj3twH3eNeMvrSzy"
+    },
+    {
+        "track_name": "Dark City",
+        "track_artists": [
+            "Jazzy Bazz",
+            "EDGE"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27342f98f4eab8b0b38a4877831",
+        "track_preview": "https://p.scdn.co/mp3-preview/e223e63d4c5c6cb835330a07c1d8c30787fb18e7?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/61ZtfldLZCE3YqrQwSIshy"
     }
 ]
