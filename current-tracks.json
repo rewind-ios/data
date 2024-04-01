@@ -1,31 +1,29 @@
 [
     {
-        "track_name": "Jetski",
+        "track_name": "SOUS LE MANTEAU",
         "track_artists": [
-            "Franglish"
+            "HOUDI"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273e9a796cef79365f5f216c2bc",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273d93ab7dac95ec7322fbc7249",
+        "track_preview": "https://p.scdn.co/mp3-preview/dd026db95c1181d23f2ff412444b93e4241fbc13?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/6QKzumFfhHte3udEQ8Yzjw"
+    },
+    {
+        "track_name": "Putain de salaire",
+        "track_artists": [
+            "Kekra"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2731923d53c303a5734b33a8c5a",
+        "track_preview": "https://p.scdn.co/mp3-preview/bdff2161c5663dcc23d3021b07af4a1a3d58eaf8?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/1oIHWApwC79TRxOmuZHEif"
+    },
+    {
+        "track_name": "A chaque jour...",
+        "track_artists": [
+            "Dosseh"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2737a898157c5dc24b15f925b12",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/5L59TlnCaoXtspEgIMQala"
-    },
-    {
-        "track_name": "Fight Club",
-        "track_artists": [
-            "Zuukou mayzie",
-            "THEODORT"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2735314245c0868df2f4cdb6561",
-        "track_preview": "https://p.scdn.co/mp3-preview/67afb11178179e49fc064feb79c398b2bfaf6592?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/1i77Jphj3twH3eNeMvrSzy"
-    },
-    {
-        "track_name": "Dark City",
-        "track_artists": [
-            "Jazzy Bazz",
-            "EDGE"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27342f98f4eab8b0b38a4877831",
-        "track_preview": "https://p.scdn.co/mp3-preview/e223e63d4c5c6cb835330a07c1d8c30787fb18e7?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/61ZtfldLZCE3YqrQwSIshy"
+        "track_url": "https://open.spotify.com/track/0Vi7aOPdOU683VUfZ79c0d"
     }
 ]
