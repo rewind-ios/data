@@ -1,29 +1,31 @@
 [
     {
-        "track_name": "SOUS LE MANTEAU",
+        "track_name": "HIVERT",
         "track_artists": [
-            "HOUDI"
+            "joaqm"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273d93ab7dac95ec7322fbc7249",
-        "track_preview": "https://p.scdn.co/mp3-preview/dd026db95c1181d23f2ff412444b93e4241fbc13?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6QKzumFfhHte3udEQ8Yzjw"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2733eecfa08caf7291bcafa9b88",
+        "track_preview": "https://p.scdn.co/mp3-preview/7eae123e862271dc7b1833aac4995263808e0d68?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/4CIwTMP0P2J0nYiZjxJpir"
     },
     {
-        "track_name": "Putain de salaire",
+        "track_name": "Private Club",
         "track_artists": [
-            "Kekra"
+            "Jazzy Bazz",
+            "EDGE",
+            "Esso Luxueux"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2731923d53c303a5734b33a8c5a",
-        "track_preview": "https://p.scdn.co/mp3-preview/bdff2161c5663dcc23d3021b07af4a1a3d58eaf8?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/1oIHWApwC79TRxOmuZHEif"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27338015bae2059be66a69183f7",
+        "track_preview": "https://p.scdn.co/mp3-preview/f376049760b6a2b831a9b3099bc24089e24bc92e?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/5tGPEY0EkG9zHefEIkPjtu"
     },
     {
-        "track_name": "A chaque jour...",
+        "track_name": "LA TOILE",
         "track_artists": [
-            "Dosseh"
+            "Khali"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2737a898157c5dc24b15f925b12",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/0Vi7aOPdOU683VUfZ79c0d"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b84cca122af032b1e97ab97b",
+        "track_preview": "https://p.scdn.co/mp3-preview/351885a9347be8613259649f732a02b235eee014?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/5bUuSBiSE9cLuFCDu5l2XI"
     }
 ]
