@@ -1,31 +1,33 @@
 [
     {
-        "track_name": "D\u00e9conseill\u00e9",
+        "track_name": "Copacabana",
         "track_artists": [
-            "JeanJass"
+            "EDGE"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273177270b6829ddd67ed561868",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273399d3d48ed698b700ad2ba71",
+        "track_preview": "https://p.scdn.co/mp3-preview/e22bc42453ecaed9df9d841e0e18a4ea3969f009?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/4eBjhim04TBccTjLpxSYwd"
+    },
+    {
+        "track_name": "Jennifer",
+        "track_artists": [
+            "Soolking",
+            "Lynda",
+            "Heuss L'enfoir\u00e9",
+            "L'Alg\u00e9rino",
+            "Franglish"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273382d41464084766fdb907605",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/6V4rifc6yC55r17h3cAnW0"
+        "track_url": "https://open.spotify.com/track/4Qynrttl9LTuW8vqAFVFz4"
     },
     {
-        "track_name": "Mental",
+        "track_name": "CONTREX",
         "track_artists": [
-            "Jazzy Bazz",
-            "robdbloc"
+            "Alpha Wann"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27342f98f4eab8b0b38a4877831",
-        "track_preview": "https://p.scdn.co/mp3-preview/a4e0d7a5c0075ee5d6f7f9b096612699c6c6967d?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/2jNOKdBdO34jpT8rEQtqiF"
-    },
-    {
-        "track_name": "CASTRO (feat. $ouley)",
-        "track_artists": [
-            "La F\u00e8ve",
-            "$ouley"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273c3142e16d4fe11a5906d79a1",
-        "track_preview": "https://p.scdn.co/mp3-preview/2508d9a5f04e689e7a6ef7124aa733601648c6d1?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/33cbqmP8VaudWC4HQwvxRf"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273842b2c6c258fbaa254ff3b2c",
+        "track_preview": "https://p.scdn.co/mp3-preview/9c87922362372af3b57d0e371f8b229afe4daa55?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/7IM1tMoKHNDmW9FjWUKkYx"
     }
 ]
