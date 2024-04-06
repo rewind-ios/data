@@ -1,33 +1,32 @@
 [
     {
-        "track_name": "Copacabana",
+        "track_name": "SIX",
+        "track_artists": [
+            "CYPH3R",
+            "Hamza"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b86a221ef70938d5656adcb6",
+        "track_preview": "https://p.scdn.co/mp3-preview/b5ce04a8e3222fc1510b467c06114e4a64d3309f?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/79p21baTD3qV5APiTvX36N"
+    },
+    {
+        "track_name": "Private Club",
+        "track_artists": [
+            "Jazzy Bazz",
+            "EDGE",
+            "Esso Luxueux"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27338015bae2059be66a69183f7",
+        "track_preview": "https://p.scdn.co/mp3-preview/f376049760b6a2b831a9b3099bc24089e24bc92e?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/5tGPEY0EkG9zHefEIkPjtu"
+    },
+    {
+        "track_name": "Compliqu\u00e9",
         "track_artists": [
             "EDGE"
         ],
         "track_cover": "https://i.scdn.co/image/ab67616d0000b273399d3d48ed698b700ad2ba71",
-        "track_preview": "https://p.scdn.co/mp3-preview/e22bc42453ecaed9df9d841e0e18a4ea3969f009?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/4eBjhim04TBccTjLpxSYwd"
-    },
-    {
-        "track_name": "Jennifer",
-        "track_artists": [
-            "Soolking",
-            "Lynda",
-            "Heuss L'enfoir\u00e9",
-            "L'Alg\u00e9rino",
-            "Franglish"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273382d41464084766fdb907605",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/4Qynrttl9LTuW8vqAFVFz4"
-    },
-    {
-        "track_name": "CONTREX",
-        "track_artists": [
-            "Alpha Wann"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273842b2c6c258fbaa254ff3b2c",
-        "track_preview": "https://p.scdn.co/mp3-preview/9c87922362372af3b57d0e371f8b229afe4daa55?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/7IM1tMoKHNDmW9FjWUKkYx"
+        "track_preview": "https://p.scdn.co/mp3-preview/c0dde99ec39ab4aaf1d7e8fb7c533393949a9ea1?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3CjRUDRlBMeRPL9xKwhmmK"
     }
 ]
