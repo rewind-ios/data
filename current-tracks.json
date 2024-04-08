@@ -1,32 +1,31 @@
 [
     {
-        "track_name": "Obscurit\u00e9 (feat. Hamza)",
+        "track_name": "Journal de bord",
         "track_artists": [
-            "ElGrandeToto",
+            "Roshi"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273515a6ae6ebe3688b25e524ba",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/7ATSdSIJfgcaIiJz0U7WCT"
+    },
+    {
+        "track_name": "Baby (feat. Ashanti & Hamza) - Hamza Remix",
+        "track_artists": [
+            "Aitch",
+            "Ashanti",
             "Hamza"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ed623ce724d59c3065a31388",
-        "track_preview": "https://p.scdn.co/mp3-preview/94b40629e8b73c2d904a6183f4c441554d375fba?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/2FkCxMgyjqvKwV0wqKb3vF"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273202254e92311c0570959ed9c",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/3ia2hxHE3xwYFMVAYy1zls"
     },
     {
-        "track_name": "T'as capt\u00e9",
+        "track_name": "Allo",
         "track_artists": [
-            "S.Pri Noir",
-            "Alpha Wann",
-            "Sneazzy"
+            "Franglish"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2738102c807432b7b63d7b9c3dd",
-        "track_preview": "https://p.scdn.co/mp3-preview/be479db9e8c59d5eb66fb8c54d9a2ad18a6d029d?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/5CO0a7utO79twHhGb1sxTw"
-    },
-    {
-        "track_name": "Barcelone",
-        "track_artists": [
-            "Alpha Wann"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273757c47be7338c71f6c8b7cc7",
-        "track_preview": "https://p.scdn.co/mp3-preview/cb4779fa511777906ccc6337bfb4289c10ed6313?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/4K2Tnho13ECsZNaNNjqrJ8"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f97f6c3d581cb763cdd86e40",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/7KgmOowfIzoNrZT5vINxID"
     }
 ]
