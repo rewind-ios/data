@@ -1,30 +1,31 @@
 [
     {
-        "track_name": "BONUS INQUI\u00c9TANT",
+        "track_name": "Jolie demoiselle 2.0",
         "track_artists": [
-            "HOUDI"
+            "Key Largo",
+            "Alpha Wann"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ab923937f4bcbedbdd4136ef",
-        "track_preview": "https://p.scdn.co/mp3-preview/2c9555fd4a3646c3e465c9d22378891a0da9d945?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6rclJCiysz856IF5uiByQp"
-    },
-    {
-        "track_name": "Trix Interlude",
-        "track_artists": [
-            "Diddi Trix"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ff32827efb25248cd37819e1",
-        "track_preview": "https://p.scdn.co/mp3-preview/7f65d38877c43d3b85a377117a86c032ecb2c0cd?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/5t8liRzrFYveZxIq8WTBf4"
-    },
-    {
-        "track_name": "P2",
-        "track_artists": [
-            "Deen Burbigo",
-            "Esso Luxueux"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27330baf01b00d9afedc52851c4",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2737328fafd3639dbe1309e146c",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/53oyhq6oGOHIMoDDW6xxKQ"
+        "track_url": "https://open.spotify.com/track/6dlnqkuqOkBwDI6p3uclYR"
+    },
+    {
+        "track_name": "CDG",
+        "track_artists": [
+            "EDGE",
+            "Ratu$"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2733fe09aaa46e497fb24ea59ba",
+        "track_preview": "https://p.scdn.co/mp3-preview/3c02a219f133b8a4044f63ca2ca1c7d8e49ca27d?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/2brLSQnK9jprduMBn3XBVp"
+    },
+    {
+        "track_name": "D\u00e9conseill\u00e9",
+        "track_artists": [
+            "JeanJass"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273177270b6829ddd67ed561868",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/6V4rifc6yC55r17h3cAnW0"
     }
 ]
