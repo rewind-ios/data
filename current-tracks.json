@@ -1,30 +1,32 @@
 [
     {
-        "track_name": "\u00c9l\u00e9ment 115",
+        "track_name": "Baby (feat. Ashanti & Hamza) - Hamza Remix",
         "track_artists": [
-            "Jazzy Bazz",
-            "Nekfeu"
+            "Aitch",
+            "Ashanti",
+            "Hamza"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27342f98f4eab8b0b38a4877831",
-        "track_preview": "https://p.scdn.co/mp3-preview/e8e8cfd9944acfcb020a3f9e3cb7e2be42a5a877?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/2k4rnj8GC80C4rA6eZUIdz"
-    },
-    {
-        "track_name": "VIBESTARS #2",
-        "track_artists": [
-            "Genezio"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2739199174511b5e6ad0ffa4bfd",
-        "track_preview": "https://p.scdn.co/mp3-preview/5c0121723b51a8afc1fed9a8c19179d8d8334e66?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/4UViCIDxB8qoNlQuRMA8IT"
-    },
-    {
-        "track_name": "Cochi",
-        "track_artists": [
-            "1PLIK\u00c9140"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2734bb182ac101f159db139cbc2",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273202254e92311c0570959ed9c",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/3wRCGjKtedHSQoWzqNPsEr"
+        "track_url": "https://open.spotify.com/track/3ia2hxHE3xwYFMVAYy1zls"
+    },
+    {
+        "track_name": "R\u00e8glement Rouge Freestyle",
+        "track_artists": [
+            "Luv Resval"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f75a69c8a9facd7164960246",
+        "track_preview": "https://p.scdn.co/mp3-preview/6bdd25fe0b1f1db6d4059b1bc9f212f348951852?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/2jzML87FkMTCGb0DneExXV"
+    },
+    {
+        "track_name": "SUBARU (feat. Josman)",
+        "track_artists": [
+            "Squidji",
+            "Josman"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273cbb989d063aafceb14d58d07",
+        "track_preview": "https://p.scdn.co/mp3-preview/6071c3fff414bdd5d5b09f13fde156d5414e231c?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/0moO2WmKQcEPxig2qA93xU"
     }
 ]
