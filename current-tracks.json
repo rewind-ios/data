@@ -1,29 +1,32 @@
 [
     {
-        "track_name": "TOPAZ",
+        "track_name": "TP",
         "track_artists": [
-            "NeS"
+            "Sadek",
+            "Ninho"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273550b4528f31fd28007a97ab9",
-        "track_preview": "https://p.scdn.co/mp3-preview/c0bdabc6054717d763f370c5619e36ff2609798e?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/15wtX8TtjvKUu46w38Tbi5"
-    },
-    {
-        "track_name": "A chaque jour...",
-        "track_artists": [
-            "Dosseh"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2737a898157c5dc24b15f925b12",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2737ead397c5b37e15ce28d8b2c",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/0Vi7aOPdOU683VUfZ79c0d"
+        "track_url": "https://open.spotify.com/track/4aslqUfhnz7lYd8mEMIToq"
     },
     {
-        "track_name": "Coeur, Conscience",
+        "track_name": "Caviar (Freestyle)",
         "track_artists": [
-            "Jazzy Bazz"
+            "Franglish"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27342f98f4eab8b0b38a4877831",
-        "track_preview": "https://p.scdn.co/mp3-preview/44f0afb2eaca9b7fb06ff99988bca78973c45262?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6cD3CxmcLveyHsQoqVCfFn"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2739924b9fe5edb88882faa403a",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/6GrfHwMVRsOHetfirPD2qE"
+    },
+    {
+        "track_name": "Tornado",
+        "track_artists": [
+            "Caballero & JeanJass",
+            "Enima",
+            "Limsa d'Aulnay"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ec5209db2595d168861cb316",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/0ddzN7uIQupcq4qUd8fOoC"
     }
 ]
