@@ -1,31 +1,32 @@
 [
     {
-        "track_name": "SARBACANE",
+        "track_name": "Carolina",
         "track_artists": [
-            "YZLA",
-            "Ratu$",
-            "Esso Luxueux"
+            "REDVOLUTION",
+            "Ninho"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2730437293664d949d1c91b0fef",
-        "track_preview": "https://p.scdn.co/mp3-preview/3b71fd8fbe84564972b94b649b9d699062e1df10?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/5dL8wfUcGgzQFMKBBEzLmv"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273cd20801c5435657d0ec5b62d",
+        "track_preview": "https://p.scdn.co/mp3-preview/c9c431ca03e8a3b0085132dba7f8ba701653ebed?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/07r32jNfQPQ4gQJRc3K17q"
     },
     {
-        "track_name": "Step #5 - \u00c9toiles",
+        "track_name": "AQUA",
         "track_artists": [
-            "Stony Stone"
+            "Stony Stone",
+            "HOUDI"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273a6ae17596a8840d54d163cd3",
-        "track_preview": "https://p.scdn.co/mp3-preview/69d27086befe779ec9219e1e6e0c559aeec02fb7?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/2IrbbmZRengssiIrUKeXeH"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2731c2da0efc4f9a08bcb0dd8b8",
+        "track_preview": "https://p.scdn.co/mp3-preview/8f5ad297f31ae58ec043f4bdbeef15452879e4e8?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/1kzlx72i9Qd29MdqJwJPyQ"
     },
     {
-        "track_name": "Armada",
+        "track_name": "TWERK",
         "track_artists": [
-            "OBOY"
+            "EDGE",
+            "Ratu$"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273bee09be2b9c66e75411b70fa",
-        "track_preview": "https://p.scdn.co/mp3-preview/c7c580df16f8df9b0887957713096e761391c810?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/0NOsqjim8zDnjXLYULEnqv"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2733fe09aaa46e497fb24ea59ba",
+        "track_preview": "https://p.scdn.co/mp3-preview/4b56975c8237f7bfd043e5abe5d8a649f1034ad9?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/54hevxWRfaxgFxRCr5ZALj"
     }
 ]
