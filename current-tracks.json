@@ -1,32 +1,34 @@
 [
     {
-        "track_name": "Joli c\u0153ur",
+        "track_name": "Baby (feat. Ashanti & Hamza) - Hamza Remix",
         "track_artists": [
-            "Kim",
-            "Franglish"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273a4337627799b9098129756a8",
-        "track_preview": "https://p.scdn.co/mp3-preview/b22a91113d9fb70e1d9067c498400630bcc5949f?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/4xCFHoSZjzetjFGQadXlgR"
-    },
-    {
-        "track_name": "Excuse My French",
-        "track_artists": [
-            "L'Alg\u00e9rino",
-            "Franglish"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27335b08f60c557857fad1f271d",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/5eT22bKcJa1mjtSFfqZfKa"
-    },
-    {
-        "track_name": "I Got You",
-        "track_artists": [
-            "Headie One",
+            "Aitch",
+            "Ashanti",
             "Hamza"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27347083a4aec1aac7886f80eee",
-        "track_preview": "https://p.scdn.co/mp3-preview/31d91c4c8c64f6b43bf409b22f3be93abee2471a?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6WpnnAWeq9FuIF6Amavul8"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273202254e92311c0570959ed9c",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/3ia2hxHE3xwYFMVAYy1zls"
+    },
+    {
+        "track_name": "Bruh",
+        "track_artists": [
+            "Bolides",
+            "EDGE",
+            "Oscar Emch"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2737f81379642c82d23febd8491",
+        "track_preview": "https://p.scdn.co/mp3-preview/0cd51cfe6ed771e276ecba003f2428b195146571?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/0zqwWswHsR1bAiKfNIJtw3"
+    },
+    {
+        "track_name": "Point d'interrogation",
+        "track_artists": [
+            "Nekfeu",
+            "Alpha Wann"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2736ac7a439b043411a368f1a56",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/7K1N8TobxyUMkfWNe75kfP"
     }
 ]
