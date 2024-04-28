@@ -1,31 +1,30 @@
 [
     {
-        "track_name": "Fais-le",
+        "track_name": "Himalaya",
         "track_artists": [
-            "Driks"
+            "Stony Stone",
+            "Raplume"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273fecf00bc89c1d8e29923966c",
-        "track_preview": "https://p.scdn.co/mp3-preview/721ad30e8ae0d536d7e8da62ae2e9db491a81331?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/0aVXLYNXhAyaGos76vtsL6"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ae40c8c67b0715151b8d2701",
+        "track_preview": "https://p.scdn.co/mp3-preview/b429243770d9d8f41dacd8ca8cc2c0b8fe12f1d1?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3S9razKGdVtsJllAvBYRku"
     },
     {
-        "track_name": "Baby (feat. Ashanti & Hamza) - Hamza Remix",
+        "track_name": "Datcha",
         "track_artists": [
-            "Aitch",
-            "Ashanti",
-            "Hamza"
+            "EDGE"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273202254e92311c0570959ed9c",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/3ia2hxHE3xwYFMVAYy1zls"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27354a6cdfbdc7a0e77b99abf75",
+        "track_preview": "https://p.scdn.co/mp3-preview/9ef977526ac19e24f84acf7def92cc9fed86d024?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/4QWC1p4fbVOaABgj0nPP0U"
     },
     {
-        "track_name": "MUSIQUE GROSSE QUANTIT\u00c9",
+        "track_name": "CURRICULUM",
         "track_artists": [
-            "HOUDI"
+            "Ratu$"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273d93ab7dac95ec7322fbc7249",
-        "track_preview": "https://p.scdn.co/mp3-preview/4035a90e4245f9fcde082fe20b91087028ee578e?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/4UQKG1QmJIo6XqUZQxm8cx"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2733dbf8f1f5e480f4673576538",
+        "track_preview": "https://p.scdn.co/mp3-preview/b593c89361bf5e2228d61985fe261b795777c642?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/34gOK5WAskyi2gcJrMljOQ"
     }
 ]
