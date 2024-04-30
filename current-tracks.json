@@ -1,30 +1,33 @@
 [
     {
-        "track_name": "SORCI\u00c8RE",
+        "track_name": "La miss 3",
         "track_artists": [
-            "HOUDI"
+            "Tisco"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273e0949fb221d2d8dbcc3b53d1",
-        "track_preview": "https://p.scdn.co/mp3-preview/aa0c918d0e38f09b87587c15ce9dd9f6236af0c5?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/1iABCTllPwSsVbjddCeHtu"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ff3421853a593d5258279212",
+        "track_preview": "https://p.scdn.co/mp3-preview/f3a868a4a0d878019808e9bcee805777a6ada988?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/40IoMTcApOj5gsP4gRhxlT"
     },
     {
-        "track_name": "A la base",
+        "track_name": "FAUX G",
         "track_artists": [
-            "Nekfeu"
+            "Saboteur",
+            "Deen Burbigo",
+            "Jazzy Bazz",
+            "La F\u00e8ve"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27376370f7e9d19f210360186ca",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/6jsjizOPrKfXCvrvzzXAHb"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273c4072310c81438796905cb8e",
+        "track_preview": "https://p.scdn.co/mp3-preview/4c528fa2cd6adae57de5759fac15e581e3904768?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3t6GTlbWPl2j9iAjj4fdJ6"
     },
     {
-        "track_name": "Raint\u00e9 (feat. Franglish)",
+        "track_name": "Colis (feat. Maes)",
         "track_artists": [
-            "GAULOIS",
-            "Franglish"
+            "Larry",
+            "Maes"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2733c9df4c3afb30980eec2674e",
-        "track_preview": "https://p.scdn.co/mp3-preview/0352bbcec7e4c86e83edb90a8201bfd0926d14e6?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/03yzfR8s9NA9v8rRalxNiC"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2738f7d0ae1c360e733a63478fa",
+        "track_preview": "https://p.scdn.co/mp3-preview/0877f41bc09451fd0390945d1897110e8185c03a?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/1sVg7wSCOmUzJLqUmxOvj9"
     }
 ]
