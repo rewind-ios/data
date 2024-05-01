@@ -1,33 +1,32 @@
 [
     {
-        "track_name": "La miss 3",
+        "track_name": "Chily Sauce (feat. Hamza)",
         "track_artists": [
-            "Tisco"
+            "Chily",
+            "Hamza"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ff3421853a593d5258279212",
-        "track_preview": "https://p.scdn.co/mp3-preview/f3a868a4a0d878019808e9bcee805777a6ada988?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/40IoMTcApOj5gsP4gRhxlT"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b914a6286bc39e2bf9070b74",
+        "track_preview": "https://p.scdn.co/mp3-preview/0f5db4d60cfb50553b1837ecff0e1d6e157eb944?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/4tPPGQeY3axryB9wQfzHBr"
     },
     {
-        "track_name": "FAUX G",
+        "track_name": "SANG FROID",
         "track_artists": [
-            "Saboteur",
-            "Deen Burbigo",
-            "Jazzy Bazz",
-            "La F\u00e8ve"
+            "Sneazzy",
+            "Laylow"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273c4072310c81438796905cb8e",
-        "track_preview": "https://p.scdn.co/mp3-preview/4c528fa2cd6adae57de5759fac15e581e3904768?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/3t6GTlbWPl2j9iAjj4fdJ6"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27366b88645240f7b384258b5cb",
+        "track_preview": "https://p.scdn.co/mp3-preview/e85f49432c05aaab4d5abcbc20f0f41034fe7571?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/00y6yHW6kv07HqWmodzjGb"
     },
     {
-        "track_name": "Colis (feat. Maes)",
+        "track_name": "Les \u00e9toiles",
         "track_artists": [
-            "Larry",
-            "Maes"
+            "Yaro",
+            "Ninho"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2738f7d0ae1c360e733a63478fa",
-        "track_preview": "https://p.scdn.co/mp3-preview/0877f41bc09451fd0390945d1897110e8185c03a?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/1sVg7wSCOmUzJLqUmxOvj9"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273668b9088d6e6c7365562eab9",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/4F10RydcVQEZ34Dj4JAf3U"
     }
 ]
