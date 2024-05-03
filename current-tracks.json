@@ -1,30 +1,31 @@
 [
     {
-        "track_name": "w",
+        "track_name": "Appel en absence",
         "track_artists": [
-            "Wallace Cleaver"
+            "Slkrack",
+            "EDGE"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b566cb21e7b0068c0aed9b11",
-        "track_preview": "https://p.scdn.co/mp3-preview/474d73383cffd0b1a57c2dce02d05fd3de157e9f?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6JpC92F8mIoThMSBPxq5Hq"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273c762b902f3fbb81cc38843eb",
+        "track_preview": "https://p.scdn.co/mp3-preview/642b2f18c8db34f8a22ad3019423eaa3c2147854?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3R9eWc9VowAW2F7zNKV5CF"
     },
     {
-        "track_name": "Waze (feat. Enfantdepauvres)",
+        "track_name": "La fragrance",
         "track_artists": [
-            "EDGE",
-            "Enfantdepauvres"
+            "Mister You",
+            "S.Pri Noir"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27354a6cdfbdc7a0e77b99abf75",
-        "track_preview": "https://p.scdn.co/mp3-preview/7d9a9820f71cbb29cc09febda561a8fea90bb36e?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6fuWdF41l8dPZbRSvFH8iD"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273655cda21d44dd5b366b6c558",
+        "track_preview": "https://p.scdn.co/mp3-preview/1bbd5b466c08db59c553fa472a2ee91df05e4c67?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3ndZoC20JjgLOd4X3lcKCt"
     },
     {
-        "track_name": "Coeur, Conscience",
+        "track_name": "Fum\u00e9e",
         "track_artists": [
-            "Jazzy Bazz"
+            "Sheldon"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27342f98f4eab8b0b38a4877831",
-        "track_preview": "https://p.scdn.co/mp3-preview/44f0afb2eaca9b7fb06ff99988bca78973c45262?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6cD3CxmcLveyHsQoqVCfFn"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2730711dfec4f0f1e678acda737",
+        "track_preview": "https://p.scdn.co/mp3-preview/863bc6564f19aef0bd6dac149ced811ae9571eb8?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/53I0y84nNMIbo0ZMayBMIP"
     }
 ]
