@@ -1,30 +1,34 @@
 [
     {
-        "track_name": "100",
+        "track_name": "PAS NORMAL",
         "track_artists": [
-            "HOUDI",
-            "Guy2Bezbar"
+            "Stony Stone",
+            "HOUDI"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ab923937f4bcbedbdd4136ef",
-        "track_preview": "https://p.scdn.co/mp3-preview/0b944cd6653137e482d2cf9b5a6dfcc4f7bcaf73?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/2ejejLrNJxjI9B7AWztqho"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273da224d346a4364f17b09a1e3",
+        "track_preview": "https://p.scdn.co/mp3-preview/ffedf4eba434e1b456277e4dfb5ccbb3e382a32c?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3TBVuDY9vTb1StSwgB0SYL"
     },
     {
-        "track_name": "Mac Nulty",
+        "track_name": "CAC 40",
         "track_artists": [
-            "Lesram"
+            "Saboteur",
+            "Ratu$",
+            "Alpha Wann",
+            "VEUST"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273947c0eddb9b875fd0bb018a8",
-        "track_preview": "https://p.scdn.co/mp3-preview/b4c635ee03aa243fe10c2293322ea08838ac8f31?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/37mnxlJ0SAhyHmAAsGI2X7"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273c4072310c81438796905cb8e",
+        "track_preview": "https://p.scdn.co/mp3-preview/f1970382a125563029ade696320e866dc9ff839e?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/7tsUfEztAEPjxjGfWciO4e"
     },
     {
-        "track_name": "Fondu",
+        "track_name": "Fast Learner",
         "track_artists": [
-            "Diddi Trix"
+            "Mairo",
+            "H JeuneCrack"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ff32827efb25248cd37819e1",
-        "track_preview": "https://p.scdn.co/mp3-preview/5273f5902bd1150cac96198792e4991261db3af7?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6lspWHno5rtaSf12788kxS"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b9403b24eb43cfe293eb3f86",
+        "track_preview": "https://p.scdn.co/mp3-preview/0f3bad4907fbbfe0f2e029db50db22dde839b861?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/6woLe6dqAdDlA3yxmkR4EO"
     }
 ]
