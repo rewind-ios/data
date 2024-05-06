@@ -1,34 +1,33 @@
 [
     {
-        "track_name": "PAS NORMAL",
+        "track_name": "Baby",
         "track_artists": [
-            "Stony Stone",
-            "HOUDI"
+            "HIM$",
+            "EDGE",
+            "YZLA"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273da224d346a4364f17b09a1e3",
-        "track_preview": "https://p.scdn.co/mp3-preview/ffedf4eba434e1b456277e4dfb5ccbb3e382a32c?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/3TBVuDY9vTb1StSwgB0SYL"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2735814129ff0f295032ac9df71",
+        "track_preview": "https://p.scdn.co/mp3-preview/ef19f7d76c92d7d249dbb93d20cf329d0b1ab543?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/718ypMEjvinObhmiVO0ItB"
     },
     {
-        "track_name": "CAC 40",
+        "track_name": "Tornado",
         "track_artists": [
-            "Saboteur",
-            "Ratu$",
-            "Alpha Wann",
-            "VEUST"
+            "Caballero & JeanJass",
+            "Enima",
+            "Limsa d'Aulnay"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273c4072310c81438796905cb8e",
-        "track_preview": "https://p.scdn.co/mp3-preview/f1970382a125563029ade696320e866dc9ff839e?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/7tsUfEztAEPjxjGfWciO4e"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ec5209db2595d168861cb316",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/0ddzN7uIQupcq4qUd8fOoC"
     },
     {
-        "track_name": "Fast Learner",
+        "track_name": "SATIVA",
         "track_artists": [
-            "Mairo",
-            "H JeuneCrack"
+            "Yvnnis"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b9403b24eb43cfe293eb3f86",
-        "track_preview": "https://p.scdn.co/mp3-preview/0f3bad4907fbbfe0f2e029db50db22dde839b861?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6woLe6dqAdDlA3yxmkR4EO"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27334d5f11a745466488fdb08ce",
+        "track_preview": "https://p.scdn.co/mp3-preview/cc21880787cf32cb9ae13c9383c71c28cd756013?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/2qqXlBPzplDTtKUvbwQ3AI"
     }
 ]
