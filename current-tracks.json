@@ -1,33 +1,29 @@
 [
     {
-        "track_name": "Baby",
+        "track_name": "Hydroponie",
         "track_artists": [
-            "HIM$",
-            "EDGE",
-            "YZLA"
+            "Alpha Wann"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2735814129ff0f295032ac9df71",
-        "track_preview": "https://p.scdn.co/mp3-preview/ef19f7d76c92d7d249dbb93d20cf329d0b1ab543?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/718ypMEjvinObhmiVO0ItB"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273048a9023975d0995f0f87910",
+        "track_preview": "https://p.scdn.co/mp3-preview/e07cd86a5fb320d77c8952d1059b654b4cb63320?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/23GkrLVDPViaZM6GHgNIo1"
     },
     {
-        "track_name": "Tornado",
+        "track_name": "Rari",
         "track_artists": [
-            "Caballero & JeanJass",
-            "Enima",
-            "Limsa d'Aulnay"
+            "Gradur"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ec5209db2595d168861cb316",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2738320af5749259913564098be",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/0ddzN7uIQupcq4qUd8fOoC"
+        "track_url": "https://open.spotify.com/track/24UpsIBzHloZfiimVLUUFx"
     },
     {
-        "track_name": "SATIVA",
+        "track_name": "Diamant",
         "track_artists": [
-            "Yvnnis"
+            "sean"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27334d5f11a745466488fdb08ce",
-        "track_preview": "https://p.scdn.co/mp3-preview/cc21880787cf32cb9ae13c9383c71c28cd756013?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/2qqXlBPzplDTtKUvbwQ3AI"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2734a15f76b6fac47fcf47fd8f4",
+        "track_preview": "https://p.scdn.co/mp3-preview/fcbd371c38dd22437b55ec90c5322ab0649ef0db?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/57x1e7gNpUhSaDjjRMfDx4"
     }
 ]
