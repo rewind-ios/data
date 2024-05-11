@@ -1,32 +1,31 @@
 [
     {
-        "track_name": "Laisse moi te dire",
+        "track_name": "Go",
         "track_artists": [
-            "No Limit",
-            "Tayc",
-            "Hamza"
+            "Franglish"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ebc5ecc01cb262a62edea514",
-        "track_preview": "https://p.scdn.co/mp3-preview/81af1359dcf9db797655f01b0fac9bcfeb09bd5d?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/7dq6t0RK55zKi6CRsbnMJT"
-    },
-    {
-        "track_name": "QUINCY PROMES",
-        "track_artists": [
-            "Zeu"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27325c8e8a1d4060346d093a549",
-        "track_preview": "https://p.scdn.co/mp3-preview/60770e9857ead3c915962ca66bfe03740905c594?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/5eWQswVWgfYjAj9yBy2mq8"
-    },
-    {
-        "track_name": "Tha\u00eflande",
-        "track_artists": [
-            "Dosseh",
-            "Bramsito"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273cc535dd4d4e7611c005689b6",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273066240c7aac4f0e4eafd854d",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/1FkKaz2v65DsN4WlGsgoqu"
+        "track_url": "https://open.spotify.com/track/5IH8jei0Iw74eWn1pni6s3"
+    },
+    {
+        "track_name": "Haze (feat. Chily)",
+        "track_artists": [
+            "Luv Resval",
+            "Chily"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273338f06061282157400b1f76e",
+        "track_preview": "https://p.scdn.co/mp3-preview/fc0490fdd9da7c62ab5929effbf6965aa5f7a083?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3K2jyPVhfTK1GNO2D1OItz"
+    },
+    {
+        "track_name": "Ma folie",
+        "track_artists": [
+            "Keuchei",
+            "Genezio"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273034e8485893e61d8f3879a4b",
+        "track_preview": "https://p.scdn.co/mp3-preview/acc3580bd173b672a15684c8e35c13a0a99549d7?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/6A7u3KyX4F0aPcwnisBVOw"
     }
 ]
