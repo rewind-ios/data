@@ -1,30 +1,31 @@
 [
     {
-        "track_name": "SORCI\u00c8RE",
+        "track_name": "Likolo (feat. Ninho)",
         "track_artists": [
-            "HOUDI"
+            "Fally Ipupa",
+            "Ninho"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273e0949fb221d2d8dbcc3b53d1",
-        "track_preview": "https://p.scdn.co/mp3-preview/aa0c918d0e38f09b87587c15ce9dd9f6236af0c5?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/1iABCTllPwSsVbjddCeHtu"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27383ccbfe324f898e6b641468f",
+        "track_preview": "https://p.scdn.co/mp3-preview/715c875f664ca6c1696ddddd4ea8cff84b9c415b?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/7kGG67A0QDHqcrhLFvvOZX"
     },
     {
-        "track_name": "Pas de Remords",
+        "track_name": "Marquises",
         "track_artists": [
+            "Disiz",
             "Hamza"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273377ecc10e28ccafdf6893101",
-        "track_preview": "https://p.scdn.co/mp3-preview/046065ca6bb8416e5a776c38c31a19b7bf3c0196?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/1UkNzPB9lU2CHfPURHbdfD"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27312c59264bf24b263b27b8dc7",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/7uhOHjjFNQgXindOHCve08"
     },
     {
-        "track_name": "JOUEURS DE SEX",
+        "track_name": "Bon app\u00e9tit",
         "track_artists": [
-            "Gemen",
-            "HOUDI"
+            "Caballero & JeanJass"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273edc598e4c9198f4c81290a44",
-        "track_preview": "https://p.scdn.co/mp3-preview/b27c34789e2f1770714fd827bf9e6e2ed3dc395c?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6TqedkssTx6kT29vNs7VVk"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27314071ed01fb7ba62709e06fb",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/57gcNReOU7Fk5y7moG3bCp"
     }
 ]
