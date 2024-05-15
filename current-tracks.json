@@ -1,30 +1,33 @@
 [
     {
-        "track_name": "Mac Nulty",
+        "track_name": "CADDIE",
         "track_artists": [
-            "Lesram"
+            "Saboteur",
+            "Eff Gee",
+            "Infinit'",
+            "Esso Luxueux"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273947c0eddb9b875fd0bb018a8",
-        "track_preview": "https://p.scdn.co/mp3-preview/b4c635ee03aa243fe10c2293322ea08838ac8f31?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/37mnxlJ0SAhyHmAAsGI2X7"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273c4072310c81438796905cb8e",
+        "track_preview": "https://p.scdn.co/mp3-preview/c8f54f95a016d0944e9b3c121d69afee21e686f4?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/717a13yfg4ODJ7xJzaVlRY"
     },
     {
-        "track_name": "Mental",
+        "track_name": "Chily Sauce (feat. Hamza)",
         "track_artists": [
-            "Jazzy Bazz",
-            "robdbloc"
+            "Chily",
+            "Hamza"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27342f98f4eab8b0b38a4877831",
-        "track_preview": "https://p.scdn.co/mp3-preview/a4e0d7a5c0075ee5d6f7f9b096612699c6c6967d?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/2jNOKdBdO34jpT8rEQtqiF"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b914a6286bc39e2bf9070b74",
+        "track_preview": "https://p.scdn.co/mp3-preview/0f5db4d60cfb50553b1837ecff0e1d6e157eb944?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/4tPPGQeY3axryB9wQfzHBr"
     },
     {
-        "track_name": "N'oublie pas",
+        "track_name": "Vu d'en haut",
         "track_artists": [
-            "S-Crew"
+            "EDGE"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273494a339a3667b890e80ac98f",
-        "track_preview": "https://p.scdn.co/mp3-preview/3a1e64c374a1f39a7a74fd053433d141ac37120b?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/7M2kjdidDi0A2E4Knabggt"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273399d3d48ed698b700ad2ba71",
+        "track_preview": "https://p.scdn.co/mp3-preview/31622a0da0efbb2fcb46755b29ef49beca34a7b6?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3I61jVUkATxMP57o54QZNN"
     }
 ]
