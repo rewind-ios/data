@@ -1,30 +1,33 @@
 [
     {
-        "track_name": "Nakamura - Bonus track",
+        "track_name": "baume",
         "track_artists": [
-            "Jok'air"
+            "Sublime",
+            "Rounhaa",
+            "Luther",
+            "LUCASV"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273d0b3a5bdf5dfe5bde5ca56a2",
-        "track_preview": "https://p.scdn.co/mp3-preview/626a6e5144c592070f05972d4352ee9e3f16cd02?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/4SpUJ2pZ9NqMDWLU4IZZTl"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273d7bd5a06268bff6929a7055d",
+        "track_preview": "https://p.scdn.co/mp3-preview/8e7a4ba331dca3fd0e6e4e5b2f0226b72cd5ed0c?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/2Bj1aOo1mosWTWHAx0qBgL"
     },
     {
-        "track_name": "JEUNE MATRIX\u00c9",
+        "track_name": "Cuba",
         "track_artists": [
-            "HOUDI"
+            "Hamza"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273e5968b186ca0926b5984c574",
-        "track_preview": "https://p.scdn.co/mp3-preview/dd2b0b22eb0e10bfe502a689dd8aa58b87d1d5da?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/4kxqDgQOpjCCXJ9oyl3IWC"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273a14e38b1dc2396c8e170e577",
+        "track_preview": "https://p.scdn.co/mp3-preview/68dc454fe96d42f090ff839ce95fd9c15d31167f?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/6RF8VQGR4gFyUV5jTNmcqE"
     },
     {
-        "track_name": "MAUVAIS 2X (feat. Ninho)",
+        "track_name": "Type plante",
         "track_artists": [
-            "Gazo",
-            "Ninho"
+            "Caballero & JeanJass",
+            "Savage Toddy"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273765b01901c10003211f8554d",
-        "track_preview": "https://p.scdn.co/mp3-preview/5ba3f0a3ad177287e3474dab5877b320428c3c98?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6eyMCE0yqY4XYI8ZUZf9Wk"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ec5209db2595d168861cb316",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/30sYR8fyHG26N8jVXEJQQJ"
     }
 ]
