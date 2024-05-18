@@ -1,33 +1,30 @@
 [
     {
-        "track_name": "baume",
+        "track_name": "MACRO",
         "track_artists": [
-            "Sublime",
-            "Rounhaa",
-            "Luther",
-            "LUCASV"
+            "Alpha Wann"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273d7bd5a06268bff6929a7055d",
-        "track_preview": "https://p.scdn.co/mp3-preview/8e7a4ba331dca3fd0e6e4e5b2f0226b72cd5ed0c?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/2Bj1aOo1mosWTWHAx0qBgL"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273842b2c6c258fbaa254ff3b2c",
+        "track_preview": "https://p.scdn.co/mp3-preview/bbb7d38891ff42fc8ace7a0ba592af9ca2c4c40c?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/6avh3l1rzaIKTYT4hIt3gR"
     },
     {
-        "track_name": "Cuba",
+        "track_name": "Fire",
         "track_artists": [
-            "Hamza"
+            "Harley",
+            "OBOY"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273a14e38b1dc2396c8e170e577",
-        "track_preview": "https://p.scdn.co/mp3-preview/68dc454fe96d42f090ff839ce95fd9c15d31167f?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6RF8VQGR4gFyUV5jTNmcqE"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273428cda3ca4c1596f71d44db1",
+        "track_preview": "https://p.scdn.co/mp3-preview/d07b8b1f1643ba9471cc0ec309d1375d9518add0?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/4aslKALI3CmxZSOnbq1MqV"
     },
     {
-        "track_name": "Type plante",
+        "track_name": "0 Kelvin",
         "track_artists": [
-            "Caballero & JeanJass",
-            "Savage Toddy"
+            "robdbloc"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ec5209db2595d168861cb316",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/30sYR8fyHG26N8jVXEJQQJ"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2732caa2c212b4fed4c010c0072",
+        "track_preview": "https://p.scdn.co/mp3-preview/53396a983dea7b68fcf865c69902a69fdaafc6cb?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/7nVUZzMQ9H6snMXDMbtcaP"
     }
 ]
