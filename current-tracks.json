@@ -1,30 +1,32 @@
 [
     {
-        "track_name": "MACRO",
+        "track_name": "Point d'interrogation",
         "track_artists": [
+            "Nekfeu",
             "Alpha Wann"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273842b2c6c258fbaa254ff3b2c",
-        "track_preview": "https://p.scdn.co/mp3-preview/bbb7d38891ff42fc8ace7a0ba592af9ca2c4c40c?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6avh3l1rzaIKTYT4hIt3gR"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2736ac7a439b043411a368f1a56",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/7K1N8TobxyUMkfWNe75kfP"
     },
     {
-        "track_name": "Fire",
+        "track_name": "Me parle pas d'\u00e2ge",
         "track_artists": [
-            "Harley",
-            "OBOY"
+            "DJ Babs",
+            "Franglish"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273428cda3ca4c1596f71d44db1",
-        "track_preview": "https://p.scdn.co/mp3-preview/d07b8b1f1643ba9471cc0ec309d1375d9518add0?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/4aslKALI3CmxZSOnbq1MqV"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273d8ea3ac78f8470e4a12f4e00",
+        "track_preview": "https://p.scdn.co/mp3-preview/fd8f8f9de8095e3d1f311b2333cdb419b8429ccd?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/0VDA13MWSgUUV4Vz1PZRyb"
     },
     {
-        "track_name": "0 Kelvin",
+        "track_name": "Mental",
         "track_artists": [
+            "Jazzy Bazz",
             "robdbloc"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2732caa2c212b4fed4c010c0072",
-        "track_preview": "https://p.scdn.co/mp3-preview/53396a983dea7b68fcf865c69902a69fdaafc6cb?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/7nVUZzMQ9H6snMXDMbtcaP"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27342f98f4eab8b0b38a4877831",
+        "track_preview": "https://p.scdn.co/mp3-preview/a4e0d7a5c0075ee5d6f7f9b096612699c6c6967d?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/2jNOKdBdO34jpT8rEQtqiF"
     }
 ]
