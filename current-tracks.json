@@ -1,30 +1,31 @@
 [
     {
-        "track_name": "SORCI\u00c8RE",
+        "track_name": "Lex Luthor",
         "track_artists": [
-            "HOUDI"
+            "NeS",
+            "Luther"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273e0949fb221d2d8dbcc3b53d1",
-        "track_preview": "https://p.scdn.co/mp3-preview/aa0c918d0e38f09b87587c15ce9dd9f6236af0c5?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/1iABCTllPwSsVbjddCeHtu"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f7f5db6ff8d4c86a64abb66b",
+        "track_preview": "https://p.scdn.co/mp3-preview/017725a5fa68bd9537271b5d2d60afb954f95fff?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/1INzmCkygHDbpX9detM2mh"
     },
     {
-        "track_name": ".FUMEE.\u00c9PAISSE.",
+        "track_name": "Sur paname",
         "track_artists": [
-            "Kobo",
-            "Damso"
+            "Ninho"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273cc3f46757a5ad6e23412b8da",
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2735097b9a3b4034fe0f61f8ab9",
+        "track_preview": "https://p.scdn.co/mp3-preview/5d463e8e463874dd9e2a3ae8b674b1bd790c20ad?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/6yEyXUuKsHa2byKddTnA6r"
+    },
+    {
+        "track_name": "BLH",
+        "track_artists": [
+            "Gradur",
+            "Ninho"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2738320af5749259913564098be",
         "track_preview": "",
-        "track_url": "https://open.spotify.com/track/3ito6F0uTgkWADZNtoPji2"
-    },
-    {
-        "track_name": "LANGAGE CRYPT\u00c9",
-        "track_artists": [
-            "Alpha Wann"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273842b2c6c258fbaa254ff3b2c",
-        "track_preview": "https://p.scdn.co/mp3-preview/afeade5fd8f1e9927bd8bbe82fafc07ee44c594b?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6YpjmUqB3x1y3dduXS5M87"
+        "track_url": "https://open.spotify.com/track/6CfGQzfXt10xyTt6QYKueh"
     }
 ]
