@@ -1,12 +1,13 @@
 [
     {
-        "track_name": "444 nuits",
+        "track_name": "Plan (feat. Alpha Wann)",
         "track_artists": [
-            "N\u00e9pal"
+            "Prince Waly",
+            "Alpha Wann"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273dfb3f3ea8b3894c6e4633c14",
-        "track_preview": "https://p.scdn.co/mp3-preview/cf8755a00d66f6640fc2e32cb42a720b324ae1ed?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/4S7jeThzfuYnt0SkzqlJzn"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273050ed60199bfbbb99ed530b9",
+        "track_preview": "https://p.scdn.co/mp3-preview/becf2254ee7d905745f6422d19abd66678a46b1b?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/4PPXE5cPYDgVHl7L8HBPXo"
     },
     {
         "track_name": "Fl\u00fbte de pan",
@@ -18,12 +19,13 @@
         "track_url": "https://open.spotify.com/track/22PnLGUuJWCmIbgfOsd63Y"
     },
     {
-        "track_name": "Compliqu\u00e9",
+        "track_name": "Don\u2019t Tell (feat. Headie One)",
         "track_artists": [
-            "EDGE"
+            "Hamza",
+            "Headie One"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273399d3d48ed698b700ad2ba71",
-        "track_preview": "https://p.scdn.co/mp3-preview/c0dde99ec39ab4aaf1d7e8fb7c533393949a9ea1?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/3CjRUDRlBMeRPL9xKwhmmK"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27367c883da80c8b6fe9b5e2671",
+        "track_preview": "https://p.scdn.co/mp3-preview/8a4f602ca866cd2ae0b0037f742eb724ee4ac4c5?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/1DcMWQ5AtAACPLOnxU8yu6"
     }
 ]
