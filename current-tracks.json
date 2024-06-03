@@ -1,31 +1,31 @@
 [
     {
-        "track_name": "Plan (feat. Alpha Wann)",
+        "track_name": "Lex Luthor",
         "track_artists": [
-            "Prince Waly",
+            "NeS",
+            "Luther"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f7f5db6ff8d4c86a64abb66b",
+        "track_preview": "https://p.scdn.co/mp3-preview/017725a5fa68bd9537271b5d2d60afb954f95fff?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/1INzmCkygHDbpX9detM2mh"
+    },
+    {
+        "track_name": "7/7",
+        "track_artists": [
+            "EDGE",
+            "Ratu$"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2733fe09aaa46e497fb24ea59ba",
+        "track_preview": "https://p.scdn.co/mp3-preview/5f8a78ae9afdb701395532b02e31342d9dfc0f46?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/2NzDYykip9eQTi6Xyu83DX"
+    },
+    {
+        "track_name": "FLAMME OLYMPIQUE",
+        "track_artists": [
             "Alpha Wann"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273050ed60199bfbbb99ed530b9",
-        "track_preview": "https://p.scdn.co/mp3-preview/becf2254ee7d905745f6422d19abd66678a46b1b?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/4PPXE5cPYDgVHl7L8HBPXo"
-    },
-    {
-        "track_name": "Fl\u00fbte de pan",
-        "track_artists": [
-            "Luv Resval"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273338f06061282157400b1f76e",
-        "track_preview": "https://p.scdn.co/mp3-preview/0666b2eb2ee591d3a6524d6c26343de7585e8dc3?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/22PnLGUuJWCmIbgfOsd63Y"
-    },
-    {
-        "track_name": "Don\u2019t Tell (feat. Headie One)",
-        "track_artists": [
-            "Hamza",
-            "Headie One"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27367c883da80c8b6fe9b5e2671",
-        "track_preview": "https://p.scdn.co/mp3-preview/8a4f602ca866cd2ae0b0037f742eb724ee4ac4c5?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/1DcMWQ5AtAACPLOnxU8yu6"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273842b2c6c258fbaa254ff3b2c",
+        "track_preview": "https://p.scdn.co/mp3-preview/3637693008fdee458f4af2c61382a808b8f746e4?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/4CRRqxQb7RfpSR53QP1jaO"
     }
 ]
