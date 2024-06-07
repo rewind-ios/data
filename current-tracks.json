@@ -1,30 +1,32 @@
 [
     {
-        "track_name": "Bombarder",
+        "track_name": "Piscine qui d\u00e9borde",
         "track_artists": [
-            "Franglish"
+            "Esso Luxueux",
+            "EDGE"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2737b5d2a1dac967202fd008710",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/5UY949WzUpDGeQ5maBuGQ1"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b5b8f0570a3406a3168e36a0",
+        "track_preview": "https://p.scdn.co/mp3-preview/a05b40302220e26153048d805da82c5a7e0beff2?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3C89VqREnXcEEGeIaTaS28"
     },
     {
-        "track_name": "Taga",
+        "track_name": "Lex Luthor",
         "track_artists": [
-            "Hornet La Frappe"
+            "NeS",
+            "Luther"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27385141f12480a9725b80c1c72",
-        "track_preview": "https://p.scdn.co/mp3-preview/5ba9c94ecf7b911abdede35deab442ae6395c739?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/4LaetMVulXier6VgeK6LtM"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f7f5db6ff8d4c86a64abb66b",
+        "track_preview": "https://p.scdn.co/mp3-preview/017725a5fa68bd9537271b5d2d60afb954f95fff?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/1INzmCkygHDbpX9detM2mh"
     },
     {
-        "track_name": "CASTING",
+        "track_name": "SANG FROID",
         "track_artists": [
-            "EDGE",
-            "Ratu$"
+            "Sneazzy",
+            "Laylow"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2733fe09aaa46e497fb24ea59ba",
-        "track_preview": "https://p.scdn.co/mp3-preview/572aa16c706cead0ee10124e9f6a728727ae76c3?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/2x445JLcE4EabQUiXPXpgp"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27366b88645240f7b384258b5cb",
+        "track_preview": "https://p.scdn.co/mp3-preview/e85f49432c05aaab4d5abcbc20f0f41034fe7571?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/00y6yHW6kv07HqWmodzjGb"
     }
 ]
