@@ -1,32 +1,30 @@
 [
     {
-        "track_name": "Piscine qui d\u00e9borde",
+        "track_name": "Maudit (feat. Hamza)",
         "track_artists": [
-            "Esso Luxueux",
-            "EDGE"
+            "Vald",
+            "Hamza"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b5b8f0570a3406a3168e36a0",
-        "track_preview": "https://p.scdn.co/mp3-preview/a05b40302220e26153048d805da82c5a7e0beff2?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/3C89VqREnXcEEGeIaTaS28"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273d786d5d4d12fe3e33aec8752",
+        "track_preview": "https://p.scdn.co/mp3-preview/1ca928d5c44f43a418837a21c83f26cc628edbbc?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/6MHeQfndkEfQvEoHOpkjgl"
     },
     {
-        "track_name": "Lex Luthor",
+        "track_name": "Probl\u00e8mes du matin",
         "track_artists": [
-            "NeS",
-            "Luther"
+            "Ninho"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f7f5db6ff8d4c86a64abb66b",
-        "track_preview": "https://p.scdn.co/mp3-preview/017725a5fa68bd9537271b5d2d60afb954f95fff?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/1INzmCkygHDbpX9detM2mh"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f5cdcd0491e495a848fb8bb6",
+        "track_preview": "https://p.scdn.co/mp3-preview/088012113a7a1e16fcb26b4a96687ef0ef6fa31d?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/1n4Ud9ZkZY5mA7QfIu53r8"
     },
     {
-        "track_name": "SANG FROID",
+        "track_name": "Flash",
         "track_artists": [
-            "Sneazzy",
-            "Laylow"
+            "Arma Jackson"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27366b88645240f7b384258b5cb",
-        "track_preview": "https://p.scdn.co/mp3-preview/e85f49432c05aaab4d5abcbc20f0f41034fe7571?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/00y6yHW6kv07HqWmodzjGb"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2733a2dce347d16ac7f6d9d1ed3",
+        "track_preview": "https://p.scdn.co/mp3-preview/d6cca5af71741667e32aaafb22c1dac49e714876?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/5hl4CMEwlyMQDgO3sNNw1W"
     }
 ]
