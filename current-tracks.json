@@ -1,30 +1,29 @@
 [
     {
-        "track_name": "Maudit (feat. Hamza)",
+        "track_name": "T'y arrivais pas",
         "track_artists": [
-            "Vald",
-            "Hamza"
+            "Lefa"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273d786d5d4d12fe3e33aec8752",
-        "track_preview": "https://p.scdn.co/mp3-preview/1ca928d5c44f43a418837a21c83f26cc628edbbc?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6MHeQfndkEfQvEoHOpkjgl"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273dcdb206ee5c8b27b3f8254dc",
+        "track_preview": "https://p.scdn.co/mp3-preview/9c252998b8972d011421891c480e35d81ec8cbcb?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/4D7SXxUuOcsi5YXrc954uA"
     },
     {
-        "track_name": "Probl\u00e8mes du matin",
+        "track_name": "A la base",
         "track_artists": [
-            "Ninho"
+            "Nekfeu"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f5cdcd0491e495a848fb8bb6",
-        "track_preview": "https://p.scdn.co/mp3-preview/088012113a7a1e16fcb26b4a96687ef0ef6fa31d?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/1n4Ud9ZkZY5mA7QfIu53r8"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27376370f7e9d19f210360186ca",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/6jsjizOPrKfXCvrvzzXAHb"
     },
     {
-        "track_name": "Flash",
+        "track_name": "100 r\u00eaves",
         "track_artists": [
-            "Arma Jackson"
+            "DTF"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2733a2dce347d16ac7f6d9d1ed3",
-        "track_preview": "https://p.scdn.co/mp3-preview/d6cca5af71741667e32aaafb22c1dac49e714876?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/5hl4CMEwlyMQDgO3sNNw1W"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273ace004626d7e2ae0318563dd",
+        "track_preview": "https://p.scdn.co/mp3-preview/b2db4b4aa3ab7fe5ad7b5ea3fdc32567442c6a29?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/0UXW6ihyeYHfb4jae7QxGl"
     }
 ]
