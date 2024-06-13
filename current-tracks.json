@@ -1,33 +1,30 @@
 [
     {
-        "track_name": "I Got You",
+        "track_name": "Opium",
         "track_artists": [
-            "Headie One",
-            "Hamza"
+            "B.B. Jacques"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27347083a4aec1aac7886f80eee",
-        "track_preview": "https://p.scdn.co/mp3-preview/31d91c4c8c64f6b43bf409b22f3be93abee2471a?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/6WpnnAWeq9FuIF6Amavul8"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b6ac363750ae5a9a6885534f",
+        "track_preview": "https://p.scdn.co/mp3-preview/bf39f92ce17145af4ffb6eb1c07dc90c635237b4?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/1W325J3EXLqppfS7l8kX8g"
     },
     {
-        "track_name": "R8",
+        "track_name": "MILLION",
         "track_artists": [
-            "4.4.2",
-            "Alonzo",
-            "Hamza"
+            "Stony Stone",
+            "HOUDI"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273d10f8d1130208bc7964c5d00",
-        "track_preview": "https://p.scdn.co/mp3-preview/42054e9f3b361b3f4fcba11b02e05066bbf61b01?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/2wknFfHBCpx50a2ghMMJIg"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273da224d346a4364f17b09a1e3",
+        "track_preview": "https://p.scdn.co/mp3-preview/05a7ff5037c6a2edb8cd15ed0188ff91968b6ebf?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/13XCZ4orFEmxN9UoukGyCa"
     },
     {
-        "track_name": "Erotiquement votre",
+        "track_name": "Dis le moi",
         "track_artists": [
-            "Krisy",
-            "Instagram Followers"
+            "Franglish"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b2736b5a1b2d0192008da9c80732",
-        "track_preview": "https://p.scdn.co/mp3-preview/c70a468e9eded28afc98493e9b85c6e1e8f372e6?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/1v8rbwWMe5hNwOWtzNXSpV"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b27376b6a3de8aa76d5f1cbe7924",
+        "track_preview": "",
+        "track_url": "https://open.spotify.com/track/6TY75Su4BVybhgH0206bln"
     }
 ]
