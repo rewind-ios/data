@@ -1,30 +1,31 @@
 [
     {
-        "track_name": "Opium",
+        "track_name": "TOMB\u00c9 DU CIEL (Giovanni x PushK x HOUDI) - COOTB vol.2",
         "track_artists": [
-            "B.B. Jacques"
-        ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b6ac363750ae5a9a6885534f",
-        "track_preview": "https://p.scdn.co/mp3-preview/bf39f92ce17145af4ffb6eb1c07dc90c635237b4?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/1W325J3EXLqppfS7l8kX8g"
-    },
-    {
-        "track_name": "MILLION",
-        "track_artists": [
-            "Stony Stone",
+            "Label Blue Sky",
             "HOUDI"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273da224d346a4364f17b09a1e3",
-        "track_preview": "https://p.scdn.co/mp3-preview/05a7ff5037c6a2edb8cd15ed0188ff91968b6ebf?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/13XCZ4orFEmxN9UoukGyCa"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2737557486170b6b77e8a13c682",
+        "track_preview": "https://p.scdn.co/mp3-preview/7d58391dd0c919821a23428f8814878554edcaf4?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/6lOz87WD9FhPP6kAa5Z1qE"
     },
     {
-        "track_name": "Dis le moi",
+        "track_name": "Fum\u00e9e",
         "track_artists": [
-            "Franglish"
+            "Sheldon"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27376b6a3de8aa76d5f1cbe7924",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/6TY75Su4BVybhgH0206bln"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2730711dfec4f0f1e678acda737",
+        "track_preview": "https://p.scdn.co/mp3-preview/863bc6564f19aef0bd6dac149ced811ae9571eb8?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/53I0y84nNMIbo0ZMayBMIP"
+    },
+    {
+        "track_name": "Laisse moi (feat. Hamza)",
+        "track_artists": [
+            "Lous and The Yakuza",
+            "Hamza"
+        ],
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2736a1950afcffaa076fc4905a5",
+        "track_preview": "https://p.scdn.co/mp3-preview/cff3a2b9f804aab18c1c26035a439ac8d67dac30?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/7vNC9o1onqyp0PvypOZ4Yj"
     }
 ]
