@@ -1,30 +1,31 @@
 [
     {
-        "track_name": "FICHU",
+        "track_name": "San Pellegrino",
         "track_artists": [
-            "Deen Burbigo"
+            "Chily"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273f137fe7ba328ec4a9620923b",
-        "track_preview": "https://p.scdn.co/mp3-preview/701dce6cb0defa2c1a28735b44989190de92bb6d?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/5slMZv8QGs9Y2uk8s05CYd"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273b914a6286bc39e2bf9070b74",
+        "track_preview": "https://p.scdn.co/mp3-preview/4364aa43505987f7cfe33e5a48e15e90edd7aa94?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/5jfvG5UhPE92bhwyJgbKYl"
     },
     {
-        "track_name": "Dis le moi",
+        "track_name": "AQUA",
         "track_artists": [
-            "Franglish"
+            "Stony Stone",
+            "HOUDI"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b27376b6a3de8aa76d5f1cbe7924",
-        "track_preview": "",
-        "track_url": "https://open.spotify.com/track/6TY75Su4BVybhgH0206bln"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b2731c2da0efc4f9a08bcb0dd8b8",
+        "track_preview": "https://p.scdn.co/mp3-preview/8f5ad297f31ae58ec043f4bdbeef15452879e4e8?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/1kzlx72i9Qd29MdqJwJPyQ"
     },
     {
-        "track_name": "Love Break",
+        "track_name": "Appel en absence",
         "track_artists": [
-            "The Magician",
-            "Hamza"
+            "Slkrack",
+            "EDGE"
         ],
-        "track_cover": "https://i.scdn.co/image/ab67616d0000b273a6191850ed073794662fba43",
-        "track_preview": "https://p.scdn.co/mp3-preview/9c971ceee765f99261d2bfc066d00d7f9e616c89?cid=bf21f31fb512401e902a9bc1cf03ffd3",
-        "track_url": "https://open.spotify.com/track/1lujZsdHy71lGfZkXWDnEH"
+        "track_cover": "https://i.scdn.co/image/ab67616d0000b273c762b902f3fbb81cc38843eb",
+        "track_preview": "https://p.scdn.co/mp3-preview/642b2f18c8db34f8a22ad3019423eaa3c2147854?cid=bf21f31fb512401e902a9bc1cf03ffd3",
+        "track_url": "https://open.spotify.com/track/3R9eWc9VowAW2F7zNKV5CF"
     }
 ]
